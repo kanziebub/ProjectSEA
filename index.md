@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Home
+# ER Project:SEA
 
 This is the official page for South-East Asia Eternal Return tournaments.
+
+![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_Logo.png)
 
 ## Tourney Rules
 
@@ -13,3 +15,6 @@ General rules regarding the tournament can be accessed from the following page: 
 ## Tournaments
 
 ER Project:SEA S1
+- [Registered Teams](./season/01/teams.md)
+- [Qualifiers Leaderboard](./season/01/qualifiers.md)
+- [Finals Leaderboard](./season/01/finals.md)

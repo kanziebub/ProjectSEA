@@ -10,7 +10,8 @@ This is the official page for South-East Asia Eternal Return tournaments.
 
 ## Tourney Rules
 
-General rules regarding the tournament can be accessed from the following page: [Rulebook](./rulebook.html)
+General rules regarding the tournament can be accessed from the following page: 
+[![Rulebook](https://kanziebub.github.io/ProjectSEA/assets/images/rulebook.png)](./rulebook.html)
 
 ## Tournaments
 

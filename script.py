@@ -56,14 +56,16 @@ def get_header():
 layout: default
 ---
 
-[< Home](https://kanziebub.github.io/SurvivalProtocol/)
+
+[ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
 """
     return head
     
 def get_footer():
     home = """
-[< Home](https://kanziebub.github.io/SurvivalProtocol/)
+
+[ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
     """
     return home
 

@@ -2,37 +2,103 @@
 layout: default
 ---
 
-![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
-[Home](https://kanziebub.github.io/ProjectSEA/)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
+
 
 # **Leaderboard**
 
 ### Games Played = 0
 
-|  Rank  | **Team Name**         | Total Kill | **Points** |
+|  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** |                       |            |            |
-| #**2** |                       |            |            |
-| #**3** |                       |            |            |
-| #**4** |                       |            |            |
-| #**5** |                       |            |            |
-| #**6** |                       |            |            |
-| #**7** |                       |            |            |
-| #**8** |                       |            |            |
-| #**9** |                       |            |            |
-| #**10** |                       |            |            |
-| #**11** |                       |            |            |
-| #**12** |                       |            |            |
-| #**13** |                       |            |            |
-| #**14** |                       |            |            |
-| #**15** |                       |            |            |
-| #**16** |                       |            |            |
+| #**1** | **nan** | 0 | **0** | 
+| #**2** | **nan** | 0 | **0** | 
+| #**3** | **nan** | 0 | **0** | 
+| #**4** | nan | 0 | 0 | 
+| #**5** | nan | 0 | 0 | 
+| #**6** | nan | 0 | 0 | 
+| #**7** | nan | 0 | 0 | 
+| #**8** | nan | 0 | 0 | 
+| #**9** | nan | 0 | 0 | 
+| #**10** | nan | 0 | 0 | 
+| #**11** | nan | 0 | 0 | 
+| #**12** | nan | 0 | 0 | 
+| #**13** | nan | 0 | 0 | 
+| #**14** | nan | 0 | 0 | 
+| #**15** | nan | 0 | 0 | 
+| #**16** | nan | 0 | 0 | 
 
-## Penalty Log
+### Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
+|        |           |         |                       | 
+ 
+ 
 
-![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
-[Home](https://kanziebub.github.io/ProjectSEA/)
+
+
+### Bracket 1
+- Group 1.1
+  - T1
+  - T2
+  - T3
+  - T4
+- Group 1.2
+  - T5
+  - T6
+  - T7
+  - T8
+- Group 1.3
+  - T9
+  - T10
+  - T11
+  - T12
+- Group 1.4
+  - T13
+  - T14
+  - T15
+  - T16
+
+
+```
+- Round 1 
+  - Lobby A: Group 1.1 + Group 1.2
+  - Lobby B: Group 1.3 + Group 1.4
+- Round 2
+  - Lobby A: Group 1.1 + Group 1.3
+  - Lobby B: Group 1.2 + Group 1.4
+- Round 3 
+  - Lobby A: Group 1.1 + Group 1.4
+  - Lobby B: Group 1.2 + Group 1.3
+```
+
+
+### Bracket 2
+- Group 2.1
+  - ???
+  - ???
+  - ???
+  - ???
+- Group 2.2
+  - ???
+  - ???
+  - ???
+  - ???
+- Group 2.3
+  - ???
+  - ???
+  - ???
+  - ???
+
+
+```
+- Round 1: Group 2.1 + Group 2.2
+- Round 2: Group 2.2 + Group 2.3
+- Round 3: Group 2.1 + Group 2.3
+```
+
+
+
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
+    

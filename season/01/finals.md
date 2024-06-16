@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[< Home](https://kanziebub.github.io/ProjectSEA/)
+![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
+[Home](https://kanziebub.github.io/ProjectSEA/)
 
 # **Leaderboard**
 
@@ -26,4 +27,5 @@ layout: default
 |:-------|:----------|:--------|:----------------------|
 |        |           |         |                       |
 
-[< Home](https://kanziebub.github.io/ProjectSEA/)
+![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
+[Home](https://kanziebub.github.io/ProjectSEA/)

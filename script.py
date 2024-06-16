@@ -87,8 +87,8 @@ def set_leaderboard_with_cp(df, teams):
     
     # ---------------------------------
     lbtable = """
-|  Rank  | Team Name             | Total Kill | **Points** | Checkpoint |
-|:-------|:----------------------|:-----------|:-----------|:-----------|
+|  Rank  | Team Name             | Total Kill | **Points** | CP |
+|:-------|:----------------------|:-----------|:-----------|:---|
 """
     rows = ""
     for i in range (teams):

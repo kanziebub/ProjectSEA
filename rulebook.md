@@ -26,7 +26,6 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 *   1 Field Kill = 1 Point
 *   Battle Zone Kill = 0 Point
 *   Penalty = -1 Points
-*   *Hostage Holding = -10 Points
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 1 Points will be deducted from that Player’s Round Point total. 
 >

@@ -94,6 +94,12 @@ Unintentional disconnects or crashes occurring during the loading screen or with
 
 If a player experiences an unintentional disconnect during joining to the lobby, but expects to be able to reconnect, they will be given 3 minutes to join the lobby before the match proceeds normally. In any game modes, the game will proceed normally while the disconnected party will have disadvantage of their own risk.
 
+## Multi Pick Ban Rule
+
+This rule restricts any character to be played for the next 2 rounds for all teams. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next two rounds.**.
+
+> If a character is picked after it is restricted, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-3 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
+
 ## Unfair Play
 
 The following behaviors are categorized as unfair play and will be penalized. Players may report another player’s violation of rules if they have proof beyond a reasonable doubt, and a penalty will be determined. The default penalty is a 1-round forfeit if there is no exact penalty specified. All decisions are made at the discretion of the tournament organizers.

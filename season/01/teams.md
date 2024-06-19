@@ -8,7 +8,7 @@ layout: default
 # **ER Project:SEA S1 Registered Teams**
 Registration opens 2024-06-19 13.00 UTC+07
 
-- Team Baru
+- たそがれ
   - Extera
   - Lolzilla
   - Renal

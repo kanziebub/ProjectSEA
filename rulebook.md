@@ -117,8 +117,6 @@ The following behaviors are categorized as unfair play and will be penalized. Pl
 > **Illegal pick**: Players may not pick characters that are restricted, disabled, or banned in official ranked mode. For first offense, the rehost chance of that team will be used to remake the lobby and a -2 points penalty will be given. If repeated, a -10 points penalty will be given which results in disqualification.
 > 
 > **Dying in a restricted area/Quitting**: Dying in the restricted area or quitting the match while alive even if the player is not in combat is strongly discouraged. All points from a player’s death will be given to the player or team that most clearly forced the player’s death to occur. Some situations will be case to case basis so it will be decided by the organizers. 
->
-> **Hostage holding**: Hostage holding is when a player does not end a downed player until day 5 to prevent revival. This scenario will be reviewed by TO case by case.
 
 ## Penalty limit
 

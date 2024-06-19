@@ -43,7 +43,7 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 ## Event Registration
 
 Event registration is processed via Google and joining the discord server.
-All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **Lyfin's Tavern Discord** at the time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
+All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **ER Project:SEA Discord** at the time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
  
 ## Game Client Version
 
@@ -59,7 +59,7 @@ Players are allowed to stream the tournament from their own perspective but must
 
 ## Third-Party Tools
 
-If the organizers recommend the players to use specific third-party tools (Discord, etc) the players should follow the organizers’ decision. All entrants of this Tournament must join the Lyfin Discord Server in order to receive news and communicate with the tournament staff.
+If the organizers recommend the players to use specific third-party tools (Discord, etc) the players should follow the organizers’ decision. All entrants of this Tournament must join the ER Project:SEA Discord Server in order to receive news and communicate with the tournament staff.
 
 ## Account Ownership
 

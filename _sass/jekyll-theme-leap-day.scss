@@ -365,7 +365,7 @@ footer {
   line-height: 16px;
 }
 
-@media print, screen and (max-width: 1060px) {
+@media print, screen, (max-width: 1060px) and (max-height: 775px){
 
   div.wrapper {
     width:auto;

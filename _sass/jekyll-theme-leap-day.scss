@@ -13,7 +13,7 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) $color-background;
+  background: url(../images/body-background.png) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -402,28 +402,16 @@ footer {
 
   #banner {
     width: 100%;
-    max-width: none;
-
-    .banner-inner {
-      float: none;
-      margin: 0 auto;
-      max-width: none;
-    }
 
     .downloads {
         margin-right: 60px;
       }
 
     .fork {
-      left: 50%;
-      position: relative;
-      margin-left: -325px;
     }
 
     #logo {
-      margin-right: 5px;
-      float: right;
-      position: relative;
+      margin-right: 15px;
     }
   }
 
@@ -447,12 +435,11 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap: break-word;
+    word-wrap:break-word;
   }
 
   header {
     padding: 20px 20px;
-    margin: 0;
 
     h1 {
       font-size: 32px;
@@ -473,8 +460,8 @@ footer {
       float: left;
       display: inline-block;
       margin-left: 0px;
-    position: fixed;
-    left: 20px;
+    position:fixed;
+    left:20px;
 
       }
   }

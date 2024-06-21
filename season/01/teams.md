@@ -59,7 +59,7 @@ Registration opens 2024-06-19 13.00 UTC+07
 - **ICLP**
   - PekoMarisa
   - Restifik
-  - Convict
+  - 暁美
   - Jasonjoe123
 - **BanaNutmi**
   - Gomibin
@@ -71,6 +71,11 @@ Registration opens 2024-06-19 13.00 UTC+07
   - Stram11
   - Hopex
   - Graesu
+- **TamGiac**
+  - TamGiac
+  - JohannsJuice
+  - RozziSimp
+  - VisCa243
 
 ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
 [Home](https://kanziebub.github.io/ProjectSEA/)

@@ -501,11 +501,7 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 680px) {
-  nav {
-    max-height: 300px;
-    overflow: hidden;
-  }
+@media print, screen and (max-height: 780px) {
 
   footer {
     text-align: center;

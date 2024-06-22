@@ -239,7 +239,7 @@ def single():
     penalty_placeholder = "|        |           |         |                       | \n"
 
     df = set_df(sheetID, sheetName, 'shuvi')
-    print(df)
+    # print(df)
     leaderboard = ("""
 # **Leaderboard**
 
@@ -290,6 +290,6 @@ def double():
     write_page(target, page_md)
 
 def main():
-    double()
+    single()
 
 main()

@@ -21,7 +21,7 @@ layout: default
 | #**7** | nan | 0 | 0 | False | 
 | #**8** | nan | 0 | 0 | False | 
 
-### Penalty Log
+## Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|

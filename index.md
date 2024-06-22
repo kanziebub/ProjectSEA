@@ -20,3 +20,5 @@ ER Project:SEA S1
 - [Registered Teams](./season/01/teams.md)
 - [Qualifiers Leaderboard](./season/01/qualifiers.md)
 - [Finals Leaderboard](./season/01/finals.md)
+
+![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S1_Banner.png)

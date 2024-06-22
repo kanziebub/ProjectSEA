@@ -155,7 +155,7 @@ def get_data_by_rank(df, rank):
         row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_int(kill))+ " | " +str(check_int(poin))+ " | \n"
     return row
 
-def get_custom_information():
+def get_custom_information_bracket1():
     return (
 """
 \n
@@ -192,6 +192,12 @@ def get_custom_information():
   - Lobby A: Group 1.1 + Group 1.4
   - Lobby B: Group 1.2 + Group 1.3
 ```
+\n
+""")
+
+def get_custom_information_bracket2():
+    return (
+"""
 \n
 ### Bracket 2
 - Group 2.1
@@ -242,44 +248,46 @@ def single():
 
     page_md = (  get_header() 
                + leaderboard
-               + get_custom_information()
+               + get_custom_information_bracket1()
                + get_footer()
                )
     write_page(target, page_md)
     
 def double():
-    target = ""
-    sheetA = ""
-    sheetB = ""
+    target = "./season/01/qualifiers.md"
+    sheetA = "12pQ9xl-9M7xOaBndxB8c8cWKKmNO1ARbesSdr7XhR-0"
+    sheetB = "1qBjW7yDDAU9_Ea9UzL2wWdp64aNjDnTDxj1PUgrCQgE"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
-    df_A = set_df(sheetA, sheetName)
-    df_B = set_df(sheetB, sheetName)
+    df_A = set_df(sheetA, sheetName, 'carrot')
+    df_B = set_df(sheetB, sheetName, 'carrot')
 
     leaderboard_A = ("""
-# **Lobby A Leaderboard**
+# **Qualifier Leaderboard**
 
-""" + set_leaderboard(df_A, 7) 
+""" + set_leaderboard(df_A, 16) 
     + get_penalty_table() 
     + penalty_placeholder
     # + set_penalty("", "", "", "") 
     + " \n \n")
     leaderboard_B = ("""
-# **Lobby B Leaderboard**
+# **Wildcard Leaderboard**
 
-""" + set_leaderboard(df_B, 7) 
+""" + set_leaderboard(df_B, 12) 
     + get_penalty_table() 
-    # + penalty_placeholder 
+    + penalty_placeholder 
     + " \n \n")
 
     page_md = (get_header() 
                + leaderboard_A
+               + get_custom_information_bracket1()
                + leaderboard_B
+               + get_custom_information_bracket2()
                + get_footer())
     write_page(target, page_md)
 
 def main():
-    single()
+    double()
 
 main()

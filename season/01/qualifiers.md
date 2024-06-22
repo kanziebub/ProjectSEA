@@ -6,28 +6,28 @@ layout: default
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
 
-# **Leaderboard**
+# **Qualifier Leaderboard**
 
 ### Games Played = 0
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **nan** | 0 | **0** | 
-| #**2** | **nan** | 0 | **0** | 
-| #**3** | **nan** | 0 | **0** | 
-| #**4** | nan | 0 | 0 | 
-| #**5** | nan | 0 | 0 | 
-| #**6** | nan | 0 | 0 | 
-| #**7** | nan | 0 | 0 | 
-| #**8** | nan | 0 | 0 | 
-| #**9** | nan | 0 | 0 | 
-| #**10** | nan | 0 | 0 | 
-| #**11** | nan | 0 | 0 | 
-| #**12** | nan | 0 | 0 | 
-| #**13** | nan | 0 | 0 | 
-| #**14** | nan | 0 | 0 | 
-| #**15** | nan | 0 | 0 | 
-| #**16** | nan | 0 | 0 | 
+| #**1** | **Tasogare** | 0 | **0** | 
+| #**2** | **WoodVeneer** | 0 | **0** | 
+| #**3** | **Galvanized** | 0 | **0** | 
+| #**4** | CEPU | 0 | 0 | 
+| #**5** | JELEE | 0 | 0 | 
+| #**6** | AllRole | 0 | 0 | 
+| #**7** | Any | 0 | 0 | 
+| #**8** | Eclair | 0 | 0 | 
+| #**9** | Sakau. | 0 | 0 | 
+| #**10** | Mango | 0 | 0 | 
+| #**11** | OneTrick | 0 | 0 | 
+| #**12** | Old People | 0 | 0 | 
+| #**13** | ICLP | 0 | 0 | 
+| #**14** | BanaNutmi | 0 | 0 | 
+| #**15** | WingTomZai | 0 | 0 | 
+| #**16** | TamGiac | 0 | 0 | 
 
 ### Penalty Log
 
@@ -73,6 +73,36 @@ layout: default
   - Lobby A: Group 1.1 + Group 1.4
   - Lobby B: Group 1.2 + Group 1.3
 ```
+
+
+
+# **Wildcard Leaderboard**
+
+### Games Played = 0
+
+|  Rank  | Team Name             | Total Kill | **Points** |
+|:-------|:----------------------|:-----------|:-----------|
+| #**1** | **nan** | 0 | **0** | 
+| #**2** | **nan** | 0 | **0** | 
+| #**3** | **nan** | 0 | **0** | 
+| #**4** | nan | 0 | 0 | 
+| #**5** | nan | 0 | 0 | 
+| #**6** | nan | 0 | 0 | 
+| #**7** | nan | 0 | 0 | 
+| #**8** | nan | 0 | 0 | 
+| #**9** | nan | 0 | 0 | 
+| #**10** | nan | 0 | 0 | 
+| #**11** | nan | 0 | 0 | 
+| #**12** | nan | 0 | 0 | 
+
+### Penalty Log
+
+|  Game  | Team Name | Penalty | Reason                |
+|:-------|:----------|:--------|:----------------------|
+|        |           |         |                       | 
+ 
+ 
+
 
 
 ### Bracket 2

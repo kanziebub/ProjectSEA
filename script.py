@@ -4,8 +4,6 @@ import math
 
 def set_df(id, name, source):
     url = f'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv&sheet={name}'
-    df = pd.read_csv(url, encoding='latin')
-    df = df.iloc[1:19 , 1:9]
 
     columns = {
             'Unnamed: 1':'Rank',
@@ -30,7 +28,12 @@ def set_df(id, name, source):
             }
     
     if (source!='carrot'):
-        columns=col_shuvi
+        columns=col_shuvi        
+        df = pd.read_csv(url, encoding='latin')
+        df = df.iloc[0:8 , 1:6]
+    elif (source=='carrot'):
+        df = pd.read_csv(url, encoding='latin')
+        df = df.iloc[1:19 , 1:9]
 
 
     df.rename(
@@ -80,9 +83,9 @@ def get_penalty_table():
     return penalty
 
 # =====================================================
-def set_leaderboard_with_cp(df, teams):
+def set_leaderboard_with_cp(df, teams, games_played):
     leaderboard_md = ("### Games Played = " 
-                      + str(int(check_int(get_games_played(df)))) 
+                      + str(int(games_played))
                       + "\n")
     
     # ---------------------------------
@@ -102,8 +105,8 @@ def set_leaderboard_with_cp(df, teams):
 
 def get_data_by_rank_with_cp(df, rank):
     team = get_by_rank(df, rank, "Name")
-    kill = get_by_rank(df, rank, "Total Team Kill")
-    poin = get_by_rank(df, rank, "Total Point")
+    kill = get_by_rank(df, rank, "TK")
+    poin = get_by_rank(df, rank, "Point")
     chkp = get_by_rank(df, rank, "Checkpoint")
     row = ""
     if (rank==1 or rank==2 or rank==3):
@@ -230,17 +233,17 @@ def write_page(target, page_md):
         f.write(page_md)
        
 def single():
-    target = "./season/01/qualifiers.md"
-    sheetID = "12pQ9xl-9M7xOaBndxB8c8cWKKmNO1ARbesSdr7XhR-0"
+    target = "./season/01/finals.md"
+    sheetID = "17qoZODoKc7-2OfFtZ7DGDLGpbmZ7GTuWieZW3Ml_9_Q"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
-    df = set_df(sheetID, sheetName, 'carrot')
-    # print(df)
+    df = set_df(sheetID, sheetName, 'shuvi')
+    print(df)
     leaderboard = ("""
 # **Leaderboard**
 
-""" + set_leaderboard(df, 16) 
+""" + set_leaderboard_with_cp(df, 8, 0) 
     + get_penalty_table() 
     + penalty_placeholder
     # + set_penalty("a", "a", "aa", "otp") 
@@ -248,7 +251,6 @@ def single():
 
     page_md = (  get_header() 
                + leaderboard
-               + get_custom_information_bracket1()
                + get_footer()
                )
     write_page(target, page_md)

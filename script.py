@@ -75,7 +75,7 @@ def get_footer():
 def get_penalty_table():
     
     penalty = """
-### Penalty Log
+## Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|

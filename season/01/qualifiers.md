@@ -29,7 +29,7 @@ layout: default
 | #**15** | WingTomZai | 0 | 0 | 
 | #**16** | TamGiac | 0 | 0 | 
 
-## Penalty Log
+## Penalty Log - Qualifiers
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
@@ -95,7 +95,7 @@ layout: default
 | #**11** | nan | 0 | 0 | 
 | #**12** | nan | 0 | 0 | 
 
-## Penalty Log
+## Penalty Log - Wildcard
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|

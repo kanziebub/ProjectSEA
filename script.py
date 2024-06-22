@@ -72,10 +72,10 @@ def get_footer():
     """
     return home
 
-def get_penalty_table():
+def get_penalty_table(header):
     
     penalty = """
-## Penalty Log
+## Penalty Log """ +header+ """
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
@@ -244,7 +244,7 @@ def single():
 # **Leaderboard**
 
 """ + set_leaderboard_with_cp(df, 8, 0) 
-    + get_penalty_table() 
+    + get_penalty_table("") 
     + penalty_placeholder
     # + set_penalty("a", "a", "aa", "otp") 
     + " \n \n")
@@ -269,7 +269,7 @@ def double():
 # **Qualifier Leaderboard**
 
 """ + set_leaderboard(df_A, 16) 
-    + get_penalty_table() 
+    + get_penalty_table("- Qualifiers") 
     + penalty_placeholder
     # + set_penalty("", "", "", "") 
     + " \n \n")
@@ -277,7 +277,7 @@ def double():
 # **Wildcard Leaderboard**
 
 """ + set_leaderboard(df_B, 12) 
-    + get_penalty_table() 
+    + get_penalty_table("- Wildcard") 
     + penalty_placeholder 
     + " \n \n")
 
@@ -290,6 +290,6 @@ def double():
     write_page(target, page_md)
 
 def main():
-    single()
+    double()
 
 main()

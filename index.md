@@ -6,7 +6,7 @@ layout: default
 
 This is the official page for South-East Asia Eternal Return tournaments.
 
-![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_Logo.png)
+![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_Logo_2.png)
 
 ## Rulebook
 

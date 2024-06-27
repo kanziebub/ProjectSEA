@@ -68,7 +68,7 @@ Registration opens 2024-06-19 13.00 UTC+07
   - Gomibin
   - Ybardossa
   - BondagePug
-  - Adansonii
+  - Iz1Senpai
 - **WingTomZai**
   - Nackbkk
   - Stram11

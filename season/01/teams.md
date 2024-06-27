@@ -16,6 +16,7 @@ Registration opens 2024-06-19 13.00 UTC+07
   - Mizyx
   - CEPUーJandaHnter
   - Peposadge
+  - Dice21
 - **Galvanized**
   - Alek
   - Tnsh
@@ -52,10 +53,12 @@ Registration opens 2024-06-19 13.00 UTC+07
   - Solit
   - Sukonbu1
   - AkihiroAka
+  - duckohello
 - **Old People**
   - Luerye
   - LCW
   - Rion34
+  - CharlotteCorset
 - **ICLP**
   - PekoMarisa
   - Restifik

@@ -204,20 +204,20 @@ def get_custom_information_bracket2():
 \n
 ### Wildcard Bracket
 - Group 2.1
-  - ???
-  - ???
-  - ???
-  - ???
+  - JELEE
+  - Sakau.
+  - Tasogare
+  - WoodVeneer
 - Group 2.2
-  - ???
-  - ???
-  - ???
-  - ???
+  - WingTomZai
+  - AllRole
+  - TamGiac
+  - BanaNutmi
 - Group 2.3
-  - ???
-  - ???
-  - ???
-  - ???
+  - Eclair
+  - Mango
+  - OneTrick
+  - Old People
 \n
 ```
 - Round 1: Group 2.1 + Group 2.2

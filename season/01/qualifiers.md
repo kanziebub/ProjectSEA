@@ -82,18 +82,18 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **nan** | 0 | **0** | 
-| #**2** | **nan** | 0 | **0** | 
-| #**3** | **nan** | 0 | **0** | 
-| #**4** | **nan** | 0 | **0** | 
-| #**5** | nan | 0 | 0 | 
-| #**6** | nan | 0 | 0 | 
-| #**7** | nan | 0 | 0 | 
-| #**8** | nan | 0 | 0 | 
-| #**9** | nan | 0 | 0 | 
-| #**10** | nan | 0 | 0 | 
-| #**11** | nan | 0 | 0 | 
-| #**12** | nan | 0 | 0 | 
+| #**1** | **Tasogare** | 0 | **0** | 
+| #**2** | **WoodVeneer** | 0 | **0** | 
+| #**3** | **JELEE** | 0 | **0** | 
+| #**4** | **AllRole** | 0 | **0** | 
+| #**5** | Eclair | 0 | 0 | 
+| #**6** | Sakau. | 0 | 0 | 
+| #**7** | Mango | 0 | 0 | 
+| #**8** | OneTrick | 0 | 0 | 
+| #**9** | Old People | 0 | 0 | 
+| #**10** | BanaNutmi | 0 | 0 | 
+| #**11** | WingTomZai | 0 | 0 | 
+| #**12** | TamGiac | 0 | 0 | 
 
 ## Penalty Log - Wildcard
 
@@ -107,20 +107,20 @@ layout: default
 
 ### Wildcard Bracket
 - Group 2.1
-  - ???
-  - ???
-  - ???
-  - ???
+  - JELEE
+  - Sakau.
+  - Tasogare
+  - WoodVeneer
 - Group 2.2
-  - ???
-  - ???
-  - ???
-  - ???
+  - WingTomZai
+  - AllRole
+  - TamGiac
+  - BanaNutmi
 - Group 2.3
-  - ???
-  - ???
-  - ???
-  - ???
+  - Eclair
+  - Mango
+  - OneTrick
+  - Old People
 
 
 ```

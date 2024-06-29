@@ -8,26 +8,26 @@ layout: default
 
 # **Qualifiers Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **OneTrick** | 11 | **19** | 
-| #**2** | **Galvanized** | 13 | **18** | 
-| #**3** | **ICLP** | 13 | **18** | 
-| #**4** | **Old People** | 12 | **15** | 
-| #**5** | WingTomZai | 5 | 13 | 
-| #**6** | Sakau. | 8 | 11 | 
-| #**7** | Any | 5 | 9 | 
-| #**8** | Mango | 5 | 9 | 
-| #**9** | CEPU | 8 | 8 | 
-| #**10** | WoodVeneer | 7 | 8 | 
-| #**11** | TamGiac | 5 | 7 | 
-| #**12** | BanaNutmi | 5 | 5 | 
-| #**13** | JELEE | 4 | 5 | 
-| #**14** | Tasogare | 3 | 5 | 
-| #**15** | Eclair | 4 | 4 | 
-| #**16** | AllRole | 2 | 2 | 
+| #**1** | **CEPU** | 21 | **29** | 
+| #**2** | **ICLP** | 19 | **29** | 
+| #**3** | **Any** | 15 | **27** | 
+| #**4** | **WoodVeneer** | 20 | **25** | 
+| #**5** | Sakau. | 18 | 24 | 
+| #**6** | Galvanized | 16 | 22 | 
+| #**7** | OneTrick | 12 | 22 | 
+| #**8** | Mango | 15 | 21 | 
+| #**9** | Tasogare | 10 | 17 | 
+| #**10** | WingTomZai | 8 | 16 | 
+| #**11** | Old People | 12 | 15 | 
+| #**12** | BanaNutmi | 9 | 12 | 
+| #**13** | TamGiac | 8 | 11 | 
+| #**14** | Eclair | 4 | 8 | 
+| #**15** | JELEE | 5 | 6 | 
+| #**16** | AllRole | 4 | 4 | 
 
 ## Penalty Log - Qualifiers
 

@@ -78,22 +78,22 @@ layout: default
 
 # **Wildcard Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **JELEE** | 15 | **23** | 
-| #**2** | **TamGiac** | 11 | **16** | 
-| #**3** | **Sakau.** | 9 | **12** | 
-| #**4** | **WoodVeneer** | 4 | **8** | 
-| #**5** | Tasogare | 4 | 4 | 
-| #**6** | BanaNutmi | 3 | 4 | 
-| #**7** | AllRole | 1 | 3 | 
-| #**8** | WingTomZai | 2 | 2 | 
-| #**9** | Eclair | 0 | 0 | 
-| #**10** | Mango | 0 | 0 | 
-| #**11** | OneTrick | 0 | 0 | 
-| #**12** | Old People | 0 | 0 | 
+| #**1** | **TamGiac** | 26 | **33** | 
+| #**2** | **JELEE** | 15 | **23** | 
+| #**3** | **Eclair** | 10 | **18** | 
+| #**4** | **BanaNutmi** | 8 | **14** | 
+| #**5** | WingTomZai | 10 | 13 | 
+| #**6** | Sakau. | 9 | 11 | 
+| #**7** | WoodVeneer | 4 | 8 | 
+| #**8** | Old People | 4 | 8 | 
+| #**9** | AllRole | 4 | 7 | 
+| #**10** | Tasogare | 4 | 4 | 
+| #**11** | Mango | 2 | 2 | 
+| #**12** | OneTrick | 2 | 2 | 
 
 ## Penalty Log - Wildcard
 

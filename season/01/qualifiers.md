@@ -99,7 +99,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       | 
+| W02 | Sakau. | -1 | Onryou Non-Player Death | 
  
  
 

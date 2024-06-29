@@ -278,7 +278,7 @@ def double():
 
 """ + set_leaderboard(df_B, 12) 
     + get_penalty_table("- Wildcard") 
-    + penalty_placeholder 
+    + set_penalty("W02", "Sakau.", "-1", "Onryou Non-Player Death")  
     + " \n \n")
 
     page_md = (get_header() 

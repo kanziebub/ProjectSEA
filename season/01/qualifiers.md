@@ -6,7 +6,7 @@ layout: default
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
 
-# **Qualifier Leaderboard**
+# **Qualifiers Leaderboard**
 
 ### Games Played = 0
 
@@ -15,7 +15,7 @@ layout: default
 | #**1** | **Tasogare** | 0 | **0** | 
 | #**2** | **WoodVeneer** | 0 | **0** | 
 | #**3** | **Galvanized** | 0 | **0** | 
-| #**4** | CEPU | 0 | 0 | 
+| #**4** | **CEPU** | 0 | **0** | 
 | #**5** | JELEE | 0 | 0 | 
 | #**6** | AllRole | 0 | 0 | 
 | #**7** | Any | 0 | 0 | 
@@ -39,27 +39,27 @@ layout: default
 
 
 
-### Bracket 1
+### Qualifiers Bracket
 - Group 1.1
-  - T1
-  - T2
-  - T3
-  - T4
+  - CEPU
+  - Mango
+  - Sakau
+  - TamGiac
 - Group 1.2
-  - T5
-  - T6
-  - T7
-  - T8
+  - OneTrick
+  - BanaNutmi
+  - WoodVeneer
+  - ICLP
 - Group 1.3
-  - T9
-  - T10
-  - T11
-  - T12
+  - WingTomZai
+  - Tasogare
+  - OldPeople
+  - Eclair
 - Group 1.4
-  - T13
-  - T14
-  - T15
-  - T16
+  - Jelee
+  - Any
+  - AllRole
+  - Galvanized
 
 
 ```
@@ -85,7 +85,7 @@ layout: default
 | #**1** | **nan** | 0 | **0** | 
 | #**2** | **nan** | 0 | **0** | 
 | #**3** | **nan** | 0 | **0** | 
-| #**4** | nan | 0 | 0 | 
+| #**4** | **nan** | 0 | **0** | 
 | #**5** | nan | 0 | 0 | 
 | #**6** | nan | 0 | 0 | 
 | #**7** | nan | 0 | 0 | 
@@ -105,7 +105,7 @@ layout: default
 
 
 
-### Bracket 2
+### Wildcard Bracket
 - Group 2.1
   - ???
   - ???

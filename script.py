@@ -152,7 +152,7 @@ def get_data_by_rank(df, rank):
     kill = get_by_rank(df, rank, "Total Team Kill")
     poin = get_by_rank(df, rank, "Total Point")
     row = ""
-    if (rank==1 or rank==2 or rank==3):
+    if (rank==1 or rank==2 or rank==3 or rank==4):
         row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_int(kill))+ " | **" +str(check_int(poin))+ "** | \n"
     else:
         row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_int(kill))+ " | " +str(check_int(poin))+ " | \n"
@@ -162,27 +162,27 @@ def get_custom_information_bracket1():
     return (
 """
 \n
-### Bracket 1
+### Qualifiers Bracket
 - Group 1.1
-  - T1
-  - T2
-  - T3
-  - T4
+  - CEPU
+  - Mango
+  - Sakau
+  - TamGiac
 - Group 1.2
-  - T5
-  - T6
-  - T7
-  - T8
+  - OneTrick
+  - BanaNutmi
+  - WoodVeneer
+  - ICLP
 - Group 1.3
-  - T9
-  - T10
-  - T11
-  - T12
+  - WingTomZai
+  - Tasogare
+  - OldPeople
+  - Eclair
 - Group 1.4
-  - T13
-  - T14
-  - T15
-  - T16
+  - Jelee
+  - Any
+  - AllRole
+  - Galvanized
 \n
 ```
 - Round 1 
@@ -202,7 +202,7 @@ def get_custom_information_bracket2():
     return (
 """
 \n
-### Bracket 2
+### Wildcard Bracket
 - Group 2.1
   - ???
   - ???
@@ -266,7 +266,7 @@ def double():
     df_B = set_df(sheetB, sheetName, 'carrot')
 
     leaderboard_A = ("""
-# **Qualifier Leaderboard**
+# **Qualifiers Leaderboard**
 
 """ + set_leaderboard(df_A, 16) 
     + get_penalty_table("- Qualifiers") 

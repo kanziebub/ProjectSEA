@@ -290,6 +290,6 @@ def double():
     write_page(target, page_md)
 
 def main():
-    double()
+    single()
 
 main()

@@ -12,16 +12,16 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **nan** | 0 | **0** | False | 
-| #**2** | **nan** | 0 | **0** | False | 
-| #**3** | **nan** | 0 | **0** | False | 
-| #**4** | nan | 0 | 0 | False | 
-| #**5** | nan | 0 | 0 | False | 
-| #**6** | nan | 0 | 0 | False | 
-| #**7** | nan | 0 | 0 | False | 
-| #**8** | nan | 0 | 0 | False | 
+| #**1** | **Any** | 0 | **0** | False | 
+| #**2** | **Galvanized** | 0 | **0** | False | 
+| #**3** | **ICLP** | 0 | **0** | False | 
+| #**4** | CEPU | 0 | 0 | False | 
+| #**5** | JELEE | 0 | 0 | False | 
+| #**6** | TamGiac | 0 | 0 | False | 
+| #**7** | Eclair | 0 | 0 | False | 
+| #**8** | Old People | 0 | 0 | False | 
 
-## Penalty Log
+## Penalty Log 
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|

@@ -82,18 +82,18 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **TamGiac** | 26 | **33** | 
-| #**2** | **JELEE** | 15 | **23** | 
-| #**3** | **Eclair** | 10 | **18** | 
-| #**4** | **BanaNutmi** | 8 | **14** | 
-| #**5** | WingTomZai | 10 | 13 | 
-| #**6** | Sakau. | 9 | 11 | 
-| #**7** | WoodVeneer | 4 | 8 | 
-| #**8** | Old People | 4 | 8 | 
-| #**9** | AllRole | 4 | 7 | 
-| #**10** | Tasogare | 4 | 4 | 
-| #**11** | Mango | 2 | 2 | 
-| #**12** | OneTrick | 2 | 2 | 
+| #**1** | **JELEE** | 29 | **45** | 
+| #**2** | **TamGiac** | 26 | **33** | 
+| #**3** | **Eclair** | 11 | **24** | 
+| #**4** | **Old People** | 13 | **21** | 
+| #**5** | Tasogare | 13 | 15 | 
+| #**6** | BanaNutmi | 8 | 14 | 
+| #**7** | WingTomZai | 10 | 13 | 
+| #**8** | Sakau. | 9 | 11 | 
+| #**9** | Mango | 9 | 10 | 
+| #**10** | OneTrick | 7 | 10 | 
+| #**11** | WoodVeneer | 6 | 10 | 
+| #**12** | AllRole | 4 | 7 | 
 
 ## Penalty Log - Wildcard
 

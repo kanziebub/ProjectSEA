@@ -8,17 +8,17 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **Galvanized** | 24 | **37** | False | 
-| #**2** | **Any** | 17 | **29** | False | 
-| #**3** | **TamGiac** | 13 | **19** | False | 
-| #**4** | JELEE | 11 | 18 | False | 
-| #**5** | Old People | 11 | 13 | False | 
-| #**6** | ICLP | 8 | 12 | False | 
-| #**7** | CEPU | 6 | 7 | False | 
+| #**1** | **Galvanized** | 40 | **61** | True | 
+| #**2** | **Any** | 23 | **37** | False | 
+| #**3** | **Old People** | 24 | **31** | False | 
+| #**4** | JELEE | 18 | 29 | False | 
+| #**5** | TamGiac | 17 | 23 | False | 
+| #**6** | ICLP | 11 | 16 | False | 
+| #**7** | CEPU | 11 | 15 | False | 
 | #**8** | Eclair | 0 | 1 | False | 
 
 ## Penalty Log 

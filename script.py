@@ -83,9 +83,9 @@ def get_penalty_table(header):
     return penalty
 
 # =====================================================
-def set_leaderboard_with_cp(df, teams, games_played):
+def set_leaderboard_with_cp(df, teams):
     leaderboard_md = ("### Games Played = " 
-                      + str(int(games_played))
+                      + str(int(check_int(get_games_played(df)))) 
                       + "\n")
     
     # ---------------------------------
@@ -105,9 +105,12 @@ def set_leaderboard_with_cp(df, teams, games_played):
 
 def get_data_by_rank_with_cp(df, rank):
     team = get_by_rank(df, rank, "Name")
-    kill = get_by_rank(df, rank, "TK")
-    poin = get_by_rank(df, rank, "Point")
-    chkp = get_by_rank(df, rank, "Checkpoint")
+    kill = get_by_rank(df, rank, "Total Team Kill")
+    poin = get_by_rank(df, rank, "Total Point")
+    chkp = False
+    if (poin >= 55):
+        chkp = True
+        
     row = ""
     if (rank==1 or rank==2 or rank==3):
         row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_int(kill))+ " | **" +str(check_int(poin))+ "** | " +str(chkp)+ " | \n"
@@ -234,16 +237,16 @@ def write_page(target, page_md):
        
 def single():
     target = "./season/01/finals.md"
-    sheetID = "17qoZODoKc7-2OfFtZ7DGDLGpbmZ7GTuWieZW3Ml_9_Q"
+    sheetID = "12IX3jYPzORS5A4eP1woG89AKcAJM3BYFaV5VvyN5PK4"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
-    df = set_df(sheetID, sheetName, 'shuvi')
+    df = set_df(sheetID, sheetName, 'carrot')
     # print(df)
     leaderboard = ("""
 # **Leaderboard**
 
-""" + set_leaderboard_with_cp(df, 8, 0) 
+""" + set_leaderboard_with_cp(df, 8) 
     + get_penalty_table("") 
     + penalty_placeholder
     # + set_penalty("a", "a", "aa", "otp") 

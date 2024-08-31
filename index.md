@@ -4,7 +4,7 @@ layout: default
 
 # ER Project:SEA
 
-This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
+> This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
 <p align="center">
   <img 

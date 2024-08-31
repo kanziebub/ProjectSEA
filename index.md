@@ -14,9 +14,17 @@ General rules regarding the tournament can be accessed from the following page:
 
 [![Rulebook](https://kanziebub.github.io/ProjectSEA/assets/images/mid_rulebook.png)](./rulebook.html)
 
-## Tournaments
+## Statistics
+- [S1 Winners](./)
 
-ER Project:SEA S1
+## ER Project:SEA S2
+- [Registered Teams](./)
+- [Qualifiers Leaderboard](./)
+- [Wildcard Leaderboard](./)
+- [Finals Leaderboard](./)
+
+
+## ER Project:SEA S1
 - [Registered Teams](./season/01/teams.md)
 - [Qualifiers Leaderboard](./season/01/qualifiers.md)
 - [Finals Leaderboard](./season/01/finals.md)

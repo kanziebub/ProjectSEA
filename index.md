@@ -13,32 +13,14 @@ This is the official page for Southeast Asia Eternal Return tournaments where yo
     style="max-height: 350px;">
 </p>
 
-## Rulebook
-
-General rules regarding the tournament can be accessed from the following page: 
-
-<p align="center">
-  <a href="./rulebook.html">
-    <img 
-        src="https://kanziebub.github.io/ProjectSEA/assets/images/rulebook.png" 
-        alt="Rulebook" 
-        style=" max-height: 80px;">
-  </a>
-</p>
-
 ## Statistics
-- [S1 Winners](./comming_soon.md)
+- [S1 Winners: Galvanized](./comming_soon.md)
 
 ## ER Project:SEA S2
 - [Registered Teams](./season/02/teams.md)
 - [Qualifiers Leaderboard](./season/02/qualifiers.md)
 - [Wildcard Leaderboard](./season/02/wildcard.md)
 - [Finals Leaderboard](./season/02/finals.md)
-
-<p align="center">
-  <img src="https://kanziebub.github.io/ProjectSEA/assets/images/S2_chip.gif" alt="Alt text">
-</p>
-
 
 ## ER Project:SEA S1
 
@@ -51,4 +33,17 @@ General rules regarding the tournament can be accessed from the following page:
     src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S1_Banner.png" 
     alt="S1Banner" 
     style="max-height: 400px;">
+</p>
+
+## Rulebook
+
+General rules regarding the tournament can be accessed from the following page: 
+
+<p align="center">
+  <a href="./rulebook.html">
+    <img 
+        src="https://kanziebub.github.io/ProjectSEA/assets/images/rulebook.png" 
+        alt="Rulebook" 
+        style=" max-height: 80px;">
+  </a>
 </p>

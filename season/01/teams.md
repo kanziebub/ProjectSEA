@@ -8,6 +8,13 @@ layout: default
 # **ER Project:SEA S1 Registered Teams**
 Registration opens 2024-06-19 13.00 UTC+07
 
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_Logo_2.png" 
+    alt="S1Logo" 
+    style="max-width: 250px; max-height: 250px;">
+</p>
+
 - **たそがれ**
   - Extera
   - Lolzilla

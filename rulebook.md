@@ -63,7 +63,7 @@ If the organizers recommend the players to use specific third-party tools (Disco
 
 ## Account Ownership
 
-The player must own a Steam account to participate in the tournament. If the associated Eternal Return account is currently or has been previously banned By Nimble Neuron, the player will not be allowed to play in the tournament. The duration of tournament suspensions will be handled on a case-by-case basis. Using an alternate account to try and circumvent a ban will result in immediate disqualification. Teammates of a banned player will also be punished for helping to circumvent a ban. Account sharing is not allowed. Players may not play on another user’s account under any circumstances. All disputes over account ownership will be investigated and handled by the organizers.
+The player must own a Steam account to participate in the tournament. If the associated Eternal Return account is currently or has been previously banned By Nimble Neuron, the player will not be allowed to play in the tournament. The duration of tournament suspensions will be handled on a case-by-case basis. Using an alternate account to try and circumvent a ban will result in immediate disqualification. Teammates of a banned player will also be punished for helping to circumvent a ban. **Account sharing is not allowed**. Players may not play on another user’s account under any circumstances, **to avoid any ownership disputes please use your main account**. All disputes over account ownership will be investigated and handled by the organizers.
 
 ## Substitute Players
 

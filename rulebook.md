@@ -67,11 +67,11 @@ The player must own a Steam account to participate in the tournament. If the ass
 
 ## Substitute Players
 
-Currently, no substitute players are allowed to join. But a team can still replace a member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (pereferrable to Zibub or Mizyx). If any team member is unable to play by the time the tournament starts, the team has the option to forfeit or play with an incomplete team.
+Currently, no substitute players are allowed to join. But a team can still replace a member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (preferrably to Zibub). If any team member is unable to play by the time the tournament starts, the team has the option to forfeit or play with an incomplete team.
 
 ## In-game Nicknames
 
-Players cannot use nicknames that include sexual, political, or offensive words or phrases. Players using inappropriate nicknames will be asked to change their nickname or be disqualified from the tournament. or asked to change their nickname. Players should use the same nickname that they submitted in the registration form. If not, they will not be allowed to participate.
+Players cannot use nicknames that include sexual, political, or offensive words or phrases. Players using inappropriate nicknames will be asked to change their nickname or be disqualified from the tournament. Players should use the same nickname that they submitted in the registration form. If not, they will not be allowed to participate.
 
 ## Sportsmanship
 

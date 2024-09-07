@@ -43,7 +43,7 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 ## Event Registration
 
 Event registration is processed via Google and joining the discord server.
-All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **ER Project:SEA Discord** at the time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
+All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **ER Project:SEA Discord** at the time of signup for your entry to be counted. **Event registration may be canceled or modified by contacting an organizer** (e.g Zibub). **Prank submissions will result in tourney ban**.
  
 ## Game Client Version
 
@@ -67,7 +67,7 @@ The player must own a Steam account to participate in the tournament. If the ass
 
 ## Substitute Players
 
-Registering a subtitute player is **optional**. A team can still replace any member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (preferrably to Zibub). If afterwards any team member is unable to play by the time the tournament starts and no substitute was registered, the team has the option to forfeit or play with an incomplete team.
+Currently, no substitute players are allowed to join. But a team can still replace a member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (preferrably to Zibub). If any team member is unable to play by the time the tournament starts, the team has the option to forfeit or play with an incomplete team.
 
 ## In-game Nicknames
 

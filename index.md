@@ -9,7 +9,7 @@ layout: default
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_2_Open_Registration.png" 
-    alt="S2OpenReg" 
+    alt="Eternal Return ProjectSEA Season 2 Registration" 
     style="max-height: 350px;">
 </p>
 
@@ -31,7 +31,7 @@ layout: default
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S1_Banner.png" 
-    alt="S1Banner" 
+    alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
     style="max-height: 400px;">
 </p>
 
@@ -43,7 +43,7 @@ General rules regarding the tournament can be accessed from the following page:
   <a href="./rulebook.html">
     <img 
         src="https://kanziebub.github.io/ProjectSEA/assets/images/rulebook.png" 
-        alt="Rulebook" 
+        alt="ProjectSEA Rulebook" 
         style=" max-height: 80px;">
   </a>
 </p>

@@ -67,7 +67,7 @@ The player must own a Steam account to participate in the tournament. If the ass
 
 ## Substitute Players
 
-Registering a subtitute player is **optional**. A team can still replace any member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (preferrably to Zibub). If afterwards any team member is unable to play by the time the tournament starts and no substitute was registered, the team has the option to forfeit or play with an incomplete team.
+Registering a subtitute player is **optional**. A team can still replace any member at most before the tournament briefing ends (usually 2 days before the tournament starts) by reporting to the tournament organizers (preferrably to Zibub). If afterwards any team member is unable to play during the tournament and no substitute was registered, the team has the option to forfeit or play with an incomplete team.
 
 ## In-game Nicknames
 

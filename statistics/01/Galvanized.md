@@ -7,7 +7,7 @@ layout: default
 
 # S1 Winners Statistics
 
-|                    | **Alek**      | Tnsh      | Gyoo      |
+|                    | Alek      | Tnsh      | Gyoo      |
 |:-------------------|:----------|:----------|:----------|
 | **Fav Pick**       | Chloe     | Nicky     | Adina     |
 | **Most Killed by** | sLLLime   | クゥニ     | sLLLime   |
@@ -27,6 +27,7 @@ layout: default
   - 4
 
 ### Round 1
+
 | &nbsp;         | Alek      | Tnsh      | Gyoo      |
 |:---------------|:----------|:----------|:----------|
 | Pick           | Chloe     | Nicky     | Adina     |
@@ -39,6 +40,7 @@ layout: default
 | Nemesis Pick   | Aya       | Silvia    | Aya       |
 
 ### Round 2
+
 | &nbsp;         | Alek      | Tnsh      | Gyoo      |
 |:---------------|:----------|:----------|:----------|
 | Pick           | Chloe     | Nicky     | Adina     |
@@ -51,6 +53,7 @@ layout: default
 | Nemesis Pick   |           |           |           |
 
 ### Round 3
+
 | &nbsp;         | Alek      | Tnsh      | Gyoo      |
 |:---------------|:----------|:----------|:----------|
 | Pick           | Aya       | Nicky     | Adina     |
@@ -63,6 +66,7 @@ layout: default
 | Nemesis Pick   |           |           |           |
 
 ### Round 4
+
 | &nbsp;         | Alek      | Tnsh      | Gyoo      |
 |:---------------|:----------|:----------|:----------|
 | Pick           | Katja     | Kenneth   | Eleven    |

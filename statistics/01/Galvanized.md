@@ -7,11 +7,11 @@ layout: default
 
 # S1 Winners Statistics
 
-|                | Alek      | Tnsh      | Gyoo      |
-|:---------------|:----------|:----------|:----------|
-| Fav Pick       | Chloe     | Nicky     | Adina     |
-| Most Killed by | sLLLime   | クゥニ     | sLLLime   |
-| Nemesis Pick   | Aya       | Silvia    | Aya       |
+|                    | **Alek**      | Tnsh      | Gyoo      |
+|:-------------------|:----------|:----------|:----------|
+| **Fav Pick**       | Chloe     | Nicky     | Adina     |
+| **Most Killed by** | sLLLime   | クゥニ     | sLLLime   |
+| **Nemesis Pick**   | Aya       | Silvia    | Aya       |
 
 - **Total Points** 
   - 76

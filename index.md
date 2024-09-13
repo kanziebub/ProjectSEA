@@ -14,7 +14,8 @@ layout: default
 </p>
 
 ## Statistics
-- [S1 Winners: Galvanized](./comming_soon.md)
+- [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
+- [S1 Finals](./comming_soon.md)
 
 ## ER Project:SEA S2
 - [Registered Teams](./season/02/teams.md)

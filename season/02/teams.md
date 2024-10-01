@@ -15,7 +15,7 @@ Registration opens 2024-09-07 13.00 UTC+07
     style="max-height: 350px;">
 </p>
 
-<table style="max-width:80%">
+<table style="max-width:400px; margin: 0 auto;">
   <tr>
     <th>Team Name</th>
     <th>Members</th>

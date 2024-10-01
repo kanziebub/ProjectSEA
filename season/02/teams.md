@@ -20,99 +20,99 @@ Registration opens 2024-09-07 13.00 UTC+07
     <th>Team Name</th>
     <th>Members</th>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>GodTnsh</td>
     <td>Alek<br>Gyoo<br>Tnsh</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>M.A.D</td>
     <td>Zewnay<br>AltamaTheFirst<br>PurpleHeartNep</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>JELEE</td>
     <td>Sachiko<br>감자카레<br>Lolzilla<br>Kenpid</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>200ms</td>
     <td>Reniki<br>Raizer<br>Sussela<br>Muwhaha</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>CherryBomb</td>
     <td>Miraibelle<br>Befreedom<br>sLLLime<br>Kazeroth</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Bike</td>
     <td>ShigureUi<br>KeHuyDiet<br>Chinmi<br>LonggUp</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Etherite</td>
     <td>Kel2ykeion<br>ThreeRain<br>160999</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>CEPU</td>
     <td>Peposadge<br>CEPUーValsh<br>CEPUーLuminears</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>OldFolkHome</td>
     <td>Luerye<br>Rion34<br>OldCW<br>CharlotteCorset</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Degadegi</td>
     <td>CEPUーJandaHnter<br>Rivulose<br>Azurieru</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>HazeSama</td>
     <td>PekoMarisa<br>绯莎<br>RainbowFudge<br>jasonjoe123</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>WingTomSai</td>
     <td>Heroic<br>Nackbkk<br>Stram11</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Eclair</td>
     <td>Caffeine811<br>SoraNoGeki<br>NaFi</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>StepuhSons</td>
     <td>Ellinium<br>Saiikyouu<br>Oshunicus<br>Helvesta</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>ViciVeni</td>
     <td>Gomibin<br>Ybardossa<br>Iz1Senpai</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>TILT</td>
     <td>TaliyahOma<br>Dice21<br>Restifik</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>750credits</td>
     <td>ElainaYukino<br>HeartofVietnam<br>21M一RFT94<br>Adrelia</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>ScamArCra</td>
     <td>ArCraMiCia<br>DoubleEye<br>SUNKANoWBX<br>MuRyoKuSho</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>2K1Valleth</td>
     <td>SakiMatsumi<br>Valleth<br>Lyfin</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>TamGiac</td>
     <td>TamGiac<br>JohannsJuice<br>RozziSimp</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>NaRoRe</td>
     <td>HyzeHox<br>Rooper13<br>RedTheWolf</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>VisCa</td>
     <td>StellaAurelius<br>Luminym<br>Fee<br>VisCa243</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Jokers</td>
     <td>Onryou<br>ZxLaim<br>Yazoo</td>
   </tr>
-  <tr style="border-bottom: 3px solid black;">
+  <tr>
     <td>Last Team</td>
     <td>Extera<br>Galilleo<br>Renal</td>
   </tr>

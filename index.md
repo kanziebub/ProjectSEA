@@ -8,9 +8,9 @@ layout: default
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_2_Open_Registration.png" 
-    alt="Eternal Return ProjectSEA Season 2 Registration" 
-    style="max-height: 350px;">
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S2_Banner.png" 
+    alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
+    style="max-height: 400px;">
 </p>
 
 ## Statistics

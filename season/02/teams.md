@@ -118,5 +118,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   </tr>
 </table>
 
+
+
 ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
 [Home](https://kanziebub.github.io/ProjectSEA/)

@@ -34,7 +34,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   </tr>
   <tr>
     <td>200ms</td>
-    <td>Reniki<br>Raizer<br>Sussela<br>Muwhaha</td>
+    <td>Reniki<br>DanielDarkSistem<br>Sussela<br>Muwhaha</td>
   </tr>
   <tr>
     <td>CherryBomb</td>

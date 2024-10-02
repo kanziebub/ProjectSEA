@@ -42,7 +42,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   </tr>
   <tr>
     <td>Bike</td>
-    <td>ShigureUi<br>KeHuyDiet<br>Chinmi<br>LonggUp</td>
+    <td>ShigureUi<br>KeHuyDiet<br>Chinmi<br>Fiana</td>
   </tr>
   <tr>
     <td>Etherite</td>

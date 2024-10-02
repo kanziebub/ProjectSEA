@@ -78,7 +78,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   </tr>
   <tr>
     <td>ViciVeni</td>
-    <td>Gomibin<br>Ybardossa<br>Iz1Senpai</td>
+    <td>Gomibin<br>Ybardossa<br>Iz1Senpai<br>Nairos</td>
   </tr>
   <tr>
     <td>TILT</td>
@@ -109,7 +109,7 @@ Registration opens 2024-09-07 13.00 UTC+07
     <td>StellaAurelius<br>Luminym<br>Fee<br>VisCa243</td>
   </tr>
   <tr>
-    <td>Jokers</td>
+    <td>HeyTayo</td>
     <td>Onryou<br>ZxLaim<br>Yazoo</td>
   </tr>
   <tr>

@@ -113,8 +113,8 @@ Registration opens 2024-09-07 13.00 UTC+07
     <td>Onryou<br>ZxLaim<br>Yazoo</td>
   </tr>
   <tr>
-    <td>Last Team</td>
-    <td>Extera<br>Galilleo<br>Renal</td>
+    <td>LastTeam</td>
+    <td>Extera<br>Gallileo<br>Renal</td>
   </tr>
 </table>
 

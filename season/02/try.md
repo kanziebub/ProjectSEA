@@ -37,8 +37,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   }
 
   summary:hover {
-    background-color: #2b2b2b;
-    color: #eae6d1;
+    background-color: #ebe8da;
   }
 
   summary::before {

@@ -15,53 +15,6 @@ Registration opens 2024-09-07 13.00 UTC+07
     style="max-height: 350px;">
 </p>
 
-<style>
-  details {
-    margin: 15px 0; /* Increased margin */
-    padding: 0px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-
-  summary {
-    padding: 10px 15px;
-    cursor: pointer;
-    position: relative;
-    font-weight: bold;
-    transition: background-color 0.2s, color 0.2s;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-  }
-
-  summary:hover {
-    background-color: #f0f0f0;
-  }
-
-  summary::before {
-    content: "▶";
-    position: relative;
-    left: 0;
-    margin-right: 8px;
-    transition: transform 0.2s;
-  }
-
-  details[open] summary::before {
-    transform: rotate(90deg);
-  }
-
-  details ul {
-    margin: 10px 0; /* Added margin to the list inside details */
-    padding: 0px 50px;
-    margin-bottom: 20px;
-  }
-
-  details li {
-    margin: 5px 0;
-  }
-</style>
-
 <details>
   <summary>GodTnsh</summary>
   <ul>

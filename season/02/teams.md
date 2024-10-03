@@ -15,110 +15,235 @@ Registration opens 2024-09-07 13.00 UTC+07
     style="max-height: 350px;">
 </p>
 
-<table style="max-width:400px; margin: 0 auto;">
-  <tr>
-    <th>Team Name</th>
-    <th>Members</th>
-  </tr>
-  <tr>
-    <td>GodTnsh</td>
-    <td>Alek<br>Gyoo<br>Tnsh</td>
-  </tr>
-  <tr>
-    <td>M.A.D</td>
-    <td>Zewnay<br>AltamaTheFirst<br>PurpleHeartNep</td>
-  </tr>
-  <tr>
-    <td>JELEE</td>
-    <td>Sachiko<br>감자카레<br>Lolzilla<br>Kenpid</td>
-  </tr>
-  <tr>
-    <td>200ms</td>
-    <td>Reniki<br>DanielDarkSistem<br>Sussela<br>Muwhaha</td>
-  </tr>
-  <tr>
-    <td>CherryBomb</td>
-    <td>Miraibelle<br>Befreedom<br>sLLLime<br>Kazeroth</td>
-  </tr>
-  <tr>
-    <td>Bike</td>
-    <td>ShigureUi<br>Haii<br>Chinmi<br>Fiana</td>
-  </tr>
-  <tr>
-    <td>Etherite</td>
-    <td>Kel2ykeion<br>ThreeRain<br>160999</td>
-  </tr>
-  <tr>
-    <td>CEPU</td>
-    <td>Peposadge<br>CEPUーValsh<br>CEPUーLuminears</td>
-  </tr>
-  <tr>
-    <td>OldFolkHome</td>
-    <td>Luerye<br>Rion34<br>OldCW<br>PlapPlpGtMarried</td>
-  </tr>
-  <tr>
-    <td>Degadegi</td>
-    <td>CEPUーJandaHnter<br>Rivulose<br>Azurieru</td>
-  </tr>
-  <tr>
-    <td>HazeSama</td>
-    <td>PekoMarisa<br>绯莎<br>RainbowFudge<br>jasonjoe123</td>
-  </tr>
-  <tr>
-    <td>WingTomSai</td>
-    <td>Heroic<br>Nackbkk<br>Stram11</td>
-  </tr>
-  <tr>
-    <td>Eclair</td>
-    <td>Caffeine811<br>SoraNoGeki<br>NaFi</td>
-  </tr>
-  <tr>
-    <td>StepuhSons</td>
-    <td>Ellinium<br>Saiikyouu<br>Oshunicus<br>Helvesta</td>
-  </tr>
-  <tr>
-    <td>ViciVeni</td>
-    <td>Gomibin<br>Ybardossa<br>Iz1Senpai<br>Nairos</td>
-  </tr>
-  <tr>
-    <td>TILT</td>
-    <td>TaliyahOma<br>Dice21<br>Restifik</td>
-  </tr>
-  <tr>
-    <td>750credits</td>
-    <td>ElainaYukino<br>HeartofVietnam<br>21M一RFT94<br>Adrelia</td>
-  </tr>
-  <tr>
-    <td>ScamArCra</td>
-    <td>ArCraMiCia<br>DoubleEye<br>SUNKANoWBX<br>MuRyoKuSho</td>
-  </tr>
-  <tr>
-    <td>2K1Valleth</td>
-    <td>SakiMatsumi<br>Valleth<br>Lyfin</td>
-  </tr>
-  <tr>
-    <td>TamGiac</td>
-    <td>TamGiac<br>JohannsJuice<br>RozziSimp</td>
-  </tr>
-  <tr>
-    <td>NaRoRe</td>
-    <td>HyzeHox<br>Rooper13<br>RedTheWolf</td>
-  </tr>
-  <tr>
-    <td>VisCa</td>
-    <td>StellaAurelius<br>Luminym<br>Fee<br>VisCa243</td>
-  </tr>
-  <tr>
-    <td>HeyTayo</td>
-    <td>Onryou<br>ZxLaim<br>Yazoo</td>
-  </tr>
-  <tr>
-    <td>LastTeam</td>
-    <td>Extera<br>Gallileo<br>Renal</td>
-  </tr>
-</table>
+<details>
+  <summary>GodTnsh</summary>
+  <ul>
+    <li>Alek</li>
+    <li>Gyoo</li>
+    <li>Tnsh</li>
+  </ul>
+</details>
+
+<details>
+  <summary>M.A.D</summary>
+  <ul>
+    <li>Zewnay</li>
+    <li>AltamaTheFirst</li>
+    <li>PurpleHeartNep</li>
+  </ul>
+</details>
+
+<details>
+  <summary>JELEE</summary>
+  <ul>
+    <li>Sachiko</li>
+    <li>감자카레</li>
+    <li>Lolzilla</li>
+    <li>Kenpid</li>
+  </ul>
+</details>
+
+<details>
+  <summary>200ms</summary>
+  <ul>
+    <li>Reniki</li>
+    <li>DanielDarkSistem</li>
+    <li>Sussela</li>
+    <li>Muwhaha</li>
+  </ul>
+</details>
+
+<details>
+  <summary>CherryBomb</summary>
+  <ul>
+    <li>Miraibelle</li>
+    <li>Befreedom</li>
+    <li>sLLLime</li>
+    <li>Kazeroth</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Bike</summary>
+  <ul>
+    <li>ShigureUi</li>
+    <li>Haii</li>
+    <li>Chinmi</li>
+    <li>Fiana</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Etherite</summary>
+  <ul>
+    <li>Kel2ykeion</li>
+    <li>ThreeRain</li>
+    <li>160999</li>
+  </ul>
+</details>
+
+<details>
+  <summary>CEPU</summary>
+  <ul>
+    <li>Peposadge</li>
+    <li>CEPUーValsh</li>
+    <li>CEPUーLuminears</li>
+  </ul>
+</details>
+
+<details>
+  <summary>OldFolkHome</summary>
+  <ul>
+    <li>Luerye</li>
+    <li>Rion34</li>
+    <li>OldCW</li>
+    <li>PlapPlpGtMarried</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Degadegi</summary>
+  <ul>
+    <li>CEPUーJandaHnter</li>
+    <li>Rivulose</li>
+    <li>Azurieru</li>
+  </ul>
+</details>
+
+<details>
+  <summary>HazeSama</summary>
+  <ul>
+    <li>PekoMarisa</li>
+    <li>绯莎</li>
+    <li>RainbowFudge</li>
+    <li>jasonjoe123</li>
+  </ul>
+</details>
+
+<details>
+  <summary>WingTomSai</summary>
+  <ul>
+    <li>Heroic</li>
+    <li>Nackbkk</li>
+    <li>Stram11</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Eclair</summary>
+  <ul>
+    <li>Caffeine811</li>
+    <li>SoraNoGeki</li>
+    <li>NaFi</li>
+  </ul>
+</details>
+
+<details>
+  <summary>StepuhSons</summary>
+  <ul>
+    <li>Ellinium</li>
+    <li>Saiikyouu</li>
+    <li>Oshunicus</li>
+    <li>Helvesta</li>
+  </ul>
+</details>
+
+<details>
+  <summary>ViciVeni</summary>
+  <ul>
+    <li>Gomibin</li>
+    <li>Ybardossa</li>
+    <li>Iz1Senpai</li>
+    <li>Nairos</li>
+  </ul>
+</details>
+
+<details>
+  <summary>TILT</summary>
+  <ul>
+    <li>TaliyahOma</li>
+    <li>Dice21</li>
+    <li>Restifik</li>
+  </ul>
+</details>
+
+<details>
+  <summary>750credits</summary>
+  <ul>
+    <li>ElainaYukino</li>
+    <li>HeartofVietnam</li>
+    <li>21M一RFT94</li>
+    <li>Adrelia</li>
+  </ul>
+</details>
+
+<details>
+  <summary>ScamArCra</summary>
+  <ul>
+    <li>ArCraMiCia</li>
+    <li>DoubleEye</li>
+    <li>SUNKANoWBX</li>
+    <li>MuRyoKuSho</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2K1Valleth</summary>
+  <ul>
+    <li>SakiMatsumi</li>
+    <li>Valleth</li>
+    <li>Lyfin</li>
+  </ul>
+</details>
+
+<details>
+  <summary>TamGiac</summary>
+  <ul>
+    <li>TamGiac</li>
+    <li>JohannsJuice</li>
+    <li>RozziSimp</li>
+  </ul>
+</details>
+
+<details>
+  <summary>NaRoRe</summary>
+  <ul>
+    <li>HyzeHox</li>
+    <li>Rooper13</li>
+    <li>RedTheWolf</li>
+  </ul>
+</details>
+
+<details>
+  <summary>VisCa</summary>
+  <ul>
+    <li>StellaAurelius</li>
+    <li>Luminym</li>
+    <li>Fee</li>
+    <li>VisCa243</li>
+  </ul>
+</details>
+
+<details>
+  <summary>HeyTayo</summary>
+  <ul>
+    <li>Onryou</li>
+    <li>ZxLaim</li>
+    <li>Yazoo</li>
+  </ul>
+</details>
+
+<details>
+  <summary>LastTeam</summary>
+  <ul>
+    <li>Extera</li>
+    <li>Gallileo</li>
+    <li>Renal</li>
+  </ul>
+</details>
 
 
+<br><br>
 
 ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
 [Home](https://kanziebub.github.io/ProjectSEA/)

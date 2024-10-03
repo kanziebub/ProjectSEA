@@ -17,16 +17,15 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <style>
   details {
-    margin: 10px 0; /* Increased margin */
-    padding:5px;
+    margin: 15px 0; /* Increased margin */
+    padding: 0px;
     border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
   }
 
   summary {
-    padding: 5px 10px;
-    margin: 5px;
+    padding: 10px 15px;
     cursor: pointer;
     position: relative;
     font-weight: bold;
@@ -37,7 +36,7 @@ Registration opens 2024-09-07 13.00 UTC+07
   }
 
   summary:hover {
-    background-color: #ebe8da;
+    background-color: #f0f0f0;
   }
 
   summary::before {
@@ -54,14 +53,14 @@ Registration opens 2024-09-07 13.00 UTC+07
 
   details ul {
     margin: 10px 0; /* Added margin to the list inside details */
-    padding: 0px 60px;
+    padding: 0px 50px;
+    margin-bottom: 20px;
   }
 
   details li {
     margin: 5px 0;
   }
 </style>
-
 
 <details>
   <summary>GodTnsh</summary>

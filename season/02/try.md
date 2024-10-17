@@ -16,281 +16,169 @@ Registration opens 2024-09-07 13.00 UTC+07
 </p>
 
 <style>
-  details {
-    margin: 15px 0; /* Increased margin */
-    padding: 0px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    overflow: hidden;
-  }
+.group-section {
+}
 
-  summary {
-    padding: 10px 15px;
-    cursor: pointer;
-    position: relative;
-    font-weight: bold;
-    transition: background-color 0.2s, color 0.2s;
-    border-radius: 5px;
+.group-section .container {
     display: flex;
-    align-items: center;
-  }
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+}
 
-  summary:hover {
-    background-color: #f0f0f0;
-  }
-
-  summary::before {
-    content: "▶";
-    position: relative;
-    left: 0;
-    margin-right: 8px;
-    transition: transform 0.2s;
-  }
-
-  details[open] summary::before {
-    transform: rotate(90deg);
-  }
-
-  details ul {
-    margin: 10px 0; /* Added margin to the list inside details */
-    padding: 0px 50px;
+.group-section .group-table {
+    width: 48%;
     margin-bottom: 20px;
-  }
+    background-color: #f0f0f0; /* Light grey background for the tables */
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #666666; /* Border in dark grey */
+}
 
-  details li {
-    margin: 5px 0;
-  }
+.group-section table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #666666; /* Dark grey text in tables */
+}
+
+.group-section th, .group-section td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #666666; /* Border between rows */
+}
+
+.group-section th {
+    background-color: #666666; /* Dark grey header */
+    color: #f0f0f0; /* Light grey text in header */
+    font-size: 1.1em;
+}
+
+.group-section td {
+    background-color: #f0f0f0; /* Light grey cells */
+    color: #666666; /* Dark grey text in cells */
+}
+
+.group-section .group-title {
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #666666; /* Dark grey group title */
+}
+
 </style>
 
-<details>
-  <summary>GodTnsh</summary>
-  <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
-  </ul>
-</details>
 
-<details>
-  <summary>M.A.D</summary>
-  <ul>
-    <li>Zewnay</li>
-    <li>AltamaTheFirst</li>
-    <li>PurpleHeartNep</li>
-  </ul>
-</details>
+<div class="group-section">
+<div class="container">
+<!-- Group A and Group B -->
+<div class="group-table">
+    <div class="group-title">Group A</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>GodTnsh</td></tr>
+            <tr><td>Etherite</td></tr>
+            <tr><td>LastTeam</td></tr>
+            <tr><td>ViciVeni</td></tr>
+        </tbody>
+    </table>
+</div>
 
-<details>
-  <summary>JELEE</summary>
-  <ul>
-    <li>Sachiko</li>
-    <li>감자카레</li>
-    <li>Lolzilla</li>
-    <li>Kenpid</li>
-  </ul>
-</details>
+<div class="group-table">
+    <div class="group-title">Group B</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>OldFolkHome</td></tr>
+            <tr><td>Eclair</td></tr>
+            <tr><td>Visca</td></tr>
+            <tr><td>2K1Valleth</td></tr>
+        </tbody>
+    </table>
+</div>
 
-<details>
-  <summary>200ms</summary>
-  <ul>
-    <li>Reniki</li>
-    <li>DanielDarkSistem</li>
-    <li>Sussela</li>
-    <li>Muwhaha</li>
-  </ul>
-</details>
+<!-- Group C and Group D -->
+<div class="group-table">
+    <div class="group-title">Group C</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>CherryBomb</td></tr>
+            <tr><td>TILT</td></tr>
+            <tr><td>WingTomSai</td></tr>
+            <tr><td>HazeSama</td></tr>
+        </tbody>
+    </table>
+</div>
 
-<details>
-  <summary>CherryBomb</summary>
-  <ul>
-    <li>Miraibelle</li>
-    <li>Befreedom</li>
-    <li>sLLLime</li>
-    <li>Kazeroth</li>
-  </ul>
-</details>
+<div class="group-table">
+    <div class="group-title">Group D</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>JELEE</td></tr>
+            <tr><td>M.A.D</td></tr>
+            <tr><td>StepuhSons</td></tr>
+            <tr><td>DegaDegi</td></tr>
+        </tbody>
+    </table>
+</div>
 
-<details>
-  <summary>Bike</summary>
-  <ul>
-    <li>ShigureUi</li>
-    <li>Haii</li>
-    <li>Chinmi</li>
-    <li>Fiana</li>
-  </ul>
-</details>
+<!-- Group E and Group F -->
+<div class="group-table">
+    <div class="group-title">Group E</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>CEPU</td></tr>
+            <tr><td>750Credits</td></tr>
+            <tr><td>HeyTayo</td></tr>
+            <tr><td>NaRoRe</td></tr>
+        </tbody>
+    </table>
+</div>
 
-<details>
-  <summary>Etherite</summary>
-  <ul>
-    <li>Kel2ykeion</li>
-    <li>ThreeRain</li>
-    <li>160999</li>
-  </ul>
-</details>
-
-<details>
-  <summary>CEPU</summary>
-  <ul>
-    <li>Peposadge</li>
-    <li>CEPUーValsh</li>
-    <li>CEPUーLuminears</li>
-  </ul>
-</details>
-
-<details>
-  <summary>OldFolkHome</summary>
-  <ul>
-    <li>Luerye</li>
-    <li>Rion34</li>
-    <li>OldCW</li>
-    <li>PlapPlpGtMarried</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Degadegi</summary>
-  <ul>
-    <li>CEPUーJandaHnter</li>
-    <li>Rivulose</li>
-    <li>Azurieru</li>
-  </ul>
-</details>
-
-<details>
-  <summary>HazeSama</summary>
-  <ul>
-    <li>PekoMarisa</li>
-    <li>绯莎</li>
-    <li>RainbowFudge</li>
-    <li>jasonjoe123</li>
-  </ul>
-</details>
-
-<details>
-  <summary>WingTomSai</summary>
-  <ul>
-    <li>Heroic</li>
-    <li>Nackbkk</li>
-    <li>Stram11</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Eclair</summary>
-  <ul>
-    <li>Caffeine811</li>
-    <li>SoraNoGeki</li>
-    <li>NaFi</li>
-  </ul>
-</details>
-
-<details>
-  <summary>StepuhSons</summary>
-  <ul>
-    <li>Ellinium</li>
-    <li>Saiikyouu</li>
-    <li>Oshunicus</li>
-    <li>Helvesta</li>
-  </ul>
-</details>
-
-<details>
-  <summary>ViciVeni</summary>
-  <ul>
-    <li>Gomibin</li>
-    <li>Ybardossa</li>
-    <li>Iz1Senpai</li>
-    <li>Nairos</li>
-  </ul>
-</details>
-
-<details>
-  <summary>TILT</summary>
-  <ul>
-    <li>TaliyahOma</li>
-    <li>Dice21</li>
-    <li>Restifik</li>
-  </ul>
-</details>
-
-<details>
-  <summary>750credits</summary>
-  <ul>
-    <li>ElainaYukino</li>
-    <li>HeartofVietnam</li>
-    <li>21M一RFT94</li>
-    <li>Adrelia</li>
-  </ul>
-</details>
-
-<details>
-  <summary>ScamArCra</summary>
-  <ul>
-    <li>ArCraMiCia</li>
-    <li>DoubleEye</li>
-    <li>SUNKANoWBX</li>
-    <li>MuRyoKuSho</li>
-  </ul>
-</details>
-
-<details>
-  <summary>2K1Valleth</summary>
-  <ul>
-    <li>SakiMatsumi</li>
-    <li>Valleth</li>
-    <li>Lyfin</li>
-  </ul>
-</details>
-
-<details>
-  <summary>TamGiac</summary>
-  <ul>
-    <li>TamGiac</li>
-    <li>JohannsJuice</li>
-    <li>RozziSimp</li>
-  </ul>
-</details>
-
-<details>
-  <summary>NaRoRe</summary>
-  <ul>
-    <li>HyzeHox</li>
-    <li>Rooper13</li>
-    <li>RedTheWolf</li>
-  </ul>
-</details>
-
-<details>
-  <summary>VisCa</summary>
-  <ul>
-    <li>StellaAurelius</li>
-    <li>Luminym</li>
-    <li>Fee</li>
-    <li>VisCa243</li>
-  </ul>
-</details>
-
-<details>
-  <summary>HeyTayo</summary>
-  <ul>
-    <li>Onryou</li>
-    <li>ZxLaim</li>
-    <li>Yazoo</li>
-  </ul>
-</details>
-
-<details>
-  <summary>LastTeam</summary>
-  <ul>
-    <li>Extera</li>
-    <li>Gallileo</li>
-    <li>Renal</li>
-  </ul>
-</details>
-
-
-<br><br>
+<div class="group-table">
+    <div class="group-title">Group F</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>TamGiac</td></tr>
+            <tr><td>200ms</td></tr>
+            <tr><td>Bike</td></tr>
+            <tr><td>ScamArCra</td></tr>
+        </tbody>
+    </table>
+</div>
+</div>
+</div>
 
 ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
 [Home](https://kanziebub.github.io/ProjectSEA/)

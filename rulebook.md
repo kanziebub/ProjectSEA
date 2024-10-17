@@ -13,12 +13,12 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 
 |  Rank  | Points |
 |:-------|:-------|
-| #**1** |   8   | 
-| #**2** |   5   | 
-| #**3** |   4   | 
-| #**4** |   3   | 
-| #**5** |   2   | 
-| #**6** |   1   | 
+| #**1** |   7   | 
+| #**2** |   4   | 
+| #**3** |   3   | 
+| #**4** |   2   | 
+| #**5** |   1   | 
+| #**6** |   0   | 
 | #**7** |   0   | 
 | #**8** |   0   | 
 | Escape |   0   | 
@@ -96,9 +96,13 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 ## Multi Pick Ban Rule
 
-This rule restricts any character to be played for the next 2 rounds for all teams. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next two rounds.**.
+This rule restricts any character to be played for the next round for all teams. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next two rounds.**.
 
 > If a character is picked after it is restricted, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-3 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
+
+### Season 2 Qualifiers Ban Rule
+
+Across all three lobbies, if a character is used by at least 6 people for qualifiers and 4 people for wildcards (in total from all lobbies), that character will be banned the next round (for one round, all lobbies).
 
 ## Unfair Play
 

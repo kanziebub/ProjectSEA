@@ -20,11 +20,15 @@ def create_penalty_table(header):
 ## Penalty Log """ +header+ """
 
 |  Game  | Team Name | Penalty | Reason                |
-|:-------|:----------|:--------|:----------------------|
-"""
+|:-------|:----------|:--------|:----------------------|"""
     return penalty
 
-def add_penalty(game, team, penalty, reason):
+def add_penalty(
+        game:str='',
+        team:str='', 
+        penalty:str='', 
+        reason:str=''
+    ):
     row = "| " + game + " | " + team + " | " + penalty + " | " + reason + " | \n"
     return row
 

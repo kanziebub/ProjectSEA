@@ -1,24 +1,29 @@
 from data import Data
 from page import Page
 from utils import (
+    add_penalty,
     create_leaderboard, 
     create_penalty_table, 
     read_yaml
 )
 
-def main():
-    config = read_yaml("config.yaml")
+import os
+current_dir = os.path.dirname(os.path.abspath(__file__))
+config_path = os.path.join(current_dir, "config.yaml")
+config = read_yaml(config_path) 
+
+def main():   
+    with_cp = False if config['checkpoint']==0 else True
+
     page = Page(config["page_filepath"])
-    sheetID = config["sheetID"]
-    sheetName = config["sheetName"]
-    df = Data(sheetID, sheetName)
+    data = Data(config["sheetID"], config["sheetName"], config["teams"])
     
     leaderboard = f"""
 # **Leaderboard**
 
-{create_leaderboard(df, 8, with_cp=True)} 
+{create_leaderboard(data, config["teams"], with_cp=with_cp)} 
 {create_penalty_table('')} 
-|        |           |         |                       | \n
+{add_penalty()}
 """
 
     page.set_header()

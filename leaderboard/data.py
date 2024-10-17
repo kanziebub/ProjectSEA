@@ -1,11 +1,11 @@
 import pandas as pd
 
 class Data:
-    def __init__(self, sheetID: str, name: str):
+    def __init__(self, sheetID: str, name: str, teams: int):
         self.sheetID = sheetID
         self.name = name
         self.url = f'https://docs.google.com/spreadsheets/d/{sheetID}/gviz/tq?tqx=out:csv&sheet={name}'
-        self.df = self.set_df()
+        self.df = self.set_df(teams)
 
     def get_by_team(self, team, column):
         row = self.df.loc[self.df['Name'] == team]
@@ -21,7 +21,7 @@ class Data:
     def get_df(self):
         return self.df
     
-    def set_df(self):
+    def set_df(self, teams):
         columns = {
             'Unnamed: 1':'Rank',
             'Unnamed: 2':'Name',
@@ -34,6 +34,6 @@ class Data:
         }
 
         df = pd.read_csv(self.url, encoding='latin')
-        df = df.iloc[1:19 , 1:9]
+        df = df.iloc[1:teams+1, 1:9]
         df.rename(columns=columns, inplace=True)
         return df

@@ -16,10 +16,8 @@ Registration opens 2024-09-07 13.00 UTC+07
 </p>
 
 <style>
-.group-section {
-}
 
-.group-section .container {
+.group-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

@@ -24,17 +24,16 @@ Registration opens 2024-09-07 13.00 UTC+07
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 600px;
 }
 
 .group-section .group-table {
     width: 48%;
     margin-bottom: 20px;
-    background-color: #f0f0f0; /* Light grey background for the tables */
     border-radius: 10px;
-    padding: 15px;
+    padding: 10px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    border: 1px solid #666666; /* Border in dark grey */
+    border: 1px solid #ffcc00; /* Border in dark grey */
 }
 
 .group-section table {
@@ -72,23 +71,43 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 
 <div class="group-section">
-<div class="container">
+
 <!-- Group A and Group B -->
 <div class="group-table">
     <div class="group-title">Group A</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>GodTnsh</td></tr>
-            <tr><td>Etherite</td></tr>
-            <tr><td>LastTeam</td></tr>
-            <tr><td>ViciVeni</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>GodTnsh</summary>
+      <ul>
+        <li>Alek</li>
+        <li>Gyoo</li>
+        <li>Tnsh</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Etherite</summary>
+      <ul>
+        <li>Kel2ykeion</li>
+        <li>ThreeRain</li>
+        <li>160999</li>
+      </ul>
+    </details>
+    <details>
+      <summary>LastTeam</summary>
+      <ul>
+        <li>Extera</li>
+        <li>Gallileo</li>
+        <li>Renal</li>
+      </ul>
+    </details>
+    <details>
+      <summary>ViciVeni</summary>
+      <ul>
+        <li>Gomibin</li>
+        <li>Ybardossa</li>
+        <li>Iz1Senpai</li>
+        <li>Nairos</li>
+      </ul>
+    </details>
 </div>
 
 <div class="group-table">
@@ -176,7 +195,6 @@ Registration opens 2024-09-07 13.00 UTC+07
             <tr><td>ScamArCra</td></tr>
         </tbody>
     </table>
-</div>
 </div>
 </div>
 

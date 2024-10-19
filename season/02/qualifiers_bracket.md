@@ -32,7 +32,7 @@ Registration opens 2024-09-07 13.00 UTC+07
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
-    min-width: 350px;
+    min-width: 600px;
 }
 
 .group-section .group-table {

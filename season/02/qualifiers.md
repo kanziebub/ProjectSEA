@@ -6,34 +6,34 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **GodTnsh** | 0 | **0** | 
-| #**2** | **M.A.D** | 0 | **0** | 
-| #**3** | **JELEE** | 0 | **0** | 
-| #**4** | **200ms** | 0 | **0** | 
-| #**5** | CherryBomb | 0 | 0 | 
-| #**6** | Bike | 0 | 0 | 
-| #**7** | Etherite | 0 | 0 | 
-| #**8** | CEPU | 0 | 0 | 
-| #**9** | OldFolkHome | 0 | 0 | 
-| #**10** | Degadegi | 0 | 0 | 
-| #**11** | HazeSama | 0 | 0 | 
-| #**12** | WingTomSai | 0 | 0 | 
-| #**13** | Eclair | 0 | 0 | 
-| #**14** | StepuhSons | 0 | 0 | 
-| #**15** | ViciVeni | 0 | 0 | 
-| #**16** | TILT | 0 | 0 | 
-| #**17** | 750credits | 0 | 0 | 
-| #**18** | ScamArCra | 0 | 0 | 
-| #**19** | 2K1Valleth | 0 | 0 | 
-| #**20** | TamGiac | 0 | 0 | 
-| #**21** | NaRoRe | 0 | 0 | 
-| #**22** | VisCa | 0 | 0 | 
-| #**23** | HeyTayo | 0 | 0 | 
-| #**24** | LastTeam | 0 | 0 | 
+| #**1** | **VisCa** | 17 | **24** | 
+| #**2** | **CherryBomb** | 16 | **23** | 
+| #**3** | **750credits** | 15 | **22** | 
+| #**4** | **CEPU** | 16 | **20** | 
+| #**5** | TamGiac | 12 | 14 | 
+| #**6** | GodTnsh | 10 | 14 | 
+| #**7** | HazeSama | 10 | 13 | 
+| #**8** | Degadegi | 9 | 13 | 
+| #**9** | OldFolkHome | 9 | 11 | 
+| #**10** | ScamArCra | 6 | 9 | 
+| #**11** | JELEE | 6 | 8 | 
+| #**12** | HeyTayo | 6 | 7 | 
+| #**13** | Etherite | 4 | 5 | 
+| #**14** | ViciVeni | 2 | 5 | 
+| #**15** | Eclair | 4 | 4 | 
+| #**16** | LastTeam | 3 | 3 | 
+| #**17** | M.A.D | 2 | 3 | 
+| #**18** | StepuhSons | 2 | 2 | 
+| #**19** | 2K1Valleth | 2 | 2 | 
+| #**20** | Bike | 1 | 1 | 
+| #**21** | WingTomSai | 1 | 1 | 
+| #**22** | 200ms | 0 | 0 | 
+| #**23** | TILT | 0 | 0 | 
+| #**24** | NaRoRe | 0 | 0 | 
  
 
 ## Penalty Log - Qualifiers

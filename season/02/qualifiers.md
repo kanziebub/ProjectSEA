@@ -6,33 +6,33 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **VisCa** | 17 | **24** | 
-| #**2** | **CherryBomb** | 16 | **23** | 
-| #**3** | **750credits** | 15 | **22** | 
-| #**4** | **CEPU** | 16 | **20** | 
-| #**5** | TamGiac | 12 | 14 | 
-| #**6** | GodTnsh | 10 | 14 | 
-| #**7** | HazeSama | 10 | 13 | 
-| #**8** | Degadegi | 9 | 13 | 
-| #**9** | OldFolkHome | 9 | 11 | 
-| #**10** | ScamArCra | 6 | 9 | 
-| #**11** | JELEE | 6 | 8 | 
-| #**12** | HeyTayo | 6 | 7 | 
-| #**13** | Etherite | 4 | 5 | 
-| #**14** | ViciVeni | 2 | 5 | 
-| #**15** | Eclair | 4 | 4 | 
-| #**16** | LastTeam | 3 | 3 | 
-| #**17** | M.A.D | 2 | 3 | 
-| #**18** | StepuhSons | 2 | 2 | 
-| #**19** | 2K1Valleth | 2 | 2 | 
-| #**20** | Bike | 1 | 1 | 
-| #**21** | WingTomSai | 1 | 1 | 
-| #**22** | 200ms | 0 | 0 | 
-| #**23** | TILT | 0 | 0 | 
+| #**1** | **750credits** | 32 | **46** | 
+| #**2** | **CherryBomb** | 31 | **42** | 
+| #**3** | **GodTnsh** | 26 | **37** | 
+| #**4** | **TamGiac** | 21 | **27** | 
+| #**5** | VisCa | 20 | 27 | 
+| #**6** | CEPU | 20 | 26 | 
+| #**7** | Bike | 16 | 23 | 
+| #**8** | Degadegi | 15 | 23 | 
+| #**9** | JELEE | 14 | 19 | 
+| #**10** | HazeSama | 13 | 19 | 
+| #**11** | ScamArCra | 10 | 15 | 
+| #**12** | OldFolkHome | 11 | 13 | 
+| #**13** | ViciVeni | 7 | 12 | 
+| #**14** | Eclair | 7 | 10 | 
+| #**15** | LastTeam | 8 | 9 | 
+| #**16** | Etherite | 7 | 8 | 
+| #**17** | HeyTayo | 7 | 8 | 
+| #**18** | TILT | 5 | 6 | 
+| #**19** | 2K1Valleth | 5 | 5 | 
+| #**20** | M.A.D | 4 | 5 | 
+| #**21** | WingTomSai | 4 | 4 | 
+| #**22** | 200ms | 3 | 4 | 
+| #**23** | StepuhSons | 3 | 3 | 
 | #**24** | NaRoRe | 0 | 0 | 
  
 

@@ -20,6 +20,7 @@ layout: default
 ## ER Project:SEA S2
 - [Registered Teams](./season/02/teams.md)
 - [Qualifiers Leaderboard](./season/02/qualifiers.md)
+- [Qualifiers Bracket](./season/02/qualifiers_bracket.md)
 - [Wildcard Leaderboard](./season/02/wildcard.md)
 - [Finals Leaderboard](./season/02/finals.md)
 

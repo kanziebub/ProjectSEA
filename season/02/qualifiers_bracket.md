@@ -10,7 +10,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_2_Open_Registration.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/S2_chip.gif" 
     alt="S2OpenReg" 
     style="max-height: 350px;">
 </p>

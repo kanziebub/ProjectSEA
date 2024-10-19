@@ -20,16 +20,18 @@ Registration opens 2024-09-07 13.00 UTC+07
 .out-box {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
-    max-width: 1200px;
+    /* padding: 20px; */
 }
 
 .group-section {
-    margin: auto;
-    min-width: 400px;
-    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
 }
 
 .group-section .group-table {
@@ -72,18 +74,12 @@ Registration opens 2024-09-07 13.00 UTC+07
     color: #666666; /* Dark grey group title */
 }
 
-@media (max-width: 768px) {
-    .group-table {
-        flex: 1 1 100%; /* Full width on smaller screens */
-        margin-bottom: 20px;
-    }
-}
 </style>
 
 <div class="out-box">
 <div class="group-section">
 
-<!-- Group A and Group B -->
+<!-- Group A -->
 <div class="group-table">
     <div class="group-title">Group A</div>
     <details>
@@ -200,59 +196,126 @@ Registration opens 2024-09-07 13.00 UTC+07
     </details>
 </div>
 
+<!-- Group D -->
 <div class="group-table">
     <div class="group-title">Group D</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>JELEE</td></tr>
-            <tr><td>M.A.D</td></tr>
-            <tr><td>StepuhSons</td></tr>
-            <tr><td>DegaDegi</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>JELEE</summary>
+      <ul>
+        <li>Sachiko</li>
+        <li>감자카레</li>
+        <li>Lolzilla</li>
+        <li>Kenpid</li>
+      </ul>
+    </details>
+    <details>
+      <summary>M.A.D</summary>
+      <ul>
+        <li>Zewnay</li>
+        <li>AltamaTheFirst</li>
+        <li>PurpleHeartNep</li>
+      </ul>
+    </details>
+    <details>
+      <summary>StepuhSons</summary>
+      <ul>
+        <li>Ellinium</li>
+        <li>Saiikyouu</li>
+        <li>Oshunicus</li>
+        <li>Helvesta</li>
+      </ul>
+    </details>
+    <details>
+      <summary>DegaDegi</summary>
+      <ul>
+        <li>CEPUーJandaHnter</li>
+        <li>Rivulose</li>
+        <li>Azurieru</li>
+      </ul>
+    </details>
 </div>
 
-<!-- Group E and Group F -->
+<!-- Group E -->
 <div class="group-table">
     <div class="group-title">Group E</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>CEPU</td></tr>
-            <tr><td>750Credits</td></tr>
-            <tr><td>HeyTayo</td></tr>
-            <tr><td>NaRoRe</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>CEPU</summary>
+      <ul>
+        <li>Peposadge</li>
+        <li>CEPUーValsh</li>
+        <li>CEPUーLuminears</li>
+      </ul>
+    </details>
+    <details>
+      <summary>750Credits</summary>
+      <ul>
+        <li>ElainaYukino</li>
+        <li>HeartofVietnam</li>
+        <li>21M一RFT94</li>
+        <li>Adrelia</li>
+      </ul>
+    </details>
+    <details>
+      <summary>HeyTayo</summary>
+      <ul>
+        <li>Onryou</li>
+        <li>ZxLaim</li>
+        <li>Yazoo</li>
+      </ul>
+    </details>
+    <details>
+      <summary>NaRoRe</summary>
+      <ul>
+        <li>HyzeHox</li>
+        <li>Rooper13</li>
+        <li>RedTheWolf</li>
+      </ul>
+    </details>
 </div>
 
+<!-- Group F -->
 <div class="group-table">
     <div class="group-title">Group F</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>TamGiac</td></tr>
-            <tr><td>200ms</td></tr>
-            <tr><td>Bike</td></tr>
-            <tr><td>ScamArCra</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>TamGiac</summary>
+      <ul>
+        <li>TamGiac</li>
+        <li>JohannsJuice</li>
+        <li>RozziSimp</li>
+      </ul>
+    </details>
+    <details>
+      <summary>200ms</summary>
+      <ul>
+        <li>Reniki</li>
+        <li>DanielDarkSistem</li>
+        <li>Sussela</li>
+        <li>Muwhaha</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Bike</summary>
+      <ul>
+        <li>ShigureUi</li>
+        <li>Haii</li>
+        <li>Chinmi</li>
+        <li>Fiana</li>
+      </ul>
+    </details>
+    <details>
+      <summary>ScamArCra</summary>
+      <ul>
+        <li>ArCraMiCia</li>
+        <li>DoubleEye</li>
+        <li>SUNKANoWBX</li>
+        <li>MuRyoKuSho</li>
+      </ul>
+    </details>
+</div>
+
 </div>
 </div>
-</div>
+<br>
 
 ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png)
 [Home](https://kanziebub.github.io/ProjectSEA/)

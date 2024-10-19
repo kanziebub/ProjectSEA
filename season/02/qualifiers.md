@@ -24,7 +24,7 @@ layout: default
 | #**12** | OldFolkHome | 11 | 13 | 
 | #**13** | ViciVeni | 7 | 12 | 
 | #**14** | Eclair | 7 | 10 | 
-| #**15** | LastTeam | 8 | 9 | 
+| #**15** | LastTeam | 8 | 8 | 
 | #**16** | Etherite | 7 | 8 | 
 | #**17** | HeyTayo | 7 | 8 | 
 | #**18** | TILT | 5 | 6 | 
@@ -33,14 +33,14 @@ layout: default
 | #**21** | WingTomSai | 4 | 4 | 
 | #**22** | 200ms | 3 | 4 | 
 | #**23** | StepuhSons | 3 | 3 | 
-| #**24** | NaRoRe | 0 | 0 | 
+| #**24** | NaRoRe | 0 | -1 | 
  
 
 ## Penalty Log - Qualifiers
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 
-|  |  |  |  | 
-
+| 2 | NaRoRe | -1 | Non Player Death (Rooper) |
+| 2 | LastTeam | -1 | Non Player Death (Renal) |
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

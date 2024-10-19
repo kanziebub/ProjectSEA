@@ -29,7 +29,7 @@ def add_penalty(
         penalty:str='', 
         reason:str=''
     ):
-    row = "| " + game + " | " + team + " | " + penalty + " | " + reason + " | \n"
+    row = "| " + game + " | " + team + " | " + penalty + " | " + reason + " |"
     return row
 
 def create_leaderboard(df: Data, teams, with_cp=False):

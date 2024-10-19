@@ -25,7 +25,18 @@ def main():
 
 {create_leaderboard(data, config["teams"], with_cp=with_cp)} 
 {create_penalty_table('- Qualifiers')} 
-{add_penalty()}
+{add_penalty(
+    game='2',
+    team='NaRoRe',
+    penalty='-1',
+    reason='Non Player Death (Rooper)'
+)}
+{add_penalty(
+    game='2',
+    team='LastTeam',
+    penalty='-1',
+    reason='Non Player Death (Renal)'
+)}
 """
 
     page.set_header()

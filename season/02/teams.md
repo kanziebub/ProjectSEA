@@ -162,9 +162,9 @@ Registration opens 2024-09-07 13.00 UTC+07
 <details>
   <summary>TILT</summary>
   <ul>
-    <li>TaliyahOma</li>
-    <li>Dice21</li>
-    <li>Restifik</li>
+    <li>dice21</li>
+    <li>LycheeLemon</li>
+    <li>LucisC</li>
   </ul>
 </details>
 

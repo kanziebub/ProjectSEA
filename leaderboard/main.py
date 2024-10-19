@@ -37,6 +37,12 @@ def main():
     penalty='-1',
     reason='Non Player Death (Renal)'
 )}
+{add_penalty(
+    game='3',
+    team='VisCa',
+    penalty='-1',
+    reason='Non Player Death (Fee)'
+)}
 """
 
     page.set_header()

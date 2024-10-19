@@ -23,7 +23,7 @@ Registration opens 2024-09-07 13.00 UTC+07
     align-items: center;
     width: 100%;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 0px auto;
     /* padding: 20px; */
 }
 
@@ -31,7 +31,9 @@ Registration opens 2024-09-07 13.00 UTC+07
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 0px 20px;
     width: 100%;
+    min-width: 600px;
 }
 
 .group-section .group-table {
@@ -40,7 +42,7 @@ Registration opens 2024-09-07 13.00 UTC+07
     border-radius: 10px;
     padding: 10px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    border: 1px solid #ffcc00; /* Border in dark grey */
+    border: 1px solid #ffcc00; 
 }
 
 .group-section table {
@@ -96,6 +98,7 @@ Registration opens 2024-09-07 13.00 UTC+07
         <li>Kel2ykeion</li>
         <li>ThreeRain</li>
         <li>160999</li>
+        <li>Taylored</li>
       </ul>
     </details>
     <details>

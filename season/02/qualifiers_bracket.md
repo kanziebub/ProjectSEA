@@ -15,68 +15,6 @@ Registration opens 2024-09-07 13.00 UTC+07
     style="max-height: 350px;">
 </p>
 
-<style>
-
-.out-box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    max-width: 1000px;
-    /* margin: 0px auto; */
-    /* padding: 20px; */
-}
-
-.group-section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 100%;
-    min-width: 600px;
-}
-
-.group-section .group-table {
-    width: 48%;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    border: 1px solid #ffcc00; 
-}
-
-.group-section table {
-    width: 100%;
-    border-collapse: collapse;
-    color: #666666; /* Dark grey text in tables */
-}
-
-.group-section th, .group-section td {
-    text-align: left;
-    padding: 8px;
-    border-bottom: 1px solid #666666; /* Border between rows */
-}
-
-.group-section th {
-    background-color: #666666; /* Dark grey header */
-    color: #f0f0f0; /* Light grey text in header */
-    font-size: 1.1em;
-}
-
-.group-section td {
-    background-color: #f0f0f0; /* Light grey cells */
-    color: #666666; /* Dark grey text in cells */
-}
-
-.group-section .group-title {
-    text-align: center;
-    font-size: 1.3em;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #666666; /* Dark grey group title */
-}
-
-</style>
-
 <div class="out-box">
 <div class="group-section">
 

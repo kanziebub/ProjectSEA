@@ -17,12 +17,19 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <style>
 
-.group-section {
+.out-box {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-between;
+    /* justify-content: center; */
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 1200px;
+}
+
+.group-section {
+    margin: auto;
+    min-width: 400px;
+    max-width: 800px;
 }
 
 .group-section .group-table {
@@ -65,9 +72,15 @@ Registration opens 2024-09-07 13.00 UTC+07
     color: #666666; /* Dark grey group title */
 }
 
+@media (max-width: 768px) {
+    .group-table {
+        flex: 1 1 100%; /* Full width on smaller screens */
+        margin-bottom: 20px;
+    }
+}
 </style>
 
-
+<div class="out-box">
 <div class="group-section">
 
 <!-- Group A and Group B -->
@@ -108,39 +121,83 @@ Registration opens 2024-09-07 13.00 UTC+07
     </details>
 </div>
 
+<!-- Group B -->
 <div class="group-table">
     <div class="group-title">Group B</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>OldFolkHome</td></tr>
-            <tr><td>Eclair</td></tr>
-            <tr><td>Visca</td></tr>
-            <tr><td>2K1Valleth</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>OldFolkHome</summary>
+      <ul>
+        <li>Luerye</li>
+        <li>Rion34</li>
+        <li>OldCW</li>
+        <li>PlapPlpGtMarried</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Eclair</summary>
+      <ul>
+        <li>Caffeine811</li>
+        <li>SoraNoGeki</li>
+        <li>NaFi</li>
+      </ul>
+    </details>
+    <details>
+      <summary>VisCa</summary>
+      <ul>
+        <li>StellaAurelius</li>
+        <li>Luminym</li>
+        <li>Fee</li>
+        <li>VisCa243</li>
+      </ul>
+    </details>
+    <details>
+      <summary>2K1Valleth</summary>
+      <ul>
+        <li>SakiMatsumi</li>
+        <li>Valleth</li>
+        <li>Lyfin</li>
+      </ul>
+    </details>
 </div>
 
-<!-- Group C and Group D -->
+
+<!-- Group C -->
 <div class="group-table">
     <div class="group-title">Group C</div>
-    <table>
-        <thead>
-            <tr>
-                <th>Team</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>CherryBomb</td></tr>
-            <tr><td>TILT</td></tr>
-            <tr><td>WingTomSai</td></tr>
-            <tr><td>HazeSama</td></tr>
-        </tbody>
-    </table>
+    <details>
+      <summary>CherryBomb</summary>
+      <ul>
+        <li>Miraibelle</li>
+        <li>Befreedom</li>
+        <li>sLLLime</li>
+        <li>Kazeroth</li>
+      </ul>
+    </details>
+    <details>
+      <summary>TILT</summary>
+      <ul>
+        <li>dice21</li>
+        <li>LycheeLemon</li>
+        <li>LucisC</li>
+      </ul>
+    </details>
+    <details>
+      <summary>WingTomSai</summary>
+      <ul>
+        <li>Heroic</li>
+        <li>Nackbkk</li>
+        <li>Stram11</li>
+      </ul>
+    </details>
+    <details>
+      <summary>HazeSama</summary>
+      <ul>
+        <li>PekoMarisa</li>
+        <li>绯莎</li>
+        <li>RainbowFudge</li>
+        <li>jasonjoe123</li>
+      </ul>
+    </details>
 </div>
 
 <div class="group-table">
@@ -193,6 +250,7 @@ Registration opens 2024-09-07 13.00 UTC+07
             <tr><td>ScamArCra</td></tr>
         </tbody>
     </table>
+</div>
 </div>
 </div>
 

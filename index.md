@@ -22,6 +22,7 @@ layout: default
 - [Qualifiers Leaderboard](./season/02/qualifiers.md)
 - [Qualifiers Bracket](./season/02/qualifiers_bracket.md)
 - [Wildcard Leaderboard](./season/02/wildcard.md)
+- [Wildcard Bracket](./season/02/wildcard_bracket.md)
 - [Finals Leaderboard](./season/02/finals.md)
 
 ## ER Project:SEA S1

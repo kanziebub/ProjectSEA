@@ -142,6 +142,47 @@ Registration opens 2024-09-07 13.00 UTC+07
     </details>
 </div>
 
+<!-- Group D -->
+<div class="group-table">
+    <div class="group-title">Group D</div>
+     <details>
+      <summary>Team</summary>
+      <ul>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Team</summary>
+      <ul>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Team</summary>
+      <ul>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Team</summary>
+      <ul>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+        <li>Player</li>
+      </ul>
+    </details>
+</div>
+
 <!-- Group E -->
 <div class="group-table">
     <div class="group-title">Group E</div>

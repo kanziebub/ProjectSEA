@@ -17,18 +17,18 @@ layout: default
 | #**5** | Etherite | 0 | 0 | 
 | #**6** | CEPU | 0 | 0 | 
 | #**7** | OldFolkHome | 0 | 0 | 
-| #**8** | Degadegi | 0 | 0 | 
-| #**9** | HazeSama | 0 | 0 | 
-| #**10** | WingTomSai | 0 | 0 | 
-| #**11** | StepuhSons | 0 | 0 | 
-| #**12** | ViciVeni | 0 | 0 | 
-| #**13** | TILT | 0 | 0 | 
-| #**14** | ScamArCra | 0 | 0 | 
-| #**15** | 2K1Valleth | 0 | 0 | 
-| #**16** | TamGiac | 0 | 0 | 
-| #**17** | NaRoRe | 0 | 0 | 
-| #**18** | HeyTayo | 0 | 0 | 
-| #**19** | LastTeam | 0 | 0 | 
+| #**8** | HazeSama | 0 | 0 | 
+| #**9** | WingTomSai | 0 | 0 | 
+| #**10** | StepuhSons | 0 | 0 | 
+| #**11** | ViciVeni | 0 | 0 | 
+| #**12** | TILT | 0 | 0 | 
+| #**13** | ScamArCra | 0 | 0 | 
+| #**14** | 2K1Valleth | 0 | 0 | 
+| #**15** | TamGiac | 0 | 0 | 
+| #**16** | NaRoRe | 0 | 0 | 
+| #**17** | HeyTayo | 0 | 0 | 
+| #**18** | LastTeam | 0 | 0 | 
+| #**19** | Degadegi | 0 | -1 | 
 | #**20** | Eclair | 0 | -1 | 
  
 
@@ -37,5 +37,6 @@ layout: default
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 
 | 1 | Eclair | -1 | Non Player Death (Caffeine) |
+| 1 | DegaDegi | -1 | Non Player Death (Azurieru) |
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

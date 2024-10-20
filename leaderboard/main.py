@@ -61,6 +61,18 @@ def main():
     penalty='-1',
     reason='Non Player Death (CEPU-Valsh)'
 )}
+{add_penalty(
+    game='4',
+    team='StepuhSons',
+    penalty='-1',
+    reason='Non Player Death (Saiikyouu)'
+)}
+{add_penalty(
+    game='4',
+    team='StepuhSons',
+    penalty='-1',
+    reason='Non Player Death (Oshunicus)'
+)}
 """
 
     page.set_header()

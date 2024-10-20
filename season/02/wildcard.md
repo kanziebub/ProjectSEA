@@ -6,28 +6,28 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **OldFolkHome** | 12 | **19** | 
-| #**2** | **StepuhSons** | 9 | **16** | 
-| #**3** | **WingTomSai** | 11 | **15** | 
-| #**4** | **Degadegi** | 11 | **14** | 
-| #**5** | Bike | 10 | 12 | 
-| #**6** | ScamArCra | 9 | 11 | 
-| #**7** | HazeSama | 8 | 11 | 
-| #**8** | M.A.D | 5 | 5 | 
-| #**9** | Etherite | 5 | 5 | 
-| #**10** | JELEE | 4 | 5 | 
-| #**11** | ViciVeni | 2 | 5 | 
-| #**12** | LastTeam | 2 | 3 | 
-| #**13** | HeyTayo | 4 | 2 | 
-| #**14** | 200ms | 0 | 0 | 
-| #**15** | CEPU | 0 | 0 | 
-| #**16** | TILT | 0 | 0 | 
-| #**17** | 2K1Valleth | 0 | 0 | 
-| #**18** | TamGiac | 0 | 0 | 
+| #**1** | **Degadegi** | 28 | **38** | 
+| #**2** | **WingTomSai** | 26 | **37** | 
+| #**3** | **Bike** | 19 | **25** | 
+| #**4** | **OldFolkHome** | 17 | **25** | 
+| #**5** | HazeSama | 17 | 21 | 
+| #**6** | ScamArCra | 15 | 20 | 
+| #**7** | StepuhSons | 9 | 16 | 
+| #**8** | CEPU | 9 | 12 | 
+| #**9** | ViciVeni | 5 | 12 | 
+| #**10** | LastTeam | 7 | 10 | 
+| #**11** | M.A.D | 6 | 6 | 
+| #**12** | 200ms | 4 | 6 | 
+| #**13** | Etherite | 5 | 5 | 
+| #**14** | TILT | 5 | 5 | 
+| #**15** | JELEE | 4 | 5 | 
+| #**16** | TamGiac | 3 | 3 | 
+| #**17** | HeyTayo | 4 | 2 | 
+| #**18** | 2K1Valleth | 1 | 1 | 
 | #**19** | NaRoRe | 0 | 0 | 
 | #**20** | Eclair | 0 | -1 | 
  
@@ -40,5 +40,7 @@ layout: default
 | 1 | DegaDegi | -1 | Non Player Death (Azurieru) |
 | 1 | HeyTayo | -1 | Non Player Death (Onryou) |
 | 1 | HeyTayo | -1 | Non Player Death (ZxLaim) |
+| 2 | ViciVeni | -1 | Non Player Death (Iz1Senpai) |
+| 2 | CEPU | -1 | Non Player Death (CEPU-Valsh) |
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

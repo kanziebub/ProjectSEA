@@ -21,8 +21,13 @@ layout: default
 | #**9** | Etherite | 5 | 5 | 
 | #**10** | JELEE | 4 | 5 | 
 | #**11** | ViciVeni | 2 | 5 | 
+<<<<<<< HEAD
 | #**12** | LastTeam | 2 | 3 | 
 | #**13** | HeyTayo | 4 | 2 | 
+=======
+| #**12** | HeyTayo | 4 | 4 | 
+| #**13** | LastTeam | 2 | 3 | 
+>>>>>>> cf6232b7015db8a81a925e1adeb24b45fd1d8c42
 | #**14** | 200ms | 0 | 0 | 
 | #**15** | CEPU | 0 | 0 | 
 | #**16** | TILT | 0 | 0 | 

@@ -11,25 +11,25 @@ layout: default
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 | #**1** | **Bike** | 50 | **70** | 
-| #**2** | **WingTomSai** | 41 | **59** | 
-| #**3** | **CEPU** | 38 | **49** | 
-| #**4** | **Degadegi** | 33 | **47** | 
-| #**5** | ScamArCra | 30 | 42 | 
-| #**6** | Etherite | 27 | 33 | 
-| #**7** | OldFolkHome | 21 | 31 | 
-| #**8** | HazeSama | 21 | 25 | 
-| #**9** | StepuhSons | 13 | 25 | 
-| #**10** | ViciVeni | 11 | 19 | 
-| #**11** | JELEE | 11 | 18 | 
-| #**12** | TILT | 16 | 17 | 
-| #**13** | TamGiac | 14 | 16 | 
-| #**14** | LastTeam | 11 | 14 | 
-| #**15** | M.A.D | 7 | 9 | 
-| #**16** | NaRoRe | 6 | 9 | 
-| #**17** | HeyTayo | 9 | 7 | 
-| #**18** | 200ms | 4 | 6 | 
-| #**19** | 2K1Valleth | 1 | 1 | 
-| #**20** | Eclair | 0 | -1 | 
+| #**2** | **CEPU** | 52 | **67** | 
+| #**3** | **ScamArCra** | 42 | **61** | 
+| #**4** | **Degadegi** | 44 | **60** | 
+| #**5** | WingTomSai | 41 | 59 | 
+| #**6** | Etherite | 38 | 47 | 
+| #**7** | OldFolkHome | 30 | 47 | 
+| #**8** | StepuhSons | 18 | 30 | 
+| #**9** | ViciVeni | 15 | 27 | 
+| #**10** | TILT | 22 | 26 | 
+| #**11** | HazeSama | 21 | 25 | 
+| #**12** | JELEE | 14 | 21 | 
+| #**13** | TamGiac | 18 | 20 | 
+| #**14** | LastTeam | 12 | 15 | 
+| #**15** | M.A.D | 9 | 13 | 
+| #**16** | HeyTayo | 13 | 12 | 
+| #**17** | NaRoRe | 9 | 12 | 
+| #**18** | 200ms | 7 | 10 | 
+| #**19** | Eclair | 2 | 1 | 
+| #**20** | 2K1Valleth | 1 | 1 | 
  
 
 ## Penalty Log - Wildcard
@@ -44,5 +44,6 @@ layout: default
 | 2 | CEPU | -1 | Non Player Death (CEPU-Valsh) |
 | 4 | StepuhSons | -1 | Non Player Death (Saiikyouu) |
 | 4 | StepuhSons | -1 | Non Player Death (Oshunicus) |
+| 5 | LastTeam | -1 | Non Player Death (Gallileo) |
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

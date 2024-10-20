@@ -24,30 +24,12 @@ def main():
 # **Leaderboard**
 
 {create_leaderboard(data, config["teams"], with_cp=with_cp)} 
-{create_penalty_table('- Qualifiers')} 
+{create_penalty_table('- Wildcard')} 
 {add_penalty(
-    game='2',
-    team='NaRoRe',
+    game='1',
+    team='Eclair',
     penalty='-1',
-    reason='Non Player Death (Rooper)'
-)}
-{add_penalty(
-    game='2',
-    team='LastTeam',
-    penalty='-1',
-    reason='Non Player Death (Renal)'
-)}
-{add_penalty(
-    game='3',
-    team='VisCa',
-    penalty='-1',
-    reason='Non Player Death (Fee)'
-)}
-{add_penalty(
-    game='5',
-    team='CEPU',
-    penalty='-1',
-    reason='Non Player Death (Luminears)'
+    reason='Non Player Death (Caffeine)'
 )}
 """
 

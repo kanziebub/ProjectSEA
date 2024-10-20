@@ -6,29 +6,29 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **M.A.D** | 0 | **0** | 
-| #**2** | **JELEE** | 0 | **0** | 
-| #**3** | **200ms** | 0 | **0** | 
-| #**4** | **Bike** | 0 | **0** | 
-| #**5** | Etherite | 0 | 0 | 
-| #**6** | CEPU | 0 | 0 | 
-| #**7** | OldFolkHome | 0 | 0 | 
-| #**8** | HazeSama | 0 | 0 | 
-| #**9** | WingTomSai | 0 | 0 | 
-| #**10** | StepuhSons | 0 | 0 | 
-| #**11** | ViciVeni | 0 | 0 | 
-| #**12** | TILT | 0 | 0 | 
-| #**13** | ScamArCra | 0 | 0 | 
-| #**14** | 2K1Valleth | 0 | 0 | 
-| #**15** | TamGiac | 0 | 0 | 
-| #**16** | NaRoRe | 0 | 0 | 
-| #**17** | HeyTayo | 0 | 0 | 
-| #**18** | LastTeam | 0 | 0 | 
-| #**19** | Degadegi | 0 | -1 | 
+| #**1** | **OldFolkHome** | 12 | **19** | 
+| #**2** | **StepuhSons** | 9 | **16** | 
+| #**3** | **WingTomSai** | 11 | **15** | 
+| #**4** | **Degadegi** | 11 | **14** | 
+| #**5** | Bike | 10 | 12 | 
+| #**6** | ScamArCra | 9 | 11 | 
+| #**7** | HazeSama | 8 | 11 | 
+| #**8** | M.A.D | 5 | 5 | 
+| #**9** | Etherite | 5 | 5 | 
+| #**10** | JELEE | 4 | 5 | 
+| #**11** | ViciVeni | 2 | 5 | 
+| #**12** | HeyTayo | 4 | 4 | 
+| #**13** | LastTeam | 2 | 3 | 
+| #**14** | 200ms | 0 | 0 | 
+| #**15** | CEPU | 0 | 0 | 
+| #**16** | TILT | 0 | 0 | 
+| #**17** | 2K1Valleth | 0 | 0 | 
+| #**18** | TamGiac | 0 | 0 | 
+| #**19** | NaRoRe | 0 | 0 | 
 | #**20** | Eclair | 0 | -1 | 
  
 

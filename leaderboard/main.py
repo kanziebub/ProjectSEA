@@ -37,6 +37,18 @@ def main():
     penalty='-1',
     reason='Non Player Death (Azurieru)'
 )}
+{add_penalty(
+    game='1',
+    team='HeyTayo',
+    penalty='-1',
+    reason='Non Player Death (Onryou)'
+)}
+{add_penalty(
+    game='1',
+    team='HeyTayo',
+    penalty='-1',
+    reason='Non Player Death (ZxLaim)'
+)}
 """
 
     page.set_header()

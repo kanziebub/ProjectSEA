@@ -20,82 +20,76 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <!-- Group A -->
 <div class="group-table">
-    <div class="group-title">Group A</div>
+    <div class="group-title">Group v</div>
     <details>
-      <summary>Team</summary>
+      <summary>CEPU</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Peposadge</li>
+        <li>CEPUーValsh</li>
+        <li>CEPUーLuminears</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>TILT</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>dice21</li>
+        <li>LycheeLemon</li>
+        <li>LucisC</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>TamGiac</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>TamGiac</li>
+        <li>JohannsJuice</li>
+        <li>RozziSimp</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>NaRoRe</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>HyzeHox</li>
+        <li>Rooper13</li>
+        <li>RedTheWolf</li>
       </ul>
     </details>
 </div>
 
 <!-- Group B -->
 <div class="group-table">
-    <div class="group-title">Group B</div>
+    <div class="group-title">Group w</div>
     <details>
-      <summary>Team</summary>
+      <summary>ScamArCra</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>ArCraMiCia</li>
+        <li>DoubleEye</li>
+        <li>SUNKANoWBX</li>
+        <li>MuRyoKuSho</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>200ms</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Reniki</li>
+        <li>DanielDarkSistem</li>
+        <li>Sussela</li>
+        <li>Muwhaha</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>M.A.D</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Zewnay</li>
+        <li>AltamaTheFirst</li>
+        <li>PurpleHeartNep</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>Eclair</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Caffeine811</li>
+        <li>SoraNoGeki</li>
+        <li>NaFi</li>
       </ul>
     </details>
 </div>
@@ -103,123 +97,118 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <!-- Group C -->
 <div class="group-table">
-    <div class="group-title">Group C</div>
-     <details>
-      <summary>Team</summary>
+    <div class="group-title">Group x</div>
+    <details>
+      <summary>DegaDegi</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>CEPUーJandaHnter</li>
+        <li>Rivulose</li>
+        <li>Azurieru</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>LastTeam</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Extera</li>
+        <li>Gallileo</li>
+        <li>Renal</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>ViciVeni</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Gomibin</li>
+        <li>Ybardossa</li>
+        <li>Iz1Senpai</li>
+        <li>Nairos</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>OldFolkHome</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Luerye</li>
+        <li>Rion34</li>
+        <li>OldCW</li>
+        <li>PlapPlpGtMarried</li>
       </ul>
     </details>
 </div>
 
 <!-- Group D -->
 <div class="group-table">
-    <div class="group-title">Group D</div>
+    <div class="group-title">Group y</div>
      <details>
-      <summary>Team</summary>
+      <summary>JELEE</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Sachiko</li>
+        <li>감자카레</li>
+        <li>Lolzilla</li>
+        <li>Kenpid</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>StepuhSons</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Ellinium</li>
+        <li>Saiikyouu</li>
+        <li>Oshunicus</li>
+        <li>Helvesta</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>HeyTayo</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Onryou</li>
+        <li>ZxLaim</li>
+        <li>Yazoo</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>Etherite</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Kel2ykeion</li>
+        <li>ThreeRain</li>
+        <li>160999</li>
+        <li>Taylored</li>
       </ul>
     </details>
 </div>
 
 <!-- Group E -->
 <div class="group-table">
-    <div class="group-title">Group E</div>
+    <div class="group-title">Group z</div>
     <details>
-      <summary>Team</summary>
+      <summary>HazeSama</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>PekoMarisa</li>
+        <li>绯莎</li>
+        <li>RainbowFudge</li>
+        <li>jasonjoe123</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>Bike</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>ShigureUi</li>
+        <li>Haii</li>
+        <li>Chinmi</li>
+        <li>Fiana</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>WingTomSai</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>Heroic</li>
+        <li>Nackbkk</li>
+        <li>Stram11</li>
       </ul>
     </details>
     <details>
-      <summary>Team</summary>
+      <summary>2K1Valleth</summary>
       <ul>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
-        <li>Player</li>
+        <li>SakiMatsumi</li>
+        <li>Valleth</li>
+        <li>Lyfin</li>
       </ul>
     </details>
 </div>

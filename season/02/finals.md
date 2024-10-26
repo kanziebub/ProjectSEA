@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **GodTnsh** | 39 | **53** | False | 
-| #**2** | **VisCa** | 18 | **19** | False | 
-| #**3** | **ScamArCra** | 11 | **17** | False | 
-| #**4** | CEPU | 12 | 16 | False | 
-| #**5** | CherryBomb | 12 | 16 | False | 
-| #**6** | Bike | 8 | 12 | False | 
-| #**7** | 750credits | 8 | 8 | False | 
-| #**8** | Degadegi | 6 | 7 | False | 
+| #**1** | **GodTnsh** | 41 | **57** | True | 
+| #**2** | **Bike** | 21 | **32** | False | 
+| #**3** | **CEPU** | 22 | **30** | False | 
+| #**4** | VisCa | 23 | 24 | False | 
+| #**5** | 750credits | 20 | 23 | False | 
+| #**6** | CherryBomb | 19 | 23 | False | 
+| #**7** | ScamArCra | 15 | 22 | False | 
+| #**8** | Degadegi | 7 | 8 | False | 
  
 
 ## Penalty Log - Finals

@@ -24,7 +24,7 @@ def main():
 # **Leaderboard**
 
 {create_leaderboard(data, config["teams"], with_cp=with_cp)} 
-{create_penalty_table('- Wildcard')} 
+{create_penalty_table('- Finals')} 
 {add_penalty()}
 """ 
 # add_penalty() /no param/ itu untuk filler row ketika belum ada penalty

@@ -20,7 +20,7 @@ layout: default
 | #**8** | VisCa | 0 | 0 | False | 
  
 
-## Penalty Log - Wildcard
+## Penalty Log - Finals
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 

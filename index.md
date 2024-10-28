@@ -6,6 +6,20 @@ layout: default
 
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
+## Statistics
+- [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
+- [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
+
+## ProjectSEA: Newbie Tournament 
+> Coming Soon
+- [Coach List](./newbie/coaches.md)
+
+## ProjectSEA S2
+- [Registered Teams](./season/02/teams.md)
+- [Qualifiers Leaderboard](./season/02/qualifiers.md)
+- [Wildcard Leaderboard](./season/02/wildcard.md)
+- [Finals Leaderboard](./season/02/finals.md)
+
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S2_Banner.png" 
@@ -13,17 +27,7 @@ layout: default
     style="max-height: 400px;">
 </p>
 
-## Statistics
-- [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
-- [S2 Winners](./comming_soon.md)
-
-## ER Project:SEA S2
-- [Registered Teams](./season/02/teams.md)
-- [Qualifiers Leaderboard](./season/02/qualifiers.md)
-- [Wildcard Leaderboard](./season/02/wildcard.md)
-- [Finals Leaderboard](./season/02/finals.md)
-
-## ER Project:SEA S1
+## ProjectSEA S1
 
 - [Registered Teams](./season/01/teams.md)
 - [Qualifiers Leaderboard](./season/01/qualifiers.md)

@@ -12,6 +12,7 @@ layout: default
 
 ## ProjectSEA: Newbie Tournament 
 > Coming Soon
+
 - [Coach List](./newbie/coaches.md)
 
 ## ProjectSEA S2

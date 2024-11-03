@@ -10,13 +10,13 @@ Registration opens 2024-09-07 13.00 UTC+07
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/Project_Sea_2_Open_Registration.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_OpenRegis.png" 
     alt="S2OpenReg" 
     style="max-height: 350px;">
 </p>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Alek</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -25,7 +25,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Arcra</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -34,7 +34,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Kazeroth</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -43,7 +43,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>King Kentang</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -52,7 +52,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Luerye</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -61,7 +61,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Luminears</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -70,7 +70,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Restifik</summary>
   <ul>
     <li>player</li>
     <li>player</li>
@@ -79,7 +79,7 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Coach</summary>
+  <summary>Slime</summary>
   <ul>
     <li>player</li>
     <li>player</li>

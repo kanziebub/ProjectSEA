@@ -6,7 +6,7 @@ layout: default
 [Home](https://kanziebub.github.io/ProjectSEA/)
 
 # **ER Project:SEA S2 Registered Teams**
-Registration opens 2024-09-07 13.00 UTC+07
+Registration opens 2024-11-16 13.00 UTC+07
 
 <p align="center">
   <img 
@@ -14,78 +14,6 @@ Registration opens 2024-09-07 13.00 UTC+07
     alt="S2OpenReg" 
     style="max-height: 350px;">
 </p>
-
-<details>
-  <summary>Alek</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Arcra</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Kazeroth</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>King Kentang</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Luerye</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Luminears</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Restifik</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Slime</summary>
-  <ul>
-    <li>player</li>
-    <li>player</li>
-    <li>player</li>
-  </ul>
-</details>
 
 
 <br>

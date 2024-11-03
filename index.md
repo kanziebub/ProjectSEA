@@ -10,10 +10,13 @@ layout: default
 - [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
-## ProjectSEA: Newbie Tournament 
-> Coming Soon
-
-- [Coach List](./newbie/coaches.md)
+## Newbie Tournament 
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_OpenRegis.png" 
+    alt="S2OpenReg" 
+    style="max-height: 350px;">
+</p>
 
 ## ProjectSEA S2
 - [Registered Teams](./season/02/teams.md)

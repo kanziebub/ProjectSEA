@@ -7,19 +7,19 @@ layout: default
 
 # Newbie Mentorship S3: Coach List
 
-### ArCraMiCia
-<p align="center">
-  <img 
-    src="../../assets/coach/s3/arcramicia.png"
-    alt="ArCraMiCia" 
-    style="max-height: 400px;">
-</p>
-
 ### Alek
 <p align="center">
   <img 
     src="../../assets/coach/s3/alek.png"
     alt="Alek" 
+    style="max-height: 400px;">
+</p>
+
+### ArCraMiCia
+<p align="center">
+  <img 
+    src="../../assets/coach/s3/arcramicia.png"
+    alt="ArCraMiCia" 
     style="max-height: 400px;">
 </p>
 

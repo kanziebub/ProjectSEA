@@ -10,7 +10,7 @@ layout: default
 ### ArCraMiCia
 <p align="center">
   <img 
-    src="../assets/coach/s3/arcramicia.png"
+    src="../../assets/coach/s3/arcramicia.png"
     alt="ArCraMiCia" 
     style="max-height: 400px;">
 </p>
@@ -18,7 +18,7 @@ layout: default
 ### Alek
 <p align="center">
   <img 
-    src="../assets/coach/s3/alek.png"
+    src="../../assets/coach/s3/alek.png"
     alt="Alek" 
     style="max-height: 400px;">
 </p>
@@ -26,7 +26,7 @@ layout: default
 ### CEPUーLuminears
 <p align="center">
   <img 
-    src="../assets/coach/s3/luminears.png"
+    src="../../assets/coach/s3/luminears.png"
     alt="CEPUーLuminears" 
     style="max-height: 400px;">
 </p>
@@ -34,7 +34,7 @@ layout: default
 ### Kazeroth
 <p align="center">
   <img 
-    src="../assets/coach/s3/kazeroth.png"
+    src="../../assets/coach/s3/kazeroth.png"
     alt="Kazeroth" 
     style="max-height: 400px;">
 </p>
@@ -42,7 +42,7 @@ layout: default
 ### Luerye
 <p align="center">
   <img 
-    src="../assets/coach/s3/luerye.png"
+    src="../../assets/coach/s3/luerye.png"
     alt="Luerye" 
     style="max-height: 400px;">
 </p>
@@ -50,7 +50,7 @@ layout: default
 ### Restifik
 <p align="center">
   <img 
-    src="../assets/coach/s3/restifik.png"
+    src="../../assets/coach/s3/restifik.png"
     alt="Restifik" 
     style="max-height: 400px;">
 </p>
@@ -58,7 +58,7 @@ layout: default
 ### sLLLime
 <p align="center">
   <img 
-    src="../assets/coach/s3/slllime.png"
+    src="../../assets/coach/s3/slllime.png"
     alt="sLLLime" 
     style="max-height: 400px;">
 </p>
@@ -66,7 +66,7 @@ layout: default
 ### 감자카레
 <p align="center">
   <img 
-    src="../assets/coach/s3/kentang.png"
+    src="../../assets/coach/s3/kentang.png"
     alt="감자카레" 
     style="max-height: 400px;">
 </p>

@@ -12,6 +12,7 @@ layout: default
 
 ## Newbie Tournament 
 - [Coach List](./newbie/01/coach_list.md)
+
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_OpenRegis.png" 

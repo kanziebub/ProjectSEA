@@ -71,9 +71,9 @@ layout: default
     <details>
       <summary>KURO</summary>
       <ul>
-        <li>kuroshironi</li>
-        <li>bryanookami</li>
-        <li>ryukku</li>
+        <li>Morikpe</li>
+        <li>BryanOokami</li>
+        <li>Auiryu</li>
       </ul>
     </details>
     <details>
@@ -118,8 +118,8 @@ layout: default
       <summary>CEPU</summary>
       <ul>
         <li>CEPUーLuminears</li>
-        <li>Rion34</li>
-        <li>OldCW</li>
+        <li>AltamaTheFirst</li>
+        <li>Kenpid</li>
       </ul>
     </details>
 </div>

@@ -11,6 +11,9 @@ layout: default
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
 ## Newbie Tournament 
+- [Coach List](./newbie/01/coach_list.md)
+- [Registered Teams](./newbie/01/teams.md)
+
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_OpenRegis.png" 

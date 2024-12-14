@@ -47,6 +47,11 @@ layout: default
     style="max-height: 400px;">
 </p>
 
+## Scrims
+### 14 December 2024
+- [Registered Teams](./scrim/20241214/teams.md)
+- [Leaderboard](./scrim/20241214/score.md)
+
 ## Rulebook
 
 General rules regarding the tournament can be accessed from the following page: 

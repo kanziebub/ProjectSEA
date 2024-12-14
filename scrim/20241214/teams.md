@@ -112,7 +112,7 @@ layout: default
       <ul>
         <li>CEPUーLuminears</li>
         <li>AltamaTheFirst</li>
-        <li>Kenpid</li>
+        <li>Rivulose</li>
       </ul>
     </details>
 </div>

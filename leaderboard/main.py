@@ -27,6 +27,7 @@ def main():
 {create_penalty_table('- Finals')} 
 {add_penalty()}
 """ 
+
 # add_penalty() /no param/ itu untuk filler row ketika belum ada penalty
 # {add_penalty(
 #     game='x',

@@ -77,14 +77,6 @@ layout: default
         <li>Auiryu</li>
       </ul>
     </details>
-    <details>
-      <summary>PYON</summary>
-      <ul>
-        <li>Adinyan</li>
-        <li>Sayaa</li>
-        <li>Nopu</li>
-      </ul>
-    </details>
 </div>
 
 

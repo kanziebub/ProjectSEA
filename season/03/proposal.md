@@ -25,9 +25,7 @@ layout: default
   pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.worker.min.js';
 
   pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
-    // Hide spinner and show PDF container
     loading.style.display = 'none';
-    container.style.display = 'block';
 
     for (let i = 1; i <= pdfDoc.numPages; i++) {
       pdfDoc.getPage(i).then(function(page) {

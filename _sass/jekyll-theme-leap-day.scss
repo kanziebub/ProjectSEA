@@ -198,22 +198,34 @@ header {
 
 // pdf container
 #proposal-page-container {
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   justify-content: flex-start;
+
+  border: 2px solid #ccc;
 }
 
 #pdf-container {
   width: 100%;
   height: 100%;
-  min-height: 100vh;
-  border: 0px solid #ccc;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 #pdf-container canvas {
   margin-bottom: 10px; 
+  display: block; 
+  max-width: 100%; 
+  object-fit: contain;
 }
 
 // loading spinner

@@ -7,11 +7,11 @@ layout: default
 
 # ProjectSEA Sponsorship Proposal
 
+<!-- Loading spinner -->
+<div id="loading" class="loader"></div>
+
 <!-- PDF container -->
-<div id="pdf-container">
-    <!-- Loading spinner -->
-    <div id="loading" class="loader"></div>
-</div>
+<div id="pdf-container"></div>
 
 <script>
   const url = 'https://kanziebub.github.io/ProjectSEA/assets/files/proposal.pdf';

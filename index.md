@@ -10,6 +10,9 @@ layout: default
 - [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
+## ProjectSEA S3
+> Coming soon
+
 ## Newbie Tournament 
 - [Coach List](./newbie/01/coach_list.md)
 - [Registered Teams](./newbie/01/teams.md)

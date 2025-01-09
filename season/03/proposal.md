@@ -7,17 +7,25 @@ layout: default
 
 # ProjectSEA Sponsorship Proposal
 
+<!-- Loading spinner -->
+<div id="loading" class="spinner"></div>
+<!-- PDF container -->
 <div id="pdf-container"></div>
 
 <script>
   const url = 'https://kanziebub.github.io/ProjectSEA/assets/files/proposal.pdf';
 
   const container = document.getElementById('pdf-container');
+  const loading = document.getElementById('loading');
   const pdfjsLib = window['pdfjs-dist/build/pdf'];
 
   pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.worker.min.js';
 
   pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
+    // Hide spinner and show PDF container
+    loading.style.display = 'none';
+    container.style.display = 'block';
+    
     for (let i = 1; i <= pdfDoc.numPages; i++) {
       pdfDoc.getPage(i).then(function(page) {
         const viewport = page.getViewport({ scale: 0.8 });

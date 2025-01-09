@@ -1,6 +1,7 @@
 title: ER Project:SEA
 description: Eternal Return Southeast Asia Tournament Website
 show_downloads: false
+show_invites: true
 google_analytics:
 theme: jekyll-theme-leap-day
 

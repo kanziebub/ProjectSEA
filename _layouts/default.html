@@ -24,11 +24,16 @@
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
-      <div id="banner">
-        <span id="logo"></span>
-
-        <a href="https://discord.gg/HqDVBXbYC9" class="button fork"><strong>Join SEA Discord</strong></a>
-        <a href="https://discord.gg/5HADqcQdkG" class="button fork"><strong>Join Tourney Discord</strong></a>
+      <div id="banner">       
+        {% if site.show_invites %}
+          <div class="downloads">
+            <span id="logo"></span> 
+            <ul>
+              <li><a href="https://discord.gg/HqDVBXbYC9" class="button fork"><strong>Join SEA Discord</strong></a></li>
+              <li><a href="https://discord.gg/5HADqcQdkG" class="button fork"><strong>Join Tourney Discord</strong></a></li>
+            </ul>
+          </div>
+        {% endif %}
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>

@@ -7,7 +7,7 @@ layout: default
 
 # ProjectSEA Sponsorship Proposal
 
-<div id="pdf-container" style="width: 100%; height: 100%; min-height: 600px; border: 1px solid #ccc;"></div>
+<div id="pdf-container" style="width: 100%; height: 100%; min-height: 600px; max-width: 600px; border: 1px solid #ccc;"></div>
 
 <script>
   const url = 'https://kanziebub.github.io/ProjectSEA/assets/files/proposal.pdf';

@@ -8,8 +8,9 @@ layout: default
 # ProjectSEA Sponsorship Proposal
 
 <!-- PDF container -->
-<div id="pdf-container">
+<div id="proposal-page-container">
     <div id="loading" class="loader"></div>
+    <div id="pdf-container"></div>
 </div>
 
 <script>

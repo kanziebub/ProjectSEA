@@ -7,7 +7,7 @@ layout: default
 
 # ProjectSEA Sponsorship Proposal
 
-<div id="pdf-container" style="width: 100%; height: 100%; min-height: 600px; border: 1px solid #ccc;"></div>
+<div id="pdf-container"></div>
 
 <script>
   const url = 'https://kanziebub.github.io/ProjectSEA/assets/files/proposal.pdf';
@@ -20,7 +20,7 @@ layout: default
   pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
     for (let i = 1; i <= pdfDoc.numPages; i++) {
       pdfDoc.getPage(i).then(function(page) {
-        const viewport = page.getViewport({ scale: 0.6 });
+        const viewport = page.getViewport({ scale: 0.8 });
         const canvas = document.createElement('canvas');
         canvas.height = viewport.height;
         canvas.width = viewport.width;

@@ -16,6 +16,7 @@ layout: default
 ## Newbie Tournament 
 - [Coach List](./newbie/01/coach_list.md)
 - [Registered Teams](./newbie/01/teams.md)
+- [Leaderboard](./newbie/01/score.md)
 
 <p align="center">
   <img 

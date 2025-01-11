@@ -20,7 +20,7 @@ layout: default
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_OpenRegis.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_poster2025.png" 
     alt="S2OpenReg" 
     style="max-height: 350px;">
 </p>

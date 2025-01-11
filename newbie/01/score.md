@@ -6,17 +6,17 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Team sLLLime** | 8 | **15** | 
-| #**2** | **Team ArCraMiCia** | 11 | **14** | 
-| #**3** | **Team Alek** | 8 | **12** | 
-| #**4** | **Team Luerye** | 2 | **4** | 
-| #**5** | Team King | 2 | 3 | 
-| #**6** | Team Luminears | 0 | 0 | 
-| #**7** | Team Restiifk | 0 | 0 | 
+| #**1** | **Team sLLLime** | 20 | **34** | 
+| #**2** | **Team ArCraMiCia** | 17 | **22** | 
+| #**3** | **Team Restiifk** | 14 | **18** | 
+| #**4** | **Team Alek** | 12 | **16** | 
+| #**5** | Team Luminears | 10 | 10 | 
+| #**6** | Team King | 2 | 6 | 
+| #**7** | Team Luerye | 2 | 5 | 
  
 
 ## Penalty Log - Finals

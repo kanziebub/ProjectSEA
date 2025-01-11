@@ -6,16 +6,16 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Team sLLLime** | 29 | **47** | 
-| #**2** | **Team Restiifk** | 23 | **34** | 
-| #**3** | **Team ArCraMiCia** | 22 | **27** | 
-| #**4** | **Team Luminears** | 20 | **23** | 
-| #**5** | Team Alek | 16 | 22 | 
-| #**6** | Team King | 5 | 10 | 
+| #**1** | **Team Restifik** | 39 | **54** | 
+| #**2** | **Team sLLLime** | 29 | **48** | 
+| #**3** | **Team Alek** | 29 | **42** | 
+| #**4** | **Team ArCraMiCia** | 25 | **33** | 
+| #**5** | Team Luminears | 23 | 26 | 
+| #**6** | Team King | 8 | 15 | 
 | #**7** | Team Luerye | 2 | 5 | 
  
 

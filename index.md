@@ -14,7 +14,7 @@ layout: default
 > Coming soon
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S2_OpenRegis.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png" 
     alt="Eternal Return Southeast Asia SEA Open Registration" 
     style="max-height: 350px;">
 </p>

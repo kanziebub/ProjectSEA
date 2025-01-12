@@ -12,6 +12,12 @@ layout: default
 
 ## ProjectSEA S3
 > Coming soon
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S2_OpenRegis.png" 
+    alt="Eternal Return Southeast Asia SEA Open Registration" 
+    style="max-height: 350px;">
+</p>
 
 ## Newbie Tournament 
 - [Coach List](./newbie/01/coach_list.md)
@@ -21,7 +27,7 @@ layout: default
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/SEA_NEWBIE_poster2025.png" 
-    alt="S2OpenReg" 
+    alt="NewbieTournament" 
     style="max-height: 350px;">
 </p>
 

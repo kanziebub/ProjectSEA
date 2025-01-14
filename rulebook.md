@@ -82,14 +82,34 @@ Players cannot use nicknames that include sexual, political, or offensive words 
 
 All players should be familiar with all rules and guidelines in this rulebook. Players must give their best effort in the tournament. Players may not drop from an on-going set of games due to poor performance. Players should also follow the tournament staffs’ instructions and accept any final decisions made by referees or organizers. Treat all fellow players and tournament staff with respect.
 
+## Weather Settings
+1. Weather settings preset for **Qualifiers**:
+
+|  Game  | Main Weather |
+|:-------|:-------------|
+| #**1** |   Cloudy     | 
+| #**2** |   Sunny      | 
+| #**3** |   Rain       | 
+| #**4** |   Sandstorm  | 
+| #**5** |  *Random*    | 
+
+2. Weather settings preset for **Finals**:
+
+|  Game  | Main Weather |
+|:-------|:-------------|
+| #**1** |   Cloudy     | 
+| #**2** |   Sunny      | 
+| #**3** |   Rain       | 
+| #**4** |   Sandstorm  | 
+| #**...** |  *Repeat*  | 
+
+> In the case of rehosting, weather settings will be manually set to follow the weather of the remade round (main weather and previously randomised sub weather).
+
 ## Rehost
 
 Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks, main augment, and tac skill. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match] [Failure to do so will be subjected to -1 points for each rule broken]
 
 > **Example**: **Player A** retains the same character pick but fails to pick the same previously selected **Main Augment**, therefore **-1 points** will be deducted. If both options are picked wrongly, **-2 points** will be deducted.
-
-### Weather Settings
-> In the case of rehosting, weather settings will be manually set to follow the weather of the remade round (not re-randomised).
 
 ### Disconnect during In Game
 

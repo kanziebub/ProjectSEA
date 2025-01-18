@@ -35,47 +35,50 @@ Registration opens 2024-09-07 13.00 UTC+07
 </details>
 
 <details>
-  <summary>Forsen</summary>
+  <summary>VisCa</summary>
   <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
+    <li>VisCa</li>
+    <li>StellaLaplace</li>
+    <li>Luminym</li>
+    <li>TamGiac</li>
   </ul>
 </details>
 
 <details>
-  <summary>Forsen</summary>
+  <summary>CEPU</summary>
   <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
+    <li>CEPUーLuminears</li>
+    <li>CEPUーvalsh</li>
+    <li>Peposadge</li>
   </ul>
 </details>
 
 <details>
-  <summary>Forsen</summary>
+  <summary>TomCats</summary>
   <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
+    <li>sLLLime</li>
+    <li>クゥニ</li>
+    <li>Sinocchi</li>
+    <li>Reinford</li>
   </ul>
 </details>
 
 <details>
-  <summary>Forsen</summary>
+  <summary>ALT+F4</summary>
   <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
+    <li>CEPUーMistral</li>
+    <li>Rivulose</li>
+    <li>감자카레</li>
   </ul>
 </details>
 
 <details>
-  <summary>Forsen</summary>
+  <summary>FuffyToast</summary>
   <ul>
-    <li>Alek</li>
-    <li>Gyoo</li>
-    <li>Tnsh</li>
+    <li>Miraibelle</li>
+    <li>nby</li>
+    <li>PekoMarisa</li>
+    <li>Kazeroth</li>
   </ul>
 </details>
 

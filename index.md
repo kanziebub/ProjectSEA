@@ -11,7 +11,8 @@ layout: default
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
 ## ProjectSEA S3
-> Coming soon
+- [Registered Teams](./season/03/teams.md)
+
 <p align="center">
   <img 
     src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png" 

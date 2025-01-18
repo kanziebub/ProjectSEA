@@ -6,7 +6,7 @@ layout: default
 [Home](https://kanziebub.github.io/ProjectSEA/)
 
 # **ER Project:SEA S2 Registered Teams**
-Registration opens 2024-09-07 13.00 UTC+07
+Registration opens 2025-01-18 13.00 UTC+07
 
 <p align="center">
   <img 

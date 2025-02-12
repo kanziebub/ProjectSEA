@@ -83,7 +83,7 @@ Players cannot use nicknames that include sexual, political, or offensive words 
 All players should be familiar with all rules and guidelines in this rulebook. Players must give their best effort in the tournament. Players may not drop from an on-going set of games due to poor performance. Players should also follow the tournament staffs’ instructions and accept any final decisions made by referees or organizers. Treat all fellow players and tournament staff with respect.
 
 ## Weather Settings
-1. Weather settings preset for **Qualifiers**:
+- Weather settings preset for **Qualifiers**:
 
 |  Game  | Main Weather |
 |:-------|:-------------|
@@ -93,7 +93,7 @@ All players should be familiar with all rules and guidelines in this rulebook. P
 | #**4** |   Sandstorm  | 
 | #**5** |  *Random*    | 
 
-2. Weather settings preset for **Finals**:
+- Weather settings preset for **Finals**:
 
 |  Game  | Main Weather |
 |:-------|:-------------|

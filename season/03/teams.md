@@ -15,12 +15,24 @@ Registration opens 2025-01-18 13.00 UTC+07
     style="max-height: 350px;">
 </p>
 
+|  Lobby 1  |  Lobby 2  | 
+|:----------|:----------|
+| Forsen    | FuffyToast| 
+| ALTF4     | WingTomZai| 
+| CEPU      | Bike      | 
+| VisCa     | TomCats   | 
+| POMPOM    | 200ms     | 
+| Startend  | TheSunKing| 
+| WAYYZAR   | OlderMen  | 
+| Reverie   | GG        | 
+
 <details>
   <summary>Forsen</summary>
   <ul>
     <li>Alek</li>
     <li>Gyoo</li>
     <li>Tnsh</li>
+    <li>Cappuchino</li>
   </ul>
 </details>
 
@@ -69,6 +81,7 @@ Registration opens 2025-01-18 13.00 UTC+07
     <li>CEPUーMistral</li>
     <li>Rivulose</li>
     <li>감자카레</li>
+    <li>Restifik</li>
   </ul>
 </details>
 
@@ -79,6 +92,94 @@ Registration opens 2025-01-18 13.00 UTC+07
     <li>nby</li>
     <li>PekoMarisa</li>
     <li>Kazeroth</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Wingtomzai</summary>
+  <ul>
+    <li>Nackbkk</li>
+    <li>pajumin</li>
+    <li>Stram11</li>
+    <li>ArCraMiCia</li>
+  </ul>
+</details>
+
+<details>
+  <summary> Startend</summary>
+  <ul>
+    <li>WeatherZoe</li>
+    <li>Kiu</li>
+    <li>Kuro0</li>
+    <li>pekobasils</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Reverie</summary>
+  <ul>
+    <li>MrShoko</li>
+    <li>Rotenz</li>
+    <li>BrownKumano</li>
+    <li>Eren</li>
+  </ul>
+</details>
+
+<details>
+  <summary>TheSunKing</summary>
+  <ul>
+    <li>Zinhaokf</li>
+    <li>candyUWUD</li>
+    <li>PENRO</li>
+    <li>Adinyan </li>
+  </ul>
+</details>
+
+<details>
+  <summary>WAWYZAR</summary>
+  <ul>
+    <li>AltamaTheFirst</li>
+    <li>ZEWWWNAAAY</li>
+    <li>Yuusa</li>
+    <li>RBD</li>
+  </ul>
+</details>
+
+<details>
+  <summary>POMPOM</summary>
+  <ul>
+    <li>Kel2ykeion</li>
+    <li>MarkusNTRMagnus</li>
+    <li>CelestialAXis</li>
+    <li>Taylored</li>
+  </ul>
+</details>
+
+<details>
+  <summary>GG</summary>
+  <ul>
+    <li>Onryou</li>
+    <li>ZaeDarius</li>
+    <li>Shun</li>
+  </ul>
+</details>
+
+<details>
+  <summary>OlderMen</summary>
+  <ul>
+    <li>Luerye</li>
+    <li>PlapPlpGtMarried</li>
+    <li>Rion34</li>
+  </ul>
+</details>
+
+<details>
+  <summary>200ms</summary>
+  <ul>
+    <li>Sussela</li>
+    <li>Muwhaha</li>
+    <li>Reniki</li>
+    <li>Raizer</li>
   </ul>
 </details>
 

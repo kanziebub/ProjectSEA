@@ -149,7 +149,7 @@ Registration opens 2025-01-18 13.00 UTC+07
   <summary>POMPOM</summary>
   <ul>
     <li>Kel2ykeion</li>
-    <li>MarkusNTRMagnus</li>
+    <li>GoGoWA2000</li>
     <li>CelestialAXis</li>
     <li>Taylored</li>
   </ul>

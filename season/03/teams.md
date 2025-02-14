@@ -179,7 +179,7 @@ Registration opens 2025-01-18 13.00 UTC+07
     <li>Sussela</li>
     <li>Muwhaha</li>
     <li>Reniki</li>
-    <li>Raizer</li>
+    <li>DanielDarkSistem</li>
   </ul>
 </details>
 

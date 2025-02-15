@@ -23,7 +23,7 @@ Registration opens 2025-01-18 13.00 UTC+07
 | VisCa     | TomCats   | 
 | POMPOM    | 200ms     | 
 | Startend  | TheSunKing| 
-| WAYYZAR   | OlderMen  | 
+| WAWYZAR   | OlderMen  | 
 | Reverie   | GG        | 
 
 <details>

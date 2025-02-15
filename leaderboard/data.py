@@ -40,5 +40,5 @@ class Data:
     
     def filter_df(self, team_list):
         prev_df = self.df
-        filtered_df = prev_df[prev_df['x'].isin(team_list)]
+        filtered_df = prev_df[prev_df['Name'].isin(team_list)]
         self.df = filtered_df

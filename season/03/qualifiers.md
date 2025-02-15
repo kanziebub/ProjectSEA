@@ -28,17 +28,17 @@ layout: default
 
 # **Lobby 2 Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FuffyToast** | 27 | **41** | 
-| #**2** | **Bike** | 21 | **25** | 
-| #**3** | **TomCats** | 17 | **20** | 
-| #**4** | **WingTomZai** | 13 | **17** | 
-| #**5** | OlderMen | 8 | 10 | 
-| #**6** | TheSunKing | 5 | 8 | 
-| #**7** | GG | 4 | 7 | 
+| #**1** | **FuffyToast** | 30 | **45** | 
+| #**2** | **Bike** | 30 | **37** | 
+| #**3** | **WingTomZai** | 26 | **37** | 
+| #**4** | **TomCats** | 25 | **32** | 
+| #**5** | TheSunKing | 11 | 16 | 
+| #**6** | OlderMen | 9 | 11 | 
+| #**7** | GG | 6 | 9 | 
 | #**8** | 200ms | 1 | 2 | 
  
 

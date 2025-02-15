@@ -6,26 +6,26 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Forsen** | 0 | **0** | 
-| #**2** | **Bike** | 0 | **0** | 
-| #**3** | **VisCa** | 0 | **0** | 
-| #**4** | **CEPU** | 0 | **0** | 
-| #**5** | TomCats | 0 | 0 | 
-| #**6** | ALT+F4 | 0 | 0 | 
-| #**7** | FuffyToast | 0 | 0 | 
-| #**8** | Wingtomzai | 0 | 0 | 
-| #**9** | Startend | 0 | 0 | 
-| #**10** | Reverie | 0 | 0 | 
-| #**11** | TheSunKing | 0 | 0 | 
-| #**12** | WAWYZAR | 0 | 0 | 
-| #**13** | POMPOM | 0 | 0 | 
-| #**14** | GG | 0 | 0 | 
-| #**15** | OlderMen | 0 | 0 | 
-| #**16** | 200ms | 0 | 0 | 
+| #**1** | **VisCa** | 17 | **20** | 
+| #**2** | **FuffyToast** | 13 | **20** | 
+| #**3** | **Forsen** | 10 | **17** | 
+| #**4** | **Wingtomzai** | 12 | **16** | 
+| #**5** | Reverie | 10 | 14 | 
+| #**6** | Bike | 9 | 9 | 
+| #**7** | TomCats | 8 | 9 | 
+| #**8** | OlderMen | 7 | 9 | 
+| #**9** | TheSunKing | 5 | 8 | 
+| #**10** | Startend | 5 | 7 | 
+| #**11** | ALT+F4 | 6 | 6 | 
+| #**12** | POMPOM | 5 | 6 | 
+| #**13** | CEPU | 5 | 5 | 
+| #**14** | WAWYZAR | 1 | 1 | 
+| #**15** | 200ms | 1 | 1 | 
+| #**16** | GG | 0 | 0 | 
  
 
 ## Penalty Log - Finals

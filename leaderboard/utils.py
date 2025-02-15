@@ -49,6 +49,9 @@ def create_leaderboard(df: Data, teams, with_cp=False):
 
     return leaderboard_md + lbtable + rows
 
+def create_filtered_leaderboard(df: Data, teams, with_cp=False):
+    return ""
+
 def get_data_by_rank(df: Data, rank, with_cp=False):
     team = df.get_by_rank(rank, "Name")
     kill = df.get_by_rank(rank, "Total Team Kill")

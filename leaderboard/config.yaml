@@ -4,3 +4,24 @@ sheetName: "PSEA"
 page_filepath: "../season/03/qualifiers.md"
 checkpoint: 0
 teams: 16
+
+lobby: 2
+lobby1:
+- Forsen
+- ALTF4
+- CEPU
+- VisCa
+- POMPOM
+- Startend
+- WAYYZAR
+- Reverie
+lobby2:
+- FuffyToast
+- WingTomZai
+- Bike
+- TomCats
+- 200ms
+- TheSunKing
+- OlderMen
+- GG
+

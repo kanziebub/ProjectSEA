@@ -18,16 +18,44 @@ def main():
     with_cp = False if config['checkpoint']==0 else True
 
     page = Page(page_path)
-    data = Data(config["sheetID"], config["sheetName"], config["teams"])
+
+    if config['lobby']==1:
+        single_lobby()
+    else:
+        multi_lobby()
     
-    leaderboard = f"""
+    def single_lobby():
+        data = Data(config["sheetID"], config["sheetName"], config["teams"])
+        leaderboard = f"""
 # **Leaderboard**
 
 {create_leaderboard(data, config["teams"], with_cp=with_cp)} 
-{create_penalty_table('- Finals')} 
+{create_penalty_table('Qualifiers')} 
 {add_penalty()}
-""" 
+    """ 
+        return leaderboard
 
+    def multi_lobby():
+        data_1 = Data(config["sheetID"], config["sheetName"], config["teams"])
+        data_2 = Data(config["sheetID"], config["sheetName"], config["teams"])
+
+        data_1.filter_df(config["lobby1"])
+        data_2.filter_df(config["lobby2"])
+        leaderboard = f"""
+# **Leaderboard**
+
+{create_leaderboard(data_1, config["teams"], with_cp=with_cp)} 
+{create_penalty_table('- Lobby 1 Qualifiers')} 
+{add_penalty()}
+
+# **Leaderboard**
+
+{create_leaderboard(data_2, config["teams"], with_cp=with_cp)} 
+{create_penalty_table('- Lobby 2 Qualifiers')} 
+{add_penalty()}
+    """ 
+        return leaderboard
+    
 # add_penalty() /no param/ itu untuk filler row ketika belum ada penalty
 # {add_penalty(
 #     game='x',

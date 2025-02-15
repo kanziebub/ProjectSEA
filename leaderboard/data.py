@@ -37,3 +37,8 @@ class Data:
         df = df.iloc[1:teams+1, 1:9]
         df.rename(columns=columns, inplace=True)
         return df
+    
+    def filter_df(self, team_list):
+        prev_df = self.df
+        filtered_df = prev_df[prev_df['x'].isin(team_list)]
+        self.df = filtered_df

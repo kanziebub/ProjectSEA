@@ -12,10 +12,11 @@ layout: default
 
 ## ProjectSEA S3
 - [Registered Teams](./season/03/teams.md)
+- [Qualifiers Leaderboard](./season/03/qualifiers.md)
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/PSEA_3.png" 
     alt="Eternal Return Southeast Asia SEA Open Registration" 
     style="max-height: 350px;">
 </p>

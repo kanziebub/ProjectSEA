@@ -6,18 +6,18 @@ layout: default
 
 # **Lobby 1 Leaderboard**
 
-### Games Played = 4
+### Games Played = 5
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Forsen** | 62 | **86** | 
-| #**2** | **Reverie** | 42 | **55** | 
-| #**3** | **VisCa** | 36 | **45** | 
-| #**4** | **CEPU** | 39 | **43** | 
+| #**1** | **Forsen** | 79 | **107** | 
+| #**2** | **Reverie** | 49 | **63** | 
+| #**3** | **VisCa** | 46 | **62** | 
+| #**4** | **CEPU** | 51 | **57** | 
 | #**5** | Startend | 24 | 35 | 
-| #**6** | ALTF4 | 18 | 21 | 
-| #**7** | POMPOM | 15 | 19 | 
-| #**8** | WAWYZAR | 7 | 7 | 
+| #**6** | ALTF4 | 24 | 27 | 
+| #**7** | POMPOM | 19 | 26 | 
+| #**8** | WAWYZAR | 9 | 9 | 
  
 
 ## Penalty Log - Lobby 1 Qualifiers

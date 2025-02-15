@@ -43,9 +43,7 @@ def multi_lobby():
     data_2 = Data(config["sheetID"], config["sheetName"], config["teams"])
 
     data_1.filter_df(config["lobby1"])
-    print(data_1.get_df())
     data_2.filter_df(config["lobby2"])
-    print(data_2.get_df())
     leaderboard = f"""
 # **Lobby 1 Leaderboard**
 

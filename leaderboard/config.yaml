@@ -1,9 +1,16 @@
-
+# Used for Generating Scoreboard
 sheetID: "1OYbI9ep4ue3YchBrQvA8aisAg2UyvS5-5K_ZWYaell4"
 sheetName: "PSEA"
 page_filepath: "../season/03/qualifiers.md"
 checkpoint: 0
 teams: 16
+
+# Used for Generating Team and/or Lobby
+team_sheet_id: "1VEN9iFx8N_ZZFTAyc2snPNg3bPYEVZLWP3ToZ_puZAM"
+team_sheet_name: "TeamForm"
+team_sheet_total_teams: 16
+team_sheet_lobby_gid: "1129439674" # leave empty if doesn't need multiple lobby
+team_sheet_file_path: "../season/03/test.md"
 
 lobby: 2
 lobby1:

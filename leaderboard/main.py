@@ -1,8 +1,8 @@
 import copy
 from config import Config
-from data import Data, DataTeam
+from data import Data, DataTeam, DataPenalty
 from page import Page
-from utils import add_penalty, create_leaderboard, create_penalty_table
+from utils import add_penalties, create_leaderboard, create_penalty_table
 
 
 def main():
@@ -34,11 +34,13 @@ def create_scoreboard(data: Data, data_team: DataTeam, config: Config):
     for i in range(total_lobby):
         temp = copy.deepcopy(data)
         dt = temp
+        team_list = []
         total_teams = config["teams"]
         if is_multiple:
             lobby_number = "Lobby " + str(i + 1)
-            dt = temp.filter_df(teams[lobby_number])
-            total_teams = len(teams[lobby_number])
+            team_list = teams[lobby_number]
+            dt = temp.filter_df(team_list)
+            total_teams = len(team_list)
 
             lobby_number += " "
 
@@ -47,7 +49,7 @@ def create_scoreboard(data: Data, data_team: DataTeam, config: Config):
 
 {create_leaderboard(dt, total_teams, with_cp=with_cp)} 
 {create_penalty_table(f"""{lobby_number}Qualifiers""")} 
-{add_penalty()}
+{add_penalties(create_penalties_log(), team_list, is_multiple)}
 """
     return leaderboard
 
@@ -69,6 +71,17 @@ def get_total_lobby_and_teams(data_team: DataTeam, config: Config, is_multiple: 
                     teams[lobby_number].append(value)
 
     return total_lobby, teams
+
+
+def create_penalties_log():
+    penalty_list = [
+        # example:
+        # DataPenalty(game=1, team_name="FizzBuzz", penalty=-1, reason="Killed by Red Zone (fizz)"),
+        # DataPenalty(game=2, team_name="FizzBuzz", penalty=-1, reason="Killed by Red Zone (buzz)"),
+        # DataPenalty(game=1, team_name="FooBar", penalty=-1, reason="Killed by Wild Animals (Baz)"),
+        # DataPenalty(game=4, team_name="LoremIpsum", penalty=-1, reason="Killed by Ego (Lorem)"),
+    ]
+    return penalty_list
 
 
 # add_penalty() /no param/ itu untuk filler row ketika belum ada penalty

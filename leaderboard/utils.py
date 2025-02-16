@@ -2,8 +2,9 @@ import math
 import yaml
 import pytz
 
-from data import Data, DataTeam
+from data import Data, DataTeam, DataPenalty
 from datetime import datetime
+from typing import List
 
 
 def read_yaml(filepath):
@@ -35,8 +36,30 @@ def create_penalty_table(header):
 
 
 def add_penalty(game: str = "", team: str = "", penalty: str = "", reason: str = ""):
-    row = "| " + game + " | " + team + " | " + penalty + " | " + reason + " |"
+    row = f"""|  {game}  |  {team}  |  {penalty}  |  {reason}  |
+"""
     return row
+
+
+def add_penalties(
+    data_penalties: List[DataPenalty] = [],
+    team_list: list = [],
+    is_multiple: bool = False,
+):
+    rows = ""
+    for penalty in data_penalties:
+        game = penalty.game
+        team_name = penalty.team_name
+        penalty_point = penalty.penalty
+        reason = penalty.reason
+
+        if is_multiple:
+            if team_name in team_list:
+                rows += add_penalty(game, team_name, penalty_point, reason)
+        else:
+            rows += add_penalty(game, team_name, penalty_point, reason)
+
+    return rows if rows != "" else add_penalty()
 
 
 def create_leaderboard(df: Data, teams: int, with_cp: bool = False):

@@ -39,7 +39,7 @@ def add_penalty(game: str = "", team: str = "", penalty: str = "", reason: str =
     return row
 
 
-def create_leaderboard(df: Data, teams, with_cp=False):
+def create_leaderboard(df: Data, teams: int, with_cp: bool = False):
     leaderboard_md = f"### Games Played = {check_int(df.get_games_played())}\n"
 
     lbtable = (

@@ -1,62 +1,74 @@
-from data import Data
+import copy
+from config import Config
+from data import Data, DataTeam
 from page import Page
-from utils import add_penalty, create_leaderboard, create_penalty_table, read_yaml
-
-import os
-
-current_dir = os.path.dirname(os.path.abspath(__file__))
-config_path = os.path.join(current_dir, "config.yaml")
-config = read_yaml(config_path)
-with_cp = False if config["checkpoint"] == 0 else True
+from utils import add_penalty, create_leaderboard, create_penalty_table
 
 
 def main():
-    page_path = os.path.join(current_dir, config["page_filepath"])
+    init_config = Config("config.yaml")
+
+    config = init_config.config
+    page_path = init_config.set_filepath(config["page_filepath"])
+
     page = Page(page_path)
-
-    if config["lobby"] == 1:
-        leaderboard = single_lobby()
-    else:
-        leaderboard = multi_lobby()
-
-    page.set_header()
-    page.add_content(leaderboard)
-    page.set_footer()
-    page.write()
-
-
-def single_lobby():
     data = Data(config["sheetID"], config["sheetName"], config["teams"])
-    leaderboard = f"""
-# **Leaderboard**
+    data_team = DataTeam(
+        config["team_sheet_id"],
+        config["team_sheet_name"],
+        config["team_sheet_total_teams"],
+    )
 
-{create_leaderboard(data, config["teams"], with_cp=with_cp)} 
-{create_penalty_table('Qualifiers')} 
+    leaderboard_content = create_scoreboard(data, data_team, config)
+
+    page.set_page(leaderboard_content)
+
+
+def create_scoreboard(data: Data, data_team: DataTeam, config: Config):
+    with_cp = False if config["checkpoint"] == 0 else True
+    lobby_number = ""
+    is_multiple = True if config["team_sheet_lobby_gid"] else False
+    total_lobby, teams = get_total_lobby_and_teams(data_team, config, is_multiple)
+
+    leaderboard = ""
+    for i in range(total_lobby):
+        temp = copy.deepcopy(data)
+        dt = temp
+        total_teams = config["teams"]
+        if is_multiple:
+            lobby_number = "Lobby " + str(i + 1)
+            dt = temp.filter_df(teams[lobby_number])
+            total_teams = len(teams[lobby_number])
+
+            lobby_number += " "
+
+        leaderboard += f"""
+# **{lobby_number}Leaderboard**
+
+{create_leaderboard(dt, total_teams, with_cp=with_cp)} 
+{create_penalty_table(f"""{lobby_number}Qualifiers""")} 
 {add_penalty()}
 """
     return leaderboard
 
 
-def multi_lobby():
-    data_1 = Data(config["sheetID"], config["sheetName"], config["teams"])
-    data_2 = Data(config["sheetID"], config["sheetName"], config["teams"])
+def get_total_lobby_and_teams(data_team: DataTeam, config: Config, is_multiple: bool):
+    total_lobby = 1
+    teams = {}
+    if is_multiple:
+        df = data_team.set_def_lobby(config["team_sheet_lobby_gid"])
+        total_lobby = len(df.columns)
 
-    data_1.filter_df(config["lobby1"])
-    data_2.filter_df(config["lobby2"])
-    leaderboard = f"""
-# **Lobby 1 Leaderboard**
+        for i in range(total_lobby):
+            lobby_number = f"""Lobby {i+1}"""
+            for j in range(len(df)):
+                value = df.iloc[j][lobby_number]
+                if lobby_number not in teams:
+                    teams[lobby_number] = [value]
+                else:
+                    teams[lobby_number].append(value)
 
-{create_leaderboard(data_1, len(config["lobby1"]), with_cp=with_cp)} 
-{create_penalty_table('- Lobby 1 Qualifiers')} 
-{add_penalty()}
-
-# **Lobby 2 Leaderboard**
-
-{create_leaderboard(data_2, len(config["lobby2"]), with_cp=with_cp)} 
-{create_penalty_table('- Lobby 2 Qualifiers')} 
-{add_penalty()}
-"""
-    return leaderboard
+    return total_lobby, teams
 
 
 # add_penalty() /no param/ itu untuk filler row ketika belum ada penalty

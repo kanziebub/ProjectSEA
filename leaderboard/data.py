@@ -43,6 +43,7 @@ class Data:
         prev_df = self.df
         filtered_df = prev_df[prev_df["Name"].isin(team_list)]
         self.df = filtered_df
+        return self
 
 
 class DataTeam:

@@ -4,170 +4,48 @@ layout: default
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
-# **ER Project:SEA S2 Registered Teams**
-Registration opens 2025-02-12 13:00:00 UTC+0700
+# **Lobby 1 Leaderboard**
 
+### Games Played = 5
 
-<p align="center">
-  <img 
-    src=https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png 
-    alt=S2OpenReg
-    style=max-height: 350px;>
-</p>
+|  Rank  | Team Name             | Total Kill | **Points** |
+|:-------|:----------------------|:-----------|:-----------|
+| #**1** | **Forsen** | 79 | **107** | 
+| #**2** | **Reverie** | 49 | **63** | 
+| #**3** | **VisCa** | 46 | **62** | 
+| #**4** | **CEPU** | 51 | **57** | 
+| #**5** | Startend | 24 | 35 | 
+| #**6** | ALTF4 | 24 | 27 | 
+| #**7** | POMPOM | 19 | 26 | 
+| #**8** | WAWYZAR | 9 | 9 | 
+ 
 
-|  Lobby 1  |  Lobby 1  |
-|:---------|:---------|
-| Forsen | FuffyToast |
-| ALTF4 | WingTomZai |
-| CEPU | Bike |
-| VisCa | TomCats |
-| POMPOM | 200ms |
-|  Startend | TheSunKing |
-| WAWYZAR | OlderMen |
-| Reverie | GG |
+## Penalty Log Lobby 1 Qualifiers
 
-<details>
-    <summary>Bike</summary>
-    <ul>
-        <li>ShigureUi</li>
-        <li>Chinmi</li>
-        <li>Fee</li>
-        <li>Haii</li>
-    </ul>
-</details>
-<details>
-    <summary>VisCa</summary>
-    <ul>
-        <li>VisCa</li>
-        <li>StellaLaplace</li>
-        <li>Luminym</li>
-        <li>TamGiac</li>
-    </ul>
-</details>
-<details>
-    <summary>CEPU</summary>
-    <ul>
-        <li>CEPUーLuminears</li>
-        <li>CEPUーValsh</li>
-        <li>Peposadge</li>
-    </ul>
-</details>
-<details>
-    <summary>TomCats</summary>
-    <ul>
-        <li>sLLLime</li>
-        <li>クゥニ</li>
-        <li>Sinocchi</li>
-        <li>Reinford</li>
-    </ul>
-</details>
-<details>
-    <summary>Forsen</summary>
-    <ul>
-        <li>Alek</li>
-        <li>Gyoo</li>
-        <li>Tnsh</li>
-    </ul>
-</details>
-<details>
-    <summary>ALTF4</summary>
-    <ul>
-        <li>CEPUーMistral</li>
-        <li>Rivulose</li>
-        <li>감자카레</li>
-    </ul>
-</details>
-<details>
-    <summary>FuffyToast</summary>
-    <ul>
-        <li>Miraibelle</li>
-        <li>nby</li>
-        <li>Pekomarisa</li>
-        <li>Kazeroth</li>
-    </ul>
-</details>
-<details>
-    <summary>Startend</summary>
-    <ul>
-        <li>WeatherZoe</li>
-        <li>Kiu</li>
-        <li>Kuro0</li>
-        <li>pekobasils</li>
-    </ul>
-</details>
-<details>
-    <summary>Reverie</summary>
-    <ul>
-        <li>MrShoko</li>
-        <li>Rotenz</li>
-        <li>BrownKumano</li>
-    </ul>
-</details>
-<details>
-    <summary>TheSunKing</summary>
-    <ul>
-        <li>Zinhaokf</li>
-        <li>candyUWUD</li>
-        <li>PENRO</li>
-        <li>Adinyan</li>
-    </ul>
-</details>
-<details>
-    <summary>WAWYZAR</summary>
-    <ul>
-        <li>AltamaTheFirst</li>
-        <li>ZEWWWNAAAY</li>
-        <li>Yuusa</li>
-        <li>RBD</li>
-    </ul>
-</details>
-<details>
-    <summary>POMPOM</summary>
-    <ul>
-        <li>Kel2ykeion</li>
-        <li>MarkusNTRMagnus</li>
-        <li>CelestialAXis</li>
-        <li>Taylored</li>
-    </ul>
-</details>
-<details>
-    <summary>GG</summary>
-    <ul>
-        <li>Onryou</li>
-        <li>ZaeDarius</li>
-        <li>Memelessvoid</li>
-    </ul>
-</details>
-<details>
-    <summary>OlderMen</summary>
-    <ul>
-        <li>Luerye</li>
-        <li>PlapPlpGtMarried</li>
-        <li>Rion34</li>
-        <li>WindyER</li>
-    </ul>
-</details>
-<details>
-    <summary>Wingtomzai</summary>
-    <ul>
-        <li>Nackbkk</li>
-        <li>pajumin</li>
-        <li>Stram11</li>
-        <li>ArCraMiCia</li>
-    </ul>
-</details>
-<details>
-    <summary>200ms</summary>
-    <ul>
-        <li>Sussela</li>
-        <li>Muwhaha</li>
-        <li>Reniki</li>
-        <li>Raizer</li>
-    </ul>
-</details>
+|  Game  | Team Name | Penalty | Reason                |
+|:-------|:----------|:--------|:----------------------| 
+|  |  |  |  |
 
+# **Lobby 2 Leaderboard**
 
-<br>
+### Games Played = 5
 
+|  Rank  | Team Name             | Total Kill | **Points** |
+|:-------|:----------------------|:-----------|:-----------|
+| #**1** | **Bike** | 56 | **77** | 
+| #**2** | **TomCats** | 46 | **60** | 
+| #**3** | **WingTomZai** | 41 | **56** | 
+| #**4** | **FuffyToast** | 40 | **56** | 
+| #**5** | TheSunKing | 26 | 34 | 
+| #**6** | OlderMen | 22 | 27 | 
+| #**7** | GG | 8 | 11 | 
+| #**8** | 200ms | 3 | 6 | 
+ 
+
+## Penalty Log Lobby 2 Qualifiers
+
+|  Game  | Team Name | Penalty | Reason                |
+|:-------|:----------|:--------|:----------------------| 
+|  |  |  |  |
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

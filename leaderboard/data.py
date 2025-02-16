@@ -68,3 +68,11 @@ class DataTeam:
     def get_by_index(self, index, column):
         row = self.df.iloc[index - 1 : index]
         return row[column].values[0]
+
+
+class DataPenalty:
+    def __init__(self, game: int, team_name: str, penalty: int, reason: str):
+        self.game = str(game)
+        self.team_name = team_name
+        self.penalty = str(penalty)
+        self.reason = reason

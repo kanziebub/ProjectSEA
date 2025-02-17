@@ -1,5 +1,5 @@
 import os
-from utils import read_yaml
+from util.utils import read_yaml
 
 
 class Config:

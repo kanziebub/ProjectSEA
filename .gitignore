@@ -4,4 +4,4 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 
-leaderboard/__pycache__/
+__pycache__/

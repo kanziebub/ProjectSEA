@@ -2,7 +2,7 @@ from data import DataTeam
 from config import Config
 from page import Page
 from datetime import datetime
-from utils import (
+from util.team_utils import (
     create_registration_content,
     create_registration_image,
     create_registered_teams,
@@ -10,7 +10,7 @@ from utils import (
 )
 
 
-def main():
+def main(registration_title_content: str, registration_image_content: str):
     init_config = Config("config.yaml")
 
     config = init_config.config
@@ -31,7 +31,8 @@ def main():
 """
 
     registration_content = (
-        create_registration_header_content()
+        registration_title_content
+        + registration_image_content
         + lobby_content
         + create_registered_teams(data, config["team_sheet_total_teams"])
     )
@@ -39,20 +40,29 @@ def main():
     page.set_page(registration_content)
 
 
-def create_registration_header_content():
-    registration_title_content = create_registration_content(
-        title="ER Project:SEA S2 Registered Teams",
-        date=datetime(year=2025, month=2, day=12, hour=13),
-    )
-    # WARNING: xss and css attack may happened if it's publicly exposed
-    registration_image_content = create_registration_image(
-        src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png",
-        alt="S2OpenReg",
-        style="max-height: 350px;",
-    )
-
-    return registration_title_content + registration_image_content
-
-
 if __name__ == "__main__":
-    main()
+    registration_title = "ER Project:SEA S2 Registered Teams"
+    registration_date = datetime(
+        year=2025,
+        month=2,
+        day=12,
+        hour=13,
+    )
+
+    registration_title_content = create_registration_content(
+        title=registration_title,
+        date=registration_date,
+    )
+
+    # WARNING: xss and css attack may happened if it's publicly exposed
+    image_source = "https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png"
+    image_alt = "S2OpenReg"
+    image_style = "max-height: 350px;"
+
+    registration_image_content = create_registration_image(
+        src=image_source,
+        alt=image_alt,
+        style=image_style,
+    )
+
+    main(registration_title_content, registration_image_content)

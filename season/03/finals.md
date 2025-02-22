@@ -6,25 +6,26 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **Bike** | 13 | **20** | False | 
-| #**2** | **FuffyToast** | 9 | **13** | False | 
-| #**3** | **Reverie** | 6 | **8** | False | 
-| #**4** | VisCa | 5 | 8 | False | 
-| #**5** | CEPU | 4 | 5 | False | 
-| #**6** | WingTomZai | 4 | 4 | False | 
-| #**7** | Forsen | 3 | 3 | False | 
-| #**8** | TomCats | 2 | 1 | False | 
+| #**1** | **FuffyToast** | 25 | **36** | False | 
+| #**2** | **Bike** | 17 | **24** | False | 
+| #**3** | **TomCats** | 20 | **21** | False | 
+| #**4** | Reverie | 14 | 16 | False | 
+| #**5** | Forsen | 10 | 14 | False | 
+| #**6** | CEPU | 10 | 13 | False | 
+| #**7** | VisCa | 9 | 12 | False | 
+| #**8** | WingTomZai | 5 | 6 | False | 
  
 
 ## Penalty Log Qualifiers
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 
-|  1  |  TomCats  |  -1  |  Explode on Restricted Area (クゥニ)  |
+|  1  |  TomCats  |  -1  |  Explode in Restricted Area (クゥニ)  |
+|  2  |  CEPU  |  -1  |  Explode in Restricted Area (CEPUーLuminears)  |
 
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

@@ -11,6 +11,7 @@ layout: default
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
 ## ProjectSEA S3
+- [Finals Leaderboard](./season/03/finals.md)
 - [Registered Teams](./season/03/teams.md)
 - [Qualifiers Leaderboard](./season/03/qualifiers.md)
 

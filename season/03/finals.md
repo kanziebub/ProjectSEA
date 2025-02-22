@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **FuffyToast** | 36 | **51** | False | 
-| #**2** | **Bike** | 31 | **45** | False | 
-| #**3** | **TomCats** | 25 | **26** | False | 
-| #**4** | Forsen | 18 | 23 | False | 
-| #**5** | Reverie | 19 | 21 | False | 
-| #**6** | VisCa | 14 | 19 | False | 
-| #**7** | CEPU | 13 | 16 | False | 
-| #**8** | WingTomZai | 9 | 13 | False | 
+| #**1** | **FuffyToast** | 45 | **62** | True | 
+| #**2** | **Bike** | 39 | **56** | True | 
+| #**3** | **Forsen** | 31 | **43** | False | 
+| #**4** | TomCats | 29 | 31 | False | 
+| #**5** | VisCa | 18 | 27 | False | 
+| #**6** | Reverie | 22 | 24 | False | 
+| #**7** | CEPU | 15 | 18 | False | 
+| #**8** | WingTomZai | 10 | 14 | False | 
  
 
 ## Penalty Log Qualifiers

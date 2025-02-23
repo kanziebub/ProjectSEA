@@ -10,10 +10,14 @@ layout: default
 - [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
 
+## ProjectSEA S3: Invitational
+- [Teams](./season/03/invitational/teams.md)
+- [Leaderboard](./season/03/invitational/score.md)
+
 ## ProjectSEA S3
-- [Finals Leaderboard](./season/03/finals.md)
 - [Registered Teams](./season/03/teams.md)
 - [Qualifiers Leaderboard](./season/03/qualifiers.md)
+- [Finals Leaderboard](./season/03/finals.md)
 
 <p align="center">
   <img 

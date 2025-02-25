@@ -14,6 +14,13 @@ layout: default
 - [Teams](./season/03/invitational/teams.md)
 - [Leaderboard](./season/03/invitational/score.md)
 
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_INV_Banner.png" 
+    alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
+    style="max-height: 400px;">
+</p>
+
 ## ProjectSEA S3
 - [Registered Teams](./season/03/teams.md)
 - [Qualifiers Leaderboard](./season/03/qualifiers.md)

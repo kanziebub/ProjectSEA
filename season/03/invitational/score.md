@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FuffyToast** | 14 | **21** | 
-| #**2** | **CEPU** | 12 | **16** | 
-| #**3** | **ALTF4** | 11 | **11** | 
-| #**4** | meow | 8 | 8 | 
-| #**5** | DoroLeni | 4 | 7 | 
-| #**6** | Forsen | 4 | 6 | 
-| #**7** | OlderMen | 2 | 3 | 
-| #**8** | WAWYZAR | 2 | 2 | 
+| #**1** | **FuffyToast** | 26 | **40** | 
+| #**2** | **CEPU** | 26 | **33** | 
+| #**3** | **ALTF4** | 22 | **26** | 
+| #**4** | meow | 15 | 15 | 
+| #**5** | Forsen | 11 | 15 | 
+| #**6** | DoroLeni | 10 | 14 | 
+| #**7** | OlderMen | 4 | 5 | 
+| #**8** | WAWYZAR | 4 | 4 | 
  
 
 ## Penalty Log 

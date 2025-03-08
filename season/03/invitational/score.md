@@ -6,25 +6,25 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FuffyToast** | 39 | **57** | 
-| #**2** | **CEPU** | 40 | **50** | 
-| #**3** | **Forsen** | 25 | **36** | 
-| #**4** | ALTF4 | 28 | 34 | 
-| #**5** | meow | 17 | 17 | 
-| #**6** | DoroLeni | 11 | 16 | 
-| #**7** | OlderMen | 6 | 7 | 
-| #**8** | WAWYZAR | 4 | 4 | 
+| #**1** | **FuffyToast** | 53 | **75** | 
+| #**2** | **CEPU** | 45 | **55** | 
+| #**3** | **Forsen** | 36 | **54** | 
+| #**4** | ALTF4 | 37 | 44 | 
+| #**5** | meow | 23 | 26 | 
+| #**6** | DoroLeni | 13 | 18 | 
+| #**7** | OlderMen | 11 | 13 | 
+| #**8** | WAWYZAR | 5 | 5 | 
  
 
 ## Penalty Log 
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 
-|    |    |    |    |
+|  3  |  ALTF4  |  -1  |  Changed Weapon (Rivulose)  |
 
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

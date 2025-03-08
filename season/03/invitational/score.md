@@ -6,17 +6,17 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 4
+### Games Played = 5
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FuffyToast** | 53 | **75** | 
-| #**2** | **CEPU** | 45 | **55** | 
-| #**3** | **Forsen** | 36 | **54** | 
-| #**4** | ALTF4 | 37 | 44 | 
-| #**5** | meow | 23 | 26 | 
-| #**6** | DoroLeni | 13 | 18 | 
-| #**7** | OlderMen | 11 | 13 | 
+| #**1** | **FuffyToast** | 59 | **82** | 
+| #**2** | **Forsen** | 46 | **71** | 
+| #**3** | **CEPU** | 51 | **63** | 
+| #**4** | ALTF4 | 49 | 60 | 
+| #**5** | OlderMen | 27 | 32 | 
+| #**6** | meow | 28 | 31 | 
+| #**7** | DoroLeni | 17 | 22 | 
 | #**8** | WAWYZAR | 5 | 5 | 
  
 

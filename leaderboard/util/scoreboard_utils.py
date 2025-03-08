@@ -15,6 +15,7 @@ def create_scoreboard(
     lobby_number = ""
     is_multiple = True if config["team_sheet_lobby_gid"] else False
     total_lobby, teams = get_total_lobby_and_teams(data_team, config, is_multiple)
+    tourney_type = ""
 
     leaderboard = ""
     for i in range(total_lobby):
@@ -33,8 +34,8 @@ def create_scoreboard(
         leaderboard += f"""
 # **{lobby_number}Leaderboard**
 
-{create_leaderboard_table(dt, total_teams, with_cp=with_cp)} 
-{create_penalty_table(f"""{lobby_number}Qualifiers""")} 
+{create_leaderboard_table(dt, total_teams, with_cp=with_cp, rank_highlight_count=config['rank_highlight_count'])} 
+{create_penalty_table(f"""{lobby_number}{tourney_type}""")} 
 {add_penalties(penalty_list, team_list, is_multiple)}
 """
     return leaderboard
@@ -59,7 +60,9 @@ def get_total_lobby_and_teams(data_team: DataTeam, config: Config, is_multiple: 
     return total_lobby, teams
 
 
-def create_leaderboard_table(df: Data, teams: int, with_cp: bool = False):
+def create_leaderboard_table(
+    df: Data, teams: int, with_cp: bool = False, rank_highlight_count: int = 3
+):
     leaderboard_md = f"### Games Played = {check_int(df.get_games_played())}\n"
 
     lbtable = (
@@ -76,12 +79,14 @@ def create_leaderboard_table(df: Data, teams: int, with_cp: bool = False):
 
     rows = ""
     for i in range(teams):
-        rows += get_data_by_rank(df, i + 1, with_cp)
+        rows += get_data_by_rank(df, i + 1, with_cp, rank_highlight_count)
 
     return leaderboard_md + lbtable + rows
 
 
-def get_data_by_rank(df: Data, rank, with_cp=False):
+def get_data_by_rank(
+    df: Data, rank, with_cp: bool = False, rank_highlight_count: int = 3
+):
     team = df.get_by_rank(rank, "Name")
     kill = df.get_by_rank(rank, "Total Team Kill")
     poin = df.get_by_rank(rank, "Total Point")
@@ -89,7 +94,7 @@ def get_data_by_rank(df: Data, rank, with_cp=False):
         chkp = True if (poin >= 55) else False
 
         row = ""
-        if rank == 1 or rank == 2 or rank == 3:
+        if rank <= rank_highlight_count:
             row += (
                 "| #**"
                 + str(rank)
@@ -120,7 +125,7 @@ def get_data_by_rank(df: Data, rank, with_cp=False):
         return row
     else:
         row = ""
-        if rank == 1 or rank == 2 or rank == 3 or rank == 4:
+        if rank <= rank_highlight_count:
             row += (
                 "| #**"
                 + str(rank)

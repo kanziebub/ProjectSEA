@@ -1,13 +1,14 @@
 # Used for Generating Scoreboard
-sheetID: "1sCSIA9MPjYXYB8DLqbfDjo02c55sgs195eSvxd2MHQI"
+sheetID: "1AE7OcXbmKITjk80L5deReX8231wMbNYOuDBDpcCl6-s"
 sheetName: "PSEA"
-page_filepath: "../season/03/finals.md"
-checkpoint: 1
+page_filepath: "../season/03/invitational/score.md"
+checkpoint: 0
 teams: 8
+rank_highlight_count: 3
 
 # Used for Generating Team and/or Lobby
-team_sheet_id: "1VEN9iFx8N_ZZFTAyc2snPNg3bPYEVZLWP3ToZ_puZAM"
+team_sheet_id: "1acPVA3CWWBCA93sWAe8uB15ywphGdkbLtoI8B5Ji_3M"
 team_sheet_name: "TeamForm"
-team_sheet_total_teams: 16
+team_sheet_total_teams: 8
 team_sheet_lobby_gid: "" # leave empty if doesn't need multiple lobby
-team_sheet_file_path: "../season/03/test.md"
+team_sheet_file_path: "../season/03/invitational/test.md"

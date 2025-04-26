@@ -34,7 +34,7 @@ class Data:
             "Unnamed: 8": "Games Played",
         }
 
-        df = pd.read_csv(self.url, encoding="latin")
+        df = pd.read_csv(self.url, encoding="utf-8")
         df = df.iloc[1 : teams + 1, 1:9]
         df.rename(columns=columns, inplace=True)
         return df

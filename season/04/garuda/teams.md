@@ -4,15 +4,15 @@ layout: default
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
-# **ERID: Garuda Registered Teams**
+# **ERID: GARUDA PROTOCOL Registered Teams**
 Registration opens 2025-04-14 08:00:00 UTC+0700
 
 
 <p align="center">
   <img 
-    src=https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png 
-    alt=GarudaReg
-    style=max-height: 350px;>
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/temp.png"
+    alt="GarudaReg"
+    style="max-height: 350px;">
 </p>
 <details>
     <summary>AiScReam</summary>

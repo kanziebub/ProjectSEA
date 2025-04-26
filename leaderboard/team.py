@@ -55,7 +55,7 @@ if __name__ == "__main__":
     )
 
     # WARNING: xss and css attack may happened if it's publicly exposed
-    image_source = "https://kanziebub.github.io/ProjectSEA/assets/images/temp.png"
+    image_source = "https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S4_Garuda_Banner.jpg"
     image_alt = "GarudaReg"
     image_style = "max-height: 350px;"
 

@@ -10,7 +10,7 @@ Registration opens 2025-04-14 08:00:00 UTC+0700
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/temp.png"
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S4_Garuda_Banner.jpg"
     alt="GarudaReg"
     style="max-height: 350px;">
 </p>

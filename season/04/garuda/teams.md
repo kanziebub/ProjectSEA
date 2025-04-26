@@ -4,7 +4,7 @@ layout: default
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)
 
-# **ERID: GARUDA PROTOCOL Registered Teams**
+# **ERID: Garuda Protocol Registered Teams**
 Registration opens 2025-04-14 08:00:00 UTC+0700
 
 

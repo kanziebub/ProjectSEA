@@ -41,7 +41,7 @@ def main(registration_title_content: str, registration_image_content: str):
 
 
 if __name__ == "__main__":
-    registration_title = "ERID: GARUDA PROTOCOL Registered Teams"
+    registration_title = "ERID: Garuda Protocol Registered Teams"
     registration_date = datetime(
         year=2025,
         month=4,

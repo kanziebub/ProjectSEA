@@ -35,7 +35,7 @@ Registration opens 2025-04-14 08:00:00 UTC+0700
     <ul>
         <li>CEPUーLuminears</li>
         <li>CEPUーValsh</li>
-        <li>Mizyx</li>
+        <li>CEPUーKiyotaka</li>
     </ul>
 </details>
 <details>

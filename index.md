@@ -6,6 +6,9 @@ layout: default
 
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
+## GARUDA PROTOCOL
+- [Registered Teams](./season/04/garuda/teams.md)
+
 ## Statistics
 - [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
 - [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)

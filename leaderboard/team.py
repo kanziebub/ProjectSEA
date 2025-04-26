@@ -41,12 +41,12 @@ def main(registration_title_content: str, registration_image_content: str):
 
 
 if __name__ == "__main__":
-    registration_title = "ER Project:SEA S2 Registered Teams"
+    registration_title = "ERID: GARUDA PROTOCOL Registered Teams"
     registration_date = datetime(
         year=2025,
-        month=2,
-        day=12,
-        hour=13,
+        month=4,
+        day=14,
+        hour=8,
     )
 
     registration_title_content = create_registration_content(
@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
     # WARNING: xss and css attack may happened if it's publicly exposed
     image_source = "https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_OpenRegis.png"
-    image_alt = "S2OpenReg"
+    image_alt = "GarudaReg"
     image_style = "max-height: 350px;"
 
     registration_image_content = create_registration_image(

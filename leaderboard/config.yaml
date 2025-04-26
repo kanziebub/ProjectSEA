@@ -7,8 +7,8 @@ teams: 8
 rank_highlight_count: 3
 
 # Used for Generating Team and/or Lobby
-team_sheet_id: "1acPVA3CWWBCA93sWAe8uB15ywphGdkbLtoI8B5Ji_3M"
+team_sheet_id: "14ZJRhONL8_4quj4rv764Uyl3KVVr1h9Q53BljQ1xhL8"
 team_sheet_name: "TeamForm"
 team_sheet_total_teams: 8
 team_sheet_lobby_gid: "" # leave empty if doesn't need multiple lobby
-team_sheet_file_path: "../season/03/invitational/test.md"
+team_sheet_file_path: "../season/04/garuda/teams.md"

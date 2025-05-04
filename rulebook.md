@@ -71,8 +71,10 @@ The player must own a Steam account to participate in the tournament. If the ass
 Registering a subtitute player is **optional**. A team can still replace any member at most before the tournament briefing ends (usually 2 days before the tournament starts) by reporting to the tournament organizers (preferrably to Zibub). 
 
 ### Substitution Rules
+
 - A substitute may only be swapped in once every 2 rounds.
 - Once a substitute enters the team lineup, they must play two consecutive rounds before any further substitution is allowed.
+
 > An example team of **A, B, C (main) + D (sub)**
 > - Round 1: A, B, C
 > - Round 2: A, B, D (D replaces C)

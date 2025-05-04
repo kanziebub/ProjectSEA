@@ -13,19 +13,19 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 
 |  Rank  | Points |
 |:-------|:-------|
-| #**1** |   7   | 
-| #**2** |   4   | 
-| #**3** |   3   | 
-| #**4** |   2   | 
-| #**5** |   1   | 
-| #**6** |   0   | 
-| #**7** |   0   | 
+| #**1** |   10   | 
+| #**2** |   7    | 
+| #**3** |   5   | 
+| #**4** |   4   | 
+| #**5** |   3   | 
+| #**6** |   2   | 
+| #**7** |   1   | 
 | #**8** |   0   | 
 | Escape |   0   | 
 
+*   1 Field Kill (day 1) = 0.5 Point
 *   1 Field Kill = 1 Point
-*   Battle Zone Kill = 0 Point
-*   Penalty = -1 Points
+*   Penalty = -1 Point
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 1 Points will be deducted from that Player’s Round Point total. 
 >
@@ -121,13 +121,15 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 ## Multi Pick Ban Rule
 
-This rule restricts any character to be played for the next round for all teams. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next round.**.
+This rule restricts any character to be played for the next x amount of rounds for all teams based on the pick frequency of that character in the current round. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next round.**.
+
+|  Pick Frequency  | Ban Duration |
+|:-----------------|:-------------|
+|        3         | Next Round   | 
+|        4         | Next 2 Rounds| 
+|        5+        | Next 3 Rounds| 
 
 > If a character is picked after it is restricted, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-3 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
-
-### Season 2 Qualifiers Ban Rule
-
-Across all three lobbies, if a character is used by at least 6 people for qualifiers and 4 people for wildcards (in total from all lobbies), that character will be banned the next round (for one round, all lobbies).
 
 ## Unfair Play
 

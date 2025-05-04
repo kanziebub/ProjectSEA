@@ -26,6 +26,7 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 *   1 Field Kill (day 1) = 0.5 Point
 *   1 Field Kill = 1 Point
 *   Penalty = -1 Point
+*   Checkpoint = 70 Points
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 1 Points will be deducted from that Player’s Round Point total. 
 >
@@ -68,6 +69,14 @@ The player must own a Steam account to participate in the tournament. If the ass
 ## Substitute Players
 
 Registering a subtitute player is **optional**. A team can still replace any member at most before the tournament briefing ends (usually 2 days before the tournament starts) by reporting to the tournament organizers (preferrably to Zibub). 
+
+### Substitution Rules
+- A substitute may only be swapped in once every 2 rounds.
+- Once a substitute enters the team lineup, they must play two consecutive rounds before any further substitution is allowed.
+> An example team of **A, B, C (main) + D (sub)**
+> - Round 1: A, B, C
+> - Round 2: A, B, D (D replaces C)
+> - Round 3: A, B, D (D must continue)
 
 ### Incomplete Teams
 If afterwards any team member is unable to play during the tournament and no substitute was registered:
@@ -121,7 +130,7 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 ## Multi Pick Ban Rule
 
-This rule restricts any character to be played for the next x amount of rounds for all teams based on the pick frequency of that character in the current round. If a character has been pick by 3 or more players, **all participants is no longer allowed to pick that character for the next round.**.
+This rule restricts the use of characters in upcoming rounds based on how frequently they are picked in the current round. If a character is picked by 3 or more players, that character becomes temporarily **banned for all teams** for a certain number of rounds, as outlined below:
 
 |  Pick Frequency  | Ban Duration |
 |:-----------------|:-------------|
@@ -129,7 +138,7 @@ This rule restricts any character to be played for the next x amount of rounds f
 |        4         | Next 2 Rounds| 
 |        5+        | Next 3 Rounds| 
 
-> If a character is picked after it is restricted, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-3 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
+> If a character is picked after it is restricted, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-3 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see [**Penalty Limit**](https://kanziebub.github.io/ProjectSEA/rulebook.html#penalty-limit) for details).
 
 ## Unfair Play
 

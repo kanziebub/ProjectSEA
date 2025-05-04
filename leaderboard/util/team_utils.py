@@ -22,9 +22,9 @@ def create_registration_image(src: str, alt: str, style: str = "max-height: 350p
     return f"""
 <p align="center">
   <img 
-    src={src} 
-    alt={alt}
-    style={style}>
+    src="{src}"
+    alt="{alt}"
+    style="{style}">
 </p>
 """
 

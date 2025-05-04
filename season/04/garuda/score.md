@@ -10,21 +10,21 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FuffyToast** | 59 | **82** | 
-| #**2** | **Forsen** | 46 | **71** | 
-| #**3** | **CEPU** | 51 | **63** | 
-| #**4** | ALTF4 | 49 | 60 | 
-| #**5** | OlderMen | 27 | 32 | 
-| #**6** | meow | 28 | 31 | 
-| #**7** | DoroLeni | 17 | 22 | 
-| #**8** | WAWYZAR | 5 | 5 | 
+| #**1** | **AiScReam** | 80 | **112** | 
+| #**2** | **Lapis** | 61 | **73** | 
+| #**3** | **μ's** | 41 | **57** | 
+| #**4** | miRiNG | 40 | 46 | 
+| #**5** | CEPU | 32 | 40 | 
+| #**6** | Potato | 37 | 39 | 
+| #**7** | tts | 31 | 39 | 
+| #**8** | FISH | 8 | 9 | 
  
 
 ## Penalty Log 
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------| 
-|  3  |  ALTF4  |  -1  |  Changed Weapon (Rivulose)  |
+|    |    |    |    |
 
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

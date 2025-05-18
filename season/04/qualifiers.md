@@ -12,16 +12,16 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Forsen** | 45 | **61** | 
+| #**1** | **Forsen** | 56 | **80** | 
 | #**2** | **Bike** | 42 | **53** | 
-| #**3** | **CEPU** | 24 | **35** | 
-| #**4** | **DoroNation** | 22 | **31** | 
-| #**5** | No.1 | 24 | 29 | 
-| #**6** | Penro King | 22 | 29 | 
-| #**7** | NoTimeTo11 | 25 | 23 | 
+| #**3** | **Penro King** | 36 | **48** | 
+| #**4** | **CEPU** | 31 | **45** | 
+| #**5** | No.1 | 35 | 38 | 
+| #**6** | DoroNation | 28 | 35 | 
+| #**7** | NoTimeTo11 | 32 | 34 | 
 | #**8** | FISH | 15 | 22 | 
-| #**9** | Startend | 13 | 10 | 
-| #**10** | MiraiS | 9 | 10 | 
+| #**9** | MiraiS | 18 | 19 | 
+| #**10** | Startend | 23 | 15 | 
 
 ## Penalty Log - Lobby A
 
@@ -33,19 +33,19 @@ layout: default
 
 # **Qualifiers Lobby B**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 | #**1** | **RainyChisu** | 50 | **65** | 
-| #**2** | **TimBaru** | 28 | **35** | 
-| #**3** | **KiKii** | 24 | **33** | 
-| #**4** | **Oreo** | 22 | **23** | 
-| #**5** | BedKomachi | 21 | 23 | 
-| #**6** | AiScReam | 17 | 19 | 
-| #**7** | Survival | 16 | 17 | 
-| #**8** | WashUnited | 10 | 11 | 
-| #**9** | PrPainter | 7 | 11 | 
+| #**2** | **TimBaru** | 39 | **44** | 
+| #**3** | **Oreo** | 34 | **41** | 
+| #**4** | **KiKii** | 30 | **40** | 
+| #**5** | BedKomachi | 33 | 36 | 
+| #**6** | PrPainter | 19 | 30 | 
+| #**7** | AiScReam | 24 | 29 | 
+| #**8** | Survival | 23 | 20 | 
+| #**9** | WashUnited | 10 | 12 | 
 | #**10** | Hiw Hiw | 6 | 10 | 
 
 ## Penalty Log - Lobby B

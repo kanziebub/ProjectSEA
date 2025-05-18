@@ -33,19 +33,19 @@ layout: default
 
 # **Qualifiers Lobby B**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 | #**1** | **RainyChisu** | 50 | **65** | 
-| #**2** | **TimBaru** | 28 | **35** | 
-| #**3** | **KiKii** | 24 | **33** | 
-| #**4** | **Oreo** | 22 | **23** | 
-| #**5** | BedKomachi | 21 | 23 | 
-| #**6** | AiScReam | 17 | 19 | 
-| #**7** | Survival | 16 | 17 | 
-| #**8** | WashUnited | 10 | 11 | 
-| #**9** | PrPainter | 7 | 11 | 
+| #**2** | **TimBaru** | 39 | **44** | 
+| #**3** | **Oreo** | 34 | **41** | 
+| #**4** | **KiKii** | 30 | **40** | 
+| #**5** | BedKomachi | 33 | 36 | 
+| #**6** | PrPainter | 19 | 30 | 
+| #**7** | AiScReam | 24 | 29 | 
+| #**8** | Survival | 23 | 20 | 
+| #**9** | WashUnited | 10 | 12 | 
 | #**10** | Hiw Hiw | 6 | 10 | 
 
 ## Penalty Log - Lobby B

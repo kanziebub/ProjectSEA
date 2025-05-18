@@ -208,6 +208,8 @@ def get_custom_information_bracket1():
 |          | DoroNation     | Oreo            |
 |          | Startend       | TimBaru         |
 |          | NoTimeTo11     | Prophet Painter |
+||||
+
 \n
 """)
 
@@ -291,7 +293,6 @@ def double():
 
 """ + set_leaderboard(df_B, 10) 
     + get_penalty_table("- Lobby B") 
-    + set_penalty("W02", "Sakau.", "-1", "Onryou Non-Player Death")  
     + " \n \n")
 
     page_md = (get_header() 

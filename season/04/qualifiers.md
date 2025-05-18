@@ -8,19 +8,19 @@ layout: default
 
 # **Qualifiers Lobby A**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Bike** | 0 | **0** | 
-| #**2** | **Forsen** | 0 | **0** | 
-| #**3** | **CEPU** | 0 | **0** | 
-| #**4** | **No.1** | 0 | **0** | 
-| #**5** | Penro King | 0 | 0 | 
-| #**6** | FISH | 0 | 0 | 
-| #**7** | MiraiS | 0 | 0 | 
-| #**8** | DoroNation | 0 | 0 | 
-| #**9** | Startend | 0 | 0 | 
+| #**1** | **Bike** | 16 | **23** | 
+| #**2** | **No.1** | 13 | **15** | 
+| #**3** | **Forsen** | 10 | **13** | 
+| #**4** | **CEPU** | 6 | **10** | 
+| #**5** | DoroNation | 3 | 5 | 
+| #**6** | Startend | 4 | 4 | 
+| #**7** | FISH | 2 | 3 | 
+| #**8** | MiraiS | 1 | 0 | 
+| #**9** | Penro King | 0 | 0 | 
 | #**10** | NoTimeTo11 | 0 | 0 | 
 
 ## Penalty Log - Lobby A
@@ -52,7 +52,6 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-| W02 | Sakau. | -1 | Onryou Non-Player Death | 
  
  
 
@@ -101,8 +100,7 @@ layout: default
 |          | DoroNation     | Oreo            |
 |          | Startend       | TimBaru         |
 |          | NoTimeTo11     | Prophet Painter |
-
-
+||||
 
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

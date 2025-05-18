@@ -166,6 +166,7 @@ def get_custom_information_bracket1():
 """
 \n
 # Qualifiers Bracket
+
 | Round    | Lobby A        | Lobby B         |
 |----------|----------------|-----------------|
 | Round 1  | Bike           | BedKomachi      |
@@ -210,35 +211,6 @@ def get_custom_information_bracket1():
 |          | NoTimeTo11     | Prophet Painter |
 \n
 """)
-
-def get_custom_information_bracket2():
-    return (
-"""
-\n
-### Wildcard Bracket
-- Group 2.1
-  - JELEE
-  - Sakau.
-  - Tasogare
-  - WoodVeneer
-- Group 2.2
-  - WingTomZai
-  - AllRole
-  - TamGiac
-  - BanaNutmi
-- Group 2.3
-  - Eclair
-  - Mango
-  - OneTrick
-  - Old People
-\n
-```
-- Round 1: Group 2.1 + Group 2.2
-- Round 2: Group 2.2 + Group 2.3
-- Round 3: Group 2.1 + Group 2.3
-```
-\n
-""")
 # =====================================================
 
 def write_page(target, page_md):
@@ -271,7 +243,7 @@ def single():
 def double():
     target = "./season/04/qualifiers.md"
     sheetA = "1CQXdXDB-GXjHtS6JIJdd7w-MQu_N53aqz9lfedA_lIo"
-    sheetB = "1IfYkHAMiRINNgTlbXYE9pcEaesL-61j4QmUGXdlHdwI"
+    sheetB = "1DStFu5dzrK1Z53VBjE9FGirj7DxOjgBvxoudkUR7rXA"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -291,7 +263,7 @@ def double():
 
 """ + set_leaderboard(df_B, 10) 
     + get_penalty_table("- Lobby B") 
-    + set_penalty("W02", "Sakau.", "-1", "Onryou Non-Player Death")  
+    + penalty_placeholder
     + " \n \n")
 
     page_md = (get_header() 

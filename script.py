@@ -243,7 +243,7 @@ def single():
 def double():
     target = "./season/04/qualifiers.md"
     sheetA = "1CQXdXDB-GXjHtS6JIJdd7w-MQu_N53aqz9lfedA_lIo"
-    sheetB = "1IfYkHAMiRINNgTlbXYE9pcEaesL-61j4QmUGXdlHdwI"
+    sheetB = "1DStFu5dzrK1Z53VBjE9FGirj7DxOjgBvxoudkUR7rXA"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 

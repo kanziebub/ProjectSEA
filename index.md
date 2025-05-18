@@ -6,11 +6,16 @@ layout: default
 
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
+## ProjectSEA S4
+- [Registered Teams](./season/04/teams.md)
+- [Qualifiers Leaderboard](./season/04/qualifiers.md)
 
-## Statistics
-- [S1 Winners: Galvanized](./statistics/01/Galvanized.md)
-- [S2 Winners: GodTnsh](./statistics/02/GodTnsh.md)
-- [S3 Winners: Bike](./statistics/03/Bike.md)
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/PSEA_4_v2.png" 
+    alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
+    style="max-height: 400px;">
+</p>
 
 ## ProjectSEA S3: Invitational
 - [Teams](./season/03/invitational/teams.md)

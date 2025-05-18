@@ -165,39 +165,49 @@ def get_custom_information_bracket1():
     return (
 """
 \n
-### Qualifiers Bracket
-- Group 1.1
-  - CEPU
-  - Mango
-  - Sakau
-  - TamGiac
-- Group 1.2
-  - OneTrick
-  - BanaNutmi
-  - WoodVeneer
-  - ICLP
-- Group 1.3
-  - WingTomZai
-  - Tasogare
-  - OldPeople
-  - Eclair
-- Group 1.4
-  - Jelee
-  - Any
-  - AllRole
-  - Galvanized
-\n
-```
-- Round 1 
-  - Lobby A: Group 1.1 + Group 1.2
-  - Lobby B: Group 1.3 + Group 1.4
-- Round 2
-  - Lobby A: Group 1.1 + Group 1.3
-  - Lobby B: Group 1.2 + Group 1.4
-- Round 3 
-  - Lobby A: Group 1.1 + Group 1.4
-  - Lobby B: Group 1.2 + Group 1.3
-```
+# Qualifiers Bracket
+| Round    | Lobby A        | Lobby B         |
+|----------|----------------|-----------------|
+| Round 1  | Bike           | BedKomachi      |
+|          | Forsen         | RainyChisu      |
+|          | CEPU           | Survival        |
+|          | No.1           | KiKii           |
+|          | FISH           | AiScReam        |
+|          | MiraiS         | HiwHiw          |
+|          | DoroNation     | Oreo            |
+|          | Startend       | TimBaru         |
+| Round 2  | Bike           | BedKomachi      |
+|          | Forsen         | RainyChisu      |
+|          | CEPU           | Survival        |
+|          | PenroKing      | WashUnited      |
+|          | FISH           | AiScReam        |
+|          | MiraiS         | HiwHiw          |
+|          | DoroNation     | Oreo            |
+|          | NoTimeTo11     | Prophet Painter |
+| Round 3  | Bike           | BedKomachi      |
+|          | Forsen         | RainyChisu      |
+|          | No.1           | KiKii           |
+|          | PenroKing      | WashUnited      |
+|          | FISH           | AiScReam        |
+|          | MiraiS         | HiwHiw          |
+|          | Startend       | TimBaru         |
+|          | NoTimeTo11     | Prophet Painter |
+| Round 4  | Bike           | BedKomachi      |
+|          | CEPU           | Survival        |
+|          | No.1           | KiKii           |
+|          | PenroKing      | WashUnited      |
+|          | FISH           | AiScReam        |
+|          | DoroNation     | Oreo            |
+|          | Startend       | TimBaru         |
+|          | NoTimeTo11     | Prophet Painter |
+| Round 5  | Forsen         | RainyChisu      |
+|          | CEPU           | Survival        |
+|          | No.1           | KiKii           |
+|          | PenroKing      | WashUnited      |
+|          | MiraiS         | HiwHiw          |
+|          | DoroNation     | Oreo            |
+|          | Startend       | TimBaru         |
+|          | NoTimeTo11     | Prophet Painter |
 \n
 """)
 
@@ -259,9 +269,9 @@ def single():
     write_page(target, page_md)
     
 def double():
-    target = "./season/01/qualifiers.md"
-    sheetA = "12pQ9xl-9M7xOaBndxB8c8cWKKmNO1ARbesSdr7XhR-0"
-    sheetB = "1qBjW7yDDAU9_Ea9UzL2wWdp64aNjDnTDxj1PUgrCQgE"
+    target = "./season/04/qualifiers.md"
+    sheetA = "1CQXdXDB-GXjHtS6JIJdd7w-MQu_N53aqz9lfedA_lIo"
+    sheetB = "1IfYkHAMiRINNgTlbXYE9pcEaesL-61j4QmUGXdlHdwI"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -269,30 +279,29 @@ def double():
     df_B = set_df(sheetB, sheetName, 'carrot')
 
     leaderboard_A = ("""
-# **Qualifiers Leaderboard**
+# **Qualifiers Lobby A**
 
-""" + set_leaderboard(df_A, 16) 
-    + get_penalty_table("- Qualifiers") 
+""" + set_leaderboard(df_A, 10) 
+    + get_penalty_table("- Lobby A") 
     + penalty_placeholder
     # + set_penalty("", "", "", "") 
     + " \n \n")
     leaderboard_B = ("""
-# **Wildcard Leaderboard**
+# **Qualifiers Lobby B**
 
-""" + set_leaderboard(df_B, 12) 
-    + get_penalty_table("- Wildcard") 
+""" + set_leaderboard(df_B, 10) 
+    + get_penalty_table("- Lobby B") 
     + set_penalty("W02", "Sakau.", "-1", "Onryou Non-Player Death")  
     + " \n \n")
 
     page_md = (get_header() 
                + leaderboard_A
-               + get_custom_information_bracket1()
                + leaderboard_B
-               + get_custom_information_bracket2()
+               + get_custom_information_bracket1()
                + get_footer())
     write_page(target, page_md)
 
 def main():
-    single()
+    double()
 
 main()

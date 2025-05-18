@@ -8,20 +8,20 @@ layout: default
 
 # **Qualifiers Lobby A**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 | #**1** | **Forsen** | 45 | **61** | 
-| #**2** | **Bike** | 38 | **51** | 
-| #**3** | **No.1** | 20 | **24** | 
-| #**4** | **DoroNation** | 11 | **19** | 
-| #**5** | NoTimeTo11 | 18 | 17 | 
-| #**6** | CEPU | 10 | 17 | 
-| #**7** | FISH | 12 | 16 | 
-| #**8** | MiraiS | 9 | 10 | 
-| #**9** | Startend | 7 | 6 | 
-| #**10** | Penro King | 6 | 4 | 
+| #**2** | **Bike** | 42 | **53** | 
+| #**3** | **CEPU** | 24 | **35** | 
+| #**4** | **DoroNation** | 22 | **31** | 
+| #**5** | No.1 | 24 | 29 | 
+| #**6** | Penro King | 22 | 29 | 
+| #**7** | NoTimeTo11 | 25 | 23 | 
+| #**8** | FISH | 15 | 22 | 
+| #**9** | Startend | 13 | 10 | 
+| #**10** | MiraiS | 9 | 10 | 
 
 ## Penalty Log - Lobby A
 

@@ -166,6 +166,7 @@ def get_custom_information_bracket1():
 """
 \n
 # Qualifiers Bracket
+
 | Round    | Lobby A        | Lobby B         |
 |----------|----------------|-----------------|
 | Round 1  | Bike           | BedKomachi      |
@@ -208,8 +209,6 @@ def get_custom_information_bracket1():
 |          | DoroNation     | Oreo            |
 |          | Startend       | TimBaru         |
 |          | NoTimeTo11     | Prophet Painter |
-||||
-
 \n
 """)
 

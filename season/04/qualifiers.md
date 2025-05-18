@@ -58,6 +58,7 @@ layout: default
 
 
 # Qualifiers Bracket
+
 | Round    | Lobby A        | Lobby B         |
 |----------|----------------|-----------------|
 | Round 1  | Bike           | BedKomachi      |
@@ -100,7 +101,8 @@ layout: default
 |          | DoroNation     | Oreo            |
 |          | Startend       | TimBaru         |
 |          | NoTimeTo11     | Prophet Painter |
-||||
+
+
 
 
 [ ![Logo](https://kanziebub.github.io/ProjectSEA/assets/images/bullet_rev.png) Home](https://kanziebub.github.io/ProjectSEA/)

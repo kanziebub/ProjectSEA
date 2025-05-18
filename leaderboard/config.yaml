@@ -1,14 +1,16 @@
 # Used for Generating Scoreboard
-sheetID: "1TfIvBdoOkrUVlOuZPy7FMqwqK6SEu_BKthKmDfi1pbc"
+# sheetID: "1CQXdXDB-GXjHtS6JIJdd7w-MQu_N53aqz9lfedA_lIo"
+sheetID: "1DStFu5dzrK1Z53VBjE9FGirj7DxOjgBvxoudkUR7rXA"
 sheetName: "PSEA"
-page_filepath: "../season/04/garuda/score.md"
+page_filepath: "../season/04/qualifiers.md"
 checkpoint: 0
-teams: 8
-rank_highlight_count: 3
+teams: 10
+rank_highlight_count: 5
 
 # Used for Generating Team and/or Lobby
-team_sheet_id: "14ZJRhONL8_4quj4rv764Uyl3KVVr1h9Q53BljQ1xhL8"
+team_sheet_id: "1Kako9sV8s_pJdB65FqiaqerOSmg-FUSa9oJbaE-_N3A"
 team_sheet_name: "TeamForm"
-team_sheet_total_teams: 8
+# team_sheet_total_teams: 8
+team_sheet_total_teams: 20
 team_sheet_lobby_gid: "" # leave empty if doesn't need multiple lobby
-team_sheet_file_path: "../season/04/garuda/teams.md"
+team_sheet_file_path: "../season/04/teams.md"

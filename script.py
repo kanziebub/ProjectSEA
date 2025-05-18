@@ -211,35 +211,6 @@ def get_custom_information_bracket1():
 |          | NoTimeTo11     | Prophet Painter |
 \n
 """)
-
-def get_custom_information_bracket2():
-    return (
-"""
-\n
-### Wildcard Bracket
-- Group 2.1
-  - JELEE
-  - Sakau.
-  - Tasogare
-  - WoodVeneer
-- Group 2.2
-  - WingTomZai
-  - AllRole
-  - TamGiac
-  - BanaNutmi
-- Group 2.3
-  - Eclair
-  - Mango
-  - OneTrick
-  - Old People
-\n
-```
-- Round 1: Group 2.1 + Group 2.2
-- Round 2: Group 2.2 + Group 2.3
-- Round 3: Group 2.1 + Group 2.3
-```
-\n
-""")
 # =====================================================
 
 def write_page(target, page_md):
@@ -292,6 +263,7 @@ def double():
 
 """ + set_leaderboard(df_B, 10) 
     + get_penalty_table("- Lobby B") 
+    + penalty_placeholder
     + " \n \n")
 
     page_md = (get_header() 

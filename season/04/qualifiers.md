@@ -8,7 +8,7 @@ layout: default
 
 # **Qualifiers Lobby A**
 
-### Games Played = 4
+### Games Played = 5
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|

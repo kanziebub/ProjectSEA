@@ -7,8 +7,8 @@ layout: default
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
 ## ProjectSEA S4
-- [Registered Teams](./season/04/teams.md)
 - [Qualifiers Leaderboard](./season/04/qualifiers.md)
+- [Finals Leaderboard](./season/04/finals.md)
 
 <p align="center">
   <img 

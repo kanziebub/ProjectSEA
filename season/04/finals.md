@@ -8,18 +8,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 4
+### Games Played = 5
 
 |  Rank  | Team Name             | Total Kill | **Points** | CP |
 |:-------|:----------------------|:-----------|:-----------|:---|
-| #**1** | **PenroKing** | 49 | **59** | False | 
-| #**2** | **Forsen** | 43 | **59** | False | 
-| #**3** | **RainyChisu** | 45 | **58** | False | 
-| #**4** | Prophet Painter | 33 | 41 | False | 
-| #**5** | Oreo | 23 | 33 | False | 
-| #**6** | Bike | 33 | 30 | False | 
-| #**7** | CEPU | 26 | 28 | False | 
-| #**8** | No.1 | 22 | 17 | False | 
+| #**1** | **Forsen** | 57 | **80** | True | 
+| #**2** | **RainyChisu** | 53 | **72** | True | 
+| #**3** | **PenroKing** | 55 | **62** | False | 
+| #**4** | Oreo | 33 | 46 | False | 
+| #**5** | Prophet Painter | 35 | 44 | False | 
+| #**6** | CEPU | 31 | 35 | False | 
+| #**7** | Bike | 38 | 34 | False | 
+| #**8** | No.1 | 25 | 23 | False | 
 
 ## Penalty Log 
 

@@ -108,7 +108,7 @@ def get_data_by_rank_with_cp(df, rank):
     kill = get_by_rank(df, rank, "Total Team Kill")
     poin = get_by_rank(df, rank, "Total Point")
     chkp = False
-    if (poin >= 55):
+    if (poin >= 70):
         chkp = True
         
     row = ""
@@ -218,8 +218,8 @@ def write_page(target, page_md):
         f.write(page_md)
        
 def single():
-    target = "./season/01/finals.md"
-    sheetID = "12IX3jYPzORS5A4eP1woG89AKcAJM3BYFaV5VvyN5PK4"
+    target = "./season/04/finals.md"
+    sheetID = "1PeX2FPc6PH2HK4lFRGut0DRBsw3BSI_uv05ZeymAi28"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -274,6 +274,6 @@ def double():
     write_page(target, page_md)
 
 def main():
-    double()
+    single()
 
 main()

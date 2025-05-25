@@ -232,6 +232,7 @@ def single():
     + get_penalty_table("") 
     + penalty_placeholder
     # + set_penalty("a", "a", "aa", "otp") 
+    + set_penalty("1", "Bike", "-1", "Chinmi (William died outside of the zone.)") 
     + " \n \n")
 
     page_md = (  get_header() 

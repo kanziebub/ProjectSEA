@@ -18,7 +18,7 @@ layout: default
 | #**4** | CEPU | 0 | 0 | False | 
 | #**5** | RainyChisu | 0 | 0 | False | 
 | #**6** | Oreo | 0 | 0 | False | 
-| #**7** | KiKii | 0 | 0 | False | 
+| #**7** | No.1 | 0 | 0 | False | 
 | #**8** | PrPainter | 0 | 0 | False | 
 
 ## Penalty Log 

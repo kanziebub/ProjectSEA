@@ -6,6 +6,17 @@ layout: default
 
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
+## ProjectSEA S3: Invitational
+- [Teams](./season/04/invitational/teams.md)
+- [Leaderboard](./season/04/invitational/score.md)
+
+<p align="center">
+  <img 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S4_INV_Banner.png" 
+    alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
+    style="max-height: 400px;">
+</p>
+
 ## ProjectSEA S4
 - [Qualifiers Leaderboard](./season/04/qualifiers.md)
 - [Finals Leaderboard](./season/04/finals.md)

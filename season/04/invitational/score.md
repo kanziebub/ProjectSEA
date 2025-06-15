@@ -10,14 +10,14 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **ð®ð© Forsen** | 0 | **0** | 
-| #**2** | **ðµð­ RainyChisu** | 0 | **0** | 
-| #**3** | **ð¸ð¬ TheGoonWay** | 0 | **0** | 
-| #**4** | **ð¹ð­ WingTomZai** | 0 | **0** | 
-| #**5** | ð»ð³ BIKE | 0 | 0 | 
-| #**6** | ð»ð³ PenroKing | 0 | 0 | 
-| #**7** | ð OldChamp | 0 | 0 | 
-| #**8** | ð Avantgarde | 0 | 0 | 
+| #**1** | **Forsen** | 0 | **0** | 
+| #**2** | **RainyChisu** | 0 | **0** | 
+| #**3** | **TheGoonWay** | 0 | **0** | 
+| #**4** | **WingTomZai** | 0 | **0** | 
+| #**5** | BIKE | 0 | 0 | 
+| #**6** | PenroKing | 0 | 0 | 
+| #**7** | OldChamp | 0 | 0 | 
+| #**8** | Avantgarde | 0 | 0 | 
  
 
 ## Penalty Log Qualifiers

@@ -9,6 +9,9 @@ def read_yaml(filepath):
     return data
 
 def check_int(value):
+    return 0 if math.isnan(value) else int(value)
+
+def check_float(value):
     return 0 if math.isnan(value) else float(value)
 
 def check_str(value):
@@ -61,15 +64,15 @@ def get_data_by_rank(df: Data, rank, with_cp=False):
             
         row = ""
         if (rank==1 or rank==2 or rank==3):
-            row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_int(kill))+ " | **" +str(check_int(poin))+ "** | " +str(chkp)+ " | \n"
+            row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_float(kill))+ " | **" +str(check_float(poin))+ "** | " +str(chkp)+ " | \n"
         else:
-            row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_int(kill))+ " | " +str(check_int(poin))+ " | " +str(chkp)+" | \n"
+            row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_float(kill))+ " | " +str(check_float(poin))+ " | " +str(chkp)+" | \n"
         return row
     else:
         row = ""
         if (rank==1 or rank==2 or rank==3 or rank==4):
-            row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_int(kill))+ " | **" +str(check_int(poin))+ "** | \n"
+            row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(check_float(kill))+ " | **" +str(check_float(poin))+ "** | \n"
         else:
-            row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_int(kill))+ " | " +str(check_int(poin))+ " | \n"
+            row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(check_float(kill))+ " | " +str(check_float(poin))+ " | \n"
         return row
     

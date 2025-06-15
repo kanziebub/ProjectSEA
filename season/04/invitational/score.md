@@ -6,17 +6,17 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Avantgarde** | 27 | **38** | 
-| #**2** | **Forsen** | 21 | **33** | 
-| #**3** | **RainyChisu** | 25 | **24** | 
-| #**4** | **TheGoonWay** | 13 | **19** | 
-| #**5** | WingTomZai | 9 | 17 | 
-| #**6** | OldChamp | 11 | 10 | 
-| #**7** | BIKE | 7 | 7 | 
+| #**1** | **Avantgarde** | 35 | **49** | 
+| #**2** | **Forsen** | 31 | **41** | 
+| #**3** | **WingTomZai** | 18 | **36** | 
+| #**4** | **RainyChisu** | 32 | **33** | 
+| #**5** | OldChamp | 27 | 29 | 
+| #**6** | TheGoonWay | 17 | 22 | 
+| #**7** | BIKE | 13 | 14 | 
 | #**8** | PenroKing | 0 | 0 | 
  
 

@@ -9,7 +9,7 @@ layout: default
 
 <p align="center">
   <img 
-    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S3_INV_Banner2.png" 
+    src="https://kanziebub.github.io/ProjectSEA/assets/images/ProjectSEA_S4_INV_Banner2.png" 
     alt="Eternal Return Southeast Asia SEA LIVE on Twitch" 
     style="max-height: 400px;">
 </p>

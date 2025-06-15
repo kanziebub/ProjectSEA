@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Forsen** | 0 | **0** | 
-| #**2** | **RainyChisu** | 0 | **0** | 
-| #**3** | **TheGoonWay** | 0 | **0** | 
-| #**4** | **WingTomZai** | 0 | **0** | 
-| #**5** | BIKE | 0 | 0 | 
-| #**6** | PenroKing | 0 | 0 | 
-| #**7** | OldChamp | 0 | 0 | 
-| #**8** | Avantgarde | 0 | 0 | 
+| #**1** | **Forsen** | 16 | **22** | 
+| #**2** | **Avantgarde** | 12 | **15** | 
+| #**3** | **WingTomZai** | 8 | **13** | 
+| #**4** | **TheGoonWay** | 5 | **8** | 
+| #**5** | BIKE | 5 | 5 | 
+| #**6** | RainyChisu | 8 | 5 | 
+| #**7** | OldChamp | 2 | 3 | 
+| #**8** | PenroKing | 0 | 0 | 
  
 
 ## Penalty Log Qualifiers

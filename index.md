@@ -6,7 +6,7 @@ layout: default
 
 > This is the official page for Southeast Asia Eternal Return tournaments where you can find information on upcoming tournaments and see tournament results.
 
-## ProjectSEA S3: Invitational
+## ProjectSEA S4: Invitational
 - [Teams](./season/04/invitational/teams.md)
 - [Leaderboard](./season/04/invitational/score.md)
 

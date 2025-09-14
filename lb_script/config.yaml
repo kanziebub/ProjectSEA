@@ -1,14 +1,6 @@
 
 # https://docs.google.com/spreadsheets/d/1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA/edit?usp=sharing
 
-# sheetID: "1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA"
-# sheetName: "PSEA"
-# page_filepath: "../sea_fun_format/0925/score.md"
-# checkpoint: 0
-# teams: 8
-
-# lobby: 1
-
 sheetID: "1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA"
 sheetName: "PSEA"
 page_filepath: "../sea_fun_format/0925/score.md"
@@ -35,3 +27,10 @@ lobby2:
 - aigooo
 - ZibubsMyWife
 
+# sheetID: "1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA"
+# sheetName: "PSEA"
+# page_filepath: "../sea_fun_format/0925/score.md"
+# checkpoint: 0
+# teams: 8
+
+# lobby: 1

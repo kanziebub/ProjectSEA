@@ -1,27 +1,37 @@
 
-sheetID: "1IExwAjBweKnrwu-VPavz7mJg7xwlG4BK8qjggF4j5z0"
-sheetName: "PSEA"
-page_filepath: "../season/04/invitational/score.md"
-checkpoint: 0
-teams: 8
+# https://docs.google.com/spreadsheets/d/1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA/edit?usp=sharing
 
-lobby: 1
+# sheetID: "1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA"
+# sheetName: "PSEA"
+# page_filepath: "../sea_fun_format/0925/score.md"
+# checkpoint: 0
+# teams: 8
+
+# lobby: 1
+
+sheetID: "1K3jKsSzjc1ssmJVFDPFlOqAoxAOJiLGslJ51yH9TajA"
+sheetName: "PSEA"
+page_filepath: "../sea_fun_format/0925/score.md"
+checkpoint: 0
+teams: 16
+
+lobby: 2
 lobby1:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- RainyChisu
+- SungJinWoo 
+- Lapis
+- Minor 
+- FISH
+- Still In Love
+- Adogna
+- BuffTacArmor
 lobby2:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- GyooOF
+- WingTomZai
+- Oreo
+- KingTangDoge
+- Dentge
+- CEPU 
+- aigooo
+- ZibubsMyWife
 

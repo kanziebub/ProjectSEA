@@ -6,17 +6,17 @@ layout: default
 
 # **Lobby 1 Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **RainyChisu** | 0.0 | **0.0** | 
-| #**2** | **SungJinWoo** | 0.0 | **0.0** | 
-| #**3** | **Lapis** | 0.0 | **0.0** | 
-| #**4** | **Minor** | 0.0 | **0.0** | 
-| #**5** | FISH | 0.0 | 0.0 | 
-| #**6** | Still In Love | 0.0 | 0.0 | 
-| #**7** | Adogna | 0.0 | 0.0 | 
+| #**1** | **Adogna** | 11.0 | **18.0** | 
+| #**2** | **RainyChisu** | 19.0 | **17.5** | 
+| #**3** | **FISH** | 6.0 | **10.0** | 
+| #**4** | **Minor** | 10.0 | **9.5** | 
+| #**5** | Lapis | 6.0 | 7.0 | 
+| #**6** | Still In Love | 7.0 | 6.5 | 
+| #**7** | SungJinWoo | 0.0 | 0.0 | 
 | #**8** | BuffTacArmor | 0.0 | 0.0 | 
  
 
@@ -28,18 +28,18 @@ layout: default
 
 # **Lobby 2 Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **GyooOF** | 0.0 | **0.0** | 
-| #**2** | **WingTomZai** | 0.0 | **0.0** | 
-| #**3** | **Oreo** | 0.0 | **0.0** | 
-| #**4** | **KingTangDoge** | 0.0 | **0.0** | 
-| #**5** | Dentge | 0.0 | 0.0 | 
-| #**6** | CEPU | 0.0 | 0.0 | 
-| #**7** | aigooo | 0.0 | 0.0 | 
-| #**8** | ZibubsMyWife | 0.0 | 0.0 | 
+| #**1** | **ZibubsMyWife** | 20.0 | **28.0** | 
+| #**2** | **GyooOF** | 18.0 | **25.5** | 
+| #**3** | **aigooo** | 8.0 | **14.5** | 
+| #**4** | **CEPU** | 14.0 | **13.5** | 
+| #**5** | Dentge | 11.0 | 13.5 | 
+| #**6** | Oreo | 9.0 | 12.0 | 
+| #**7** | WingTomZai | 5.0 | 7.5 | 
+| #**8** | KingTangDoge | 2.0 | 2.5 | 
  
 
 ## Penalty Log - Lobby 2 Qualifiers

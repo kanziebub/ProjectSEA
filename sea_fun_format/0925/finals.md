@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **RainyChisu** | 16.0 | **24.5** | 
-| #**2** | **Oreo** | 14.0 | **22.5** | 
-| #**3** | **GyooOF** | 18.0 | **18.0** | 
-| #**4** | **aigooo** | 9.0 | **10.5** | 
-| #**5** | Adogna | 8.0 | 10.5 | 
-| #**6** | Minor | 7.0 | 9.0 | 
-| #**7** | WingTomZai | 10.0 | 5.0 | 
-| #**8** | Still In Love | 2.0 | 3.0 | 
+| #**1** | **aigooo** | 28.0 | **35.5** | 
+| #**2** | **Oreo** | 26.0 | **35.0** | 
+| #**3** | **GyooOF** | 28.0 | **33.0** | 
+| #**4** | **RainyChisu** | 21.0 | **30.0** | 
+| #**5** | WingTomZai | 24.0 | 21.0 | 
+| #**6** | Adogna | 11.0 | 13.0 | 
+| #**7** | Minor | 8.0 | 9.5 | 
+| #**8** | Still In Love | 6.0 | 7.0 | 
  
 
 ## Penalty Log Qualifiers

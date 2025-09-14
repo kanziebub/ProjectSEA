@@ -93,7 +93,8 @@ layout: default
 
 ### 14 September 2025
 - [Registered Teams](./sea_fun_format/0925/teams.md)
-- [Leaderboard](./sea_fun_format/0925/score.md)
+- [Qualifiers Leaderboard](./sea_fun_format/0925/score.md)
+- [Finals Leaderboard](./sea_fun_format/0925/finals.md)
 
 ### 14 December 2024
 - [Registered Teams](./scrim/20241214/teams.md)
